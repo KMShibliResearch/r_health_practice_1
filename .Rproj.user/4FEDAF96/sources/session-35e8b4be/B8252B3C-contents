@@ -1,0 +1,26 @@
+# 2.1 concept: object
+cases <- 45
+population <- 12000
+incidence_per_1000 <- (cases/population)*1000
+incidence_per_1000
+
+# 2.2 concept: data types
+age <- 34.5          # type: numeric
+district <- "Dhaka"  # type: character
+vaccinated <- TRUE   # type: logical
+
+# type testing
+class(age)
+class(district)
+class(vaccinated)
+
+# 2.3 example: BOdy Mass Index(BMI) calculation
+weight_in_kg <- 70
+height_in_m <- 1.75
+bmi <- weight_in_kg/height_in_m^2
+bmi
+
+round(bmi, 1)       # round bmi up to 1 decimal
+
+# 2.4 concept: vectors
+ages <- c(5, 12, 34, 67, 45)
