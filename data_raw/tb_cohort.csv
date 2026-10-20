@@ -1,0 +1,601 @@
+patient_id,age,sex,hiv,malnourished,smear_pos,regimen,bmi_baseline,followup_days,unfavourable,enrol_date
+1,34,Male,Negative,Yes,No,Standard 6-month,14.6,303,Censored,2023-11-17
+2,58,Female,Negative,No,Yes,New 4-month,23.3,288,Censored,2023-02-13
+3,29,Male,Negative,No,Yes,Standard 6-month,15.2,278,Censored,2023-10-13
+4,34,Female,Negative,No,No,Standard 6-month,20.9,160,Censored,2023-11-15
+5,46,Female,Negative,No,Yes,Standard 6-month,17.5,301,Censored,2023-07-28
+6,30,Male,Positive,No,No,New 4-month,17.9,281,Censored,2023-06-14
+7,23,Female,Negative,Yes,Yes,New 4-month,16.4,353,Censored,2023-10-09
+8,37,Female,Negative,No,No,New 4-month,20.7,282,Censored,2023-12-10
+9,37,Male,Negative,No,No,Standard 6-month,20.5,170,Censored,2023-02-21
+10,23,Male,Negative,Yes,Yes,New 4-month,16.9,178,Censored,2023-07-08
+11,44,Female,Negative,Yes,No,New 4-month,15.8,231,Censored,2023-08-01
+12,80,Male,Negative,Yes,Yes,Standard 6-month,23.2,145,Unfavourable outcome,2023-11-04
+13,27,Male,Positive,No,Yes,New 4-month,20.9,105,Unfavourable outcome,2023-12-17
+14,57,Female,Negative,Yes,No,New 4-month,12.8,260,Censored,2023-01-15
+15,33,Female,Negative,No,No,New 4-month,24.3,161,Censored,2023-03-16
+16,45,Female,Negative,No,No,Standard 6-month,22.3,341,Censored,2023-05-17
+17,22,Male,Positive,No,Yes,New 4-month,20.5,336,Censored,2023-02-19
+18,39,Male,Negative,Yes,Yes,New 4-month,18.7,233,Censored,2023-03-08
+19,40,Female,Negative,No,No,New 4-month,12.0,350,Censored,2023-06-04
+20,40,Male,Negative,No,Yes,Standard 6-month,20.8,235,Censored,2023-07-16
+21,42,Male,Positive,No,No,New 4-month,19.6,287,Censored,2023-09-02
+22,49,Male,Negative,No,No,Standard 6-month,19.8,345,Censored,2023-08-01
+23,37,Male,Negative,Yes,Yes,Standard 6-month,16.5,354,Censored,2023-03-20
+24,48,Male,Negative,No,No,New 4-month,17.7,308,Censored,2023-04-19
+25,38,Male,Negative,Yes,No,New 4-month,15.7,360,Censored,2023-05-16
+26,37,Male,Negative,No,Yes,New 4-month,16.7,272,Censored,2023-09-27
+27,27,Female,Negative,No,Yes,Standard 6-month,21.1,252,Censored,2023-06-16
+28,41,Male,Negative,No,Yes,Standard 6-month,15.3,345,Censored,2023-06-25
+29,55,Female,Negative,Yes,Yes,Standard 6-month,19.7,45,Unfavourable outcome,2023-01-06
+30,37,Male,Negative,Yes,No,New 4-month,14.1,228,Censored,2023-08-07
+31,17,Male,Negative,No,Yes,Standard 6-month,18.9,268,Censored,2023-04-27
+32,40,Female,Negative,No,Yes,Standard 6-month,19.8,249,Censored,2023-02-04
+33,48,Male,Negative,Yes,No,New 4-month,21.9,342,Unfavourable outcome,2023-09-06
+34,36,Female,Negative,No,Yes,New 4-month,23.9,262,Censored,2023-01-20
+35,23,Male,Negative,No,No,New 4-month,18.0,349,Censored,2023-12-09
+36,32,Male,Negative,No,No,New 4-month,13.7,318,Censored,2023-12-05
+37,66,Male,Positive,Yes,Yes,New 4-month,18.3,53,Unfavourable outcome,2023-03-16
+38,41,Male,Positive,No,No,New 4-month,20.9,326,Censored,2023-09-26
+39,32,Male,Positive,No,Yes,New 4-month,18.0,83,Unfavourable outcome,2023-04-24
+40,48,Female,Negative,No,Yes,Standard 6-month,19.2,264,Censored,2023-08-03
+41,50,Male,Negative,No,Yes,New 4-month,17.0,157,Censored,2023-06-18
+42,54,Female,Positive,No,Yes,Standard 6-month,20.2,204,Unfavourable outcome,2023-04-05
+43,46,Male,Negative,No,Yes,Standard 6-month,16.5,247,Censored,2023-03-23
+44,27,Male,Negative,No,Yes,Standard 6-month,16.5,165,Censored,2023-01-11
+45,56,Female,Positive,No,Yes,Standard 6-month,18.6,257,Censored,2023-11-07
+46,37,Male,Positive,No,Yes,New 4-month,17.8,198,Censored,2023-08-12
+47,34,Male,Negative,No,No,Standard 6-month,19.7,269,Censored,2023-12-29
+48,33,Male,Negative,No,No,Standard 6-month,23.5,213,Censored,2023-06-03
+49,39,Female,Negative,No,Yes,New 4-month,15.2,341,Censored,2023-08-08
+50,44,Male,Negative,Yes,Yes,Standard 6-month,19.7,169,Censored,2023-05-31
+51,50,Female,Negative,No,Yes,New 4-month,15.4,324,Censored,2023-03-27
+52,15,Male,Negative,Yes,Yes,Standard 6-month,13.0,283,Censored,2023-03-17
+53,29,Male,Negative,No,No,New 4-month,18.8,360,Censored,2023-10-26
+54,28,Male,Negative,No,Yes,Standard 6-month,17.6,168,Censored,2023-10-21
+55,33,Male,Negative,No,Yes,New 4-month,14.6,156,Censored,2023-01-23
+56,41,Female,Negative,Yes,No,Standard 6-month,20.7,180,Censored,2023-09-01
+57,65,Male,Negative,Yes,Yes,Standard 6-month,18.6,200,Unfavourable outcome,2023-02-19
+58,35,Male,Negative,Yes,Yes,Standard 6-month,20.5,163,Censored,2023-05-13
+59,17,Male,Negative,Yes,Yes,New 4-month,19.1,189,Censored,2023-01-21
+60,36,Female,Negative,No,Yes,New 4-month,26.1,227,Censored,2023-01-12
+61,35,Male,Negative,No,Yes,Standard 6-month,22.3,335,Censored,2023-11-25
+62,15,Male,Negative,Yes,Yes,New 4-month,17.5,284,Censored,2023-05-05
+63,23,Female,Negative,No,Yes,Standard 6-month,15.6,237,Censored,2023-02-08
+64,43,Female,Negative,Yes,No,Standard 6-month,16.7,238,Censored,2023-09-29
+65,48,Male,Negative,Yes,Yes,New 4-month,14.3,357,Censored,2023-03-02
+66,35,Male,Positive,No,No,New 4-month,16.6,262,Censored,2023-05-11
+67,31,Male,Positive,Yes,No,Standard 6-month,18.1,347,Censored,2023-12-21
+68,17,Female,Negative,Yes,Yes,Standard 6-month,17.1,262,Censored,2023-04-19
+69,47,Male,Negative,Yes,Yes,New 4-month,14.9,318,Censored,2023-08-06
+70,30,Male,Negative,No,Yes,Standard 6-month,16.4,247,Censored,2023-07-02
+71,23,Male,Negative,No,No,New 4-month,18.8,333,Censored,2023-03-23
+72,26,Male,Positive,No,Yes,Standard 6-month,21.7,188,Censored,2023-06-26
+73,31,Female,Negative,No,Yes,New 4-month,21.7,201,Censored,2023-08-20
+74,40,Male,Negative,No,No,Standard 6-month,19.0,359,Censored,2023-12-29
+75,62,Male,Positive,Yes,No,New 4-month,18.4,249,Censored,2023-07-24
+76,59,Male,Negative,No,Yes,New 4-month,15.4,217,Censored,2023-05-10
+77,15,Male,Negative,No,Yes,New 4-month,19.8,224,Censored,2023-07-09
+78,48,Female,Negative,No,No,New 4-month,22.0,324,Censored,2023-01-27
+79,35,Male,Negative,No,No,New 4-month,16.0,365,Censored,2023-05-29
+80,38,Male,Negative,Yes,No,New 4-month,19.2,215,Censored,2023-06-26
+81,53,Female,Negative,No,No,Standard 6-month,20.7,217,Censored,2023-05-26
+82,30,Male,Negative,No,Yes,New 4-month,16.6,290,Censored,2023-02-06
+83,54,Female,Negative,Yes,Yes,New 4-month,13.7,198,Censored,2023-05-07
+84,51,Female,Negative,No,Yes,Standard 6-month,23.2,77,Unfavourable outcome,2023-08-23
+85,40,Female,Negative,Yes,Yes,New 4-month,21.7,303,Censored,2023-09-28
+86,44,Male,Negative,Yes,No,New 4-month,14.0,322,Censored,2023-11-15
+87,40,Female,Negative,Yes,Yes,Standard 6-month,14.0,314,Censored,2023-12-22
+88,22,Male,Negative,Yes,Yes,New 4-month,21.1,333,Censored,2023-05-01
+89,51,Female,Negative,No,No,New 4-month,23.2,239,Censored,2023-04-12
+90,32,Male,Negative,No,Yes,New 4-month,24.7,226,Censored,2023-01-15
+91,48,Female,Negative,Yes,Yes,New 4-month,22.6,289,Censored,2023-10-27
+92,15,Male,Negative,Yes,Yes,Standard 6-month,19.5,272,Censored,2023-05-07
+93,27,Female,Negative,No,No,Standard 6-month,18.8,336,Censored,2023-08-21
+94,45,Female,Negative,Yes,No,Standard 6-month,22.7,68,Unfavourable outcome,2023-03-10
+95,61,Female,Negative,No,Yes,Standard 6-month,19.9,254,Censored,2023-05-06
+96,34,Female,Positive,No,Yes,New 4-month,22.7,287,Censored,2023-05-13
+97,28,Male,Negative,Yes,No,Standard 6-month,17.5,187,Censored,2023-04-19
+98,32,Male,Negative,No,Yes,New 4-month,18.4,254,Censored,2023-09-05
+99,55,Female,Negative,No,Yes,Standard 6-month,17.0,365,Censored,2023-03-21
+100,16,Female,Negative,No,Yes,New 4-month,16.6,257,Censored,2023-09-16
+101,37,Male,Negative,No,Yes,Standard 6-month,20.3,167,Censored,2023-07-23
+102,36,Male,Negative,No,No,New 4-month,17.8,348,Censored,2023-08-24
+103,28,Female,Negative,Yes,No,New 4-month,14.2,308,Censored,2023-03-08
+104,31,Female,Positive,Yes,Yes,New 4-month,22.8,194,Censored,2023-06-04
+105,67,Female,Negative,No,No,New 4-month,21.2,317,Censored,2023-08-08
+106,20,Female,Positive,No,Yes,New 4-month,15.2,259,Censored,2023-02-25
+107,68,Female,Negative,Yes,Yes,New 4-month,20.8,275,Censored,2023-05-31
+108,25,Male,Negative,Yes,No,Standard 6-month,17.8,345,Censored,2023-07-24
+109,18,Male,Negative,No,Yes,New 4-month,17.8,210,Censored,2023-11-04
+110,33,Male,Negative,No,No,New 4-month,17.6,187,Censored,2023-11-16
+111,44,Male,Negative,No,Yes,Standard 6-month,21.3,150,Censored,2023-09-25
+112,19,Male,Negative,No,No,Standard 6-month,21.6,324,Censored,2023-04-14
+113,44,Male,Negative,No,Yes,New 4-month,20.8,155,Censored,2023-09-04
+114,80,Female,Negative,No,Yes,Standard 6-month,23.4,188,Censored,2023-02-16
+115,34,Male,Negative,Yes,Yes,New 4-month,17.3,106,Unfavourable outcome,2023-06-24
+116,34,Female,Positive,Yes,No,Standard 6-month,13.7,133,Unfavourable outcome,2023-09-25
+117,24,Male,Negative,No,Yes,Standard 6-month,18.1,263,Censored,2023-01-11
+118,37,Male,Negative,Yes,No,Standard 6-month,19.1,295,Censored,2023-07-29
+119,24,Male,Negative,No,No,Standard 6-month,19.0,185,Censored,2023-02-26
+120,49,Female,Negative,No,No,New 4-month,18.6,172,Censored,2023-12-16
+121,24,Female,Negative,No,No,Standard 6-month,24.6,309,Censored,2023-01-14
+122,36,Female,Negative,Yes,Yes,New 4-month,16.5,178,Censored,2023-01-23
+123,36,Female,Negative,Yes,No,Standard 6-month,18.5,362,Censored,2023-03-30
+124,20,Female,Negative,No,Yes,Standard 6-month,15.9,190,Censored,2023-12-09
+125,45,Female,Negative,Yes,Yes,Standard 6-month,19.7,318,Censored,2023-01-04
+126,36,Male,Negative,No,Yes,New 4-month,20.1,325,Censored,2023-12-05
+127,55,Male,Positive,Yes,No,Standard 6-month,20.2,223,Unfavourable outcome,2023-01-09
+128,43,Male,Negative,No,Yes,Standard 6-month,18.4,277,Censored,2023-06-17
+129,39,Female,Negative,No,Yes,New 4-month,26.0,352,Censored,2023-11-26
+130,50,Male,Negative,No,Yes,Standard 6-month,22.9,111,Unfavourable outcome,2023-06-29
+131,20,Male,Negative,No,Yes,New 4-month,16.7,311,Censored,2023-11-10
+132,23,Female,Negative,Yes,Yes,Standard 6-month,16.9,160,Censored,2023-10-28
+133,68,Male,Negative,Yes,No,New 4-month,18.7,204,Censored,2023-09-20
+134,47,Male,Negative,Yes,Yes,Standard 6-month,14.3,264,Censored,2023-07-18
+135,38,Male,Negative,No,Yes,New 4-month,18.5,131,Unfavourable outcome,2023-12-06
+136,22,Male,Negative,No,No,Standard 6-month,21.4,321,Censored,2023-04-25
+137,21,Male,Positive,Yes,No,Standard 6-month,23.8,251,Censored,2023-01-21
+138,24,Female,Negative,No,Yes,Standard 6-month,19.7,278,Unfavourable outcome,2023-11-12
+139,47,Male,Negative,No,Yes,Standard 6-month,16.2,115,Unfavourable outcome,2023-09-30
+140,38,Female,Negative,No,Yes,Standard 6-month,18.5,321,Censored,2023-08-01
+141,15,Female,Negative,No,Yes,Standard 6-month,18.4,247,Censored,2023-05-10
+142,15,Male,Negative,No,Yes,Standard 6-month,18.0,183,Censored,2023-09-23
+143,60,Female,Negative,No,Yes,Standard 6-month,21.4,236,Unfavourable outcome,2023-10-31
+144,27,Female,Negative,Yes,Yes,Standard 6-month,21.6,162,Censored,2023-06-25
+145,32,Male,Negative,Yes,Yes,New 4-month,21.2,207,Censored,2023-06-01
+146,48,Male,Negative,No,Yes,Standard 6-month,20.0,179,Censored,2023-11-18
+147,57,Male,Negative,No,No,Standard 6-month,17.8,331,Censored,2023-09-17
+148,15,Male,Negative,No,Yes,Standard 6-month,17.7,296,Censored,2023-02-03
+149,32,Male,Negative,Yes,Yes,Standard 6-month,18.6,238,Unfavourable outcome,2023-12-16
+150,53,Male,Negative,Yes,Yes,Standard 6-month,16.8,129,Unfavourable outcome,2023-01-28
+151,55,Male,Negative,No,No,New 4-month,18.8,216,Censored,2023-05-07
+152,55,Male,Negative,Yes,No,Standard 6-month,21.3,48,Unfavourable outcome,2023-03-26
+153,15,Male,Negative,Yes,Yes,New 4-month,14.1,233,Censored,2023-01-10
+154,32,Male,Negative,No,No,New 4-month,25.2,7,Unfavourable outcome,2023-03-03
+155,44,Male,Negative,Yes,Yes,New 4-month,19.8,287,Censored,2023-06-26
+156,42,Female,Negative,No,Yes,New 4-month,23.3,177,Censored,2023-11-13
+157,44,Male,Negative,No,Yes,Standard 6-month,16.1,227,Censored,2023-06-02
+158,25,Male,Negative,No,No,Standard 6-month,20.0,277,Censored,2023-04-29
+159,41,Female,Negative,Yes,Yes,New 4-month,16.3,335,Censored,2023-06-05
+160,50,Male,Negative,No,No,Standard 6-month,19.5,211,Censored,2023-07-01
+161,50,Male,Negative,Yes,Yes,Standard 6-month,17.9,167,Censored,2023-01-09
+162,15,Female,Negative,No,No,Standard 6-month,16.7,192,Censored,2023-12-12
+163,50,Male,Negative,No,Yes,New 4-month,16.9,299,Censored,2023-11-16
+164,49,Male,Negative,No,Yes,New 4-month,16.5,285,Censored,2023-04-16
+165,33,Female,Negative,Yes,Yes,New 4-month,17.2,327,Censored,2023-12-26
+166,47,Male,Negative,No,Yes,New 4-month,22.2,303,Censored,2023-04-05
+167,39,Male,Negative,No,Yes,New 4-month,20.5,317,Censored,2023-03-02
+168,47,Female,Negative,No,Yes,Standard 6-month,22.9,244,Censored,2023-07-05
+169,15,Male,Negative,Yes,Yes,Standard 6-month,19.8,129,Unfavourable outcome,2023-08-03
+170,49,Female,Negative,No,No,Standard 6-month,18.0,312,Censored,2023-01-23
+171,58,Male,Negative,No,Yes,New 4-month,21.3,328,Censored,2023-10-27
+172,51,Female,Negative,No,Yes,New 4-month,19.1,188,Censored,2023-01-14
+173,33,Female,Negative,No,Yes,New 4-month,21.3,201,Censored,2023-10-29
+174,39,Female,Negative,No,Yes,Standard 6-month,21.2,155,Censored,2023-11-30
+175,41,Male,Negative,Yes,Yes,New 4-month,19.9,158,Censored,2023-09-13
+176,36,Male,Negative,No,Yes,Standard 6-month,15.4,254,Unfavourable outcome,2023-09-15
+177,62,Male,Negative,No,Yes,New 4-month,17.5,263,Censored,2023-12-19
+178,27,Female,Negative,No,No,New 4-month,15.3,203,Censored,2023-07-09
+179,45,Male,Negative,No,Yes,New 4-month,21.2,175,Censored,2023-09-19
+180,45,Male,Negative,No,No,New 4-month,19.2,362,Censored,2023-04-17
+181,70,Male,Negative,Yes,Yes,New 4-month,19.1,289,Unfavourable outcome,2023-03-23
+182,41,Male,Negative,No,No,New 4-month,18.4,154,Censored,2023-11-23
+183,36,Male,Negative,No,No,Standard 6-month,20.3,224,Censored,2023-04-22
+184,45,Female,Negative,No,Yes,Standard 6-month,19.7,247,Censored,2023-09-06
+185,15,Male,Negative,No,No,New 4-month,24.9,225,Censored,2023-12-09
+186,57,Male,Negative,No,Yes,Standard 6-month,19.8,230,Unfavourable outcome,2023-03-14
+187,27,Female,Negative,No,Yes,New 4-month,19.1,280,Censored,2023-12-13
+188,30,Female,Negative,No,No,New 4-month,13.7,246,Censored,2023-08-08
+189,34,Male,Negative,No,Yes,Standard 6-month,15.9,182,Censored,2023-06-12
+190,29,Female,Negative,Yes,Yes,Standard 6-month,15.7,286,Censored,2023-10-20
+191,28,Female,Negative,No,Yes,New 4-month,20.3,279,Censored,2023-10-20
+192,35,Male,Negative,No,Yes,Standard 6-month,18.4,80,Unfavourable outcome,2023-03-05
+193,20,Male,Negative,No,No,Standard 6-month,19.4,117,Unfavourable outcome,2023-12-27
+194,42,Male,Negative,No,Yes,New 4-month,21.5,338,Censored,2023-03-29
+195,28,Male,Negative,No,Yes,New 4-month,24.7,279,Censored,2023-09-19
+196,45,Male,Negative,No,Yes,Standard 6-month,19.7,263,Censored,2023-08-09
+197,39,Female,Negative,Yes,Yes,New 4-month,19.0,356,Censored,2023-02-01
+198,47,Female,Negative,Yes,Yes,New 4-month,20.8,269,Censored,2023-02-18
+199,48,Female,Positive,Yes,No,Standard 6-month,22.0,239,Unfavourable outcome,2023-10-01
+200,48,Female,Negative,Yes,Yes,Standard 6-month,17.9,20,Unfavourable outcome,2023-07-20
+201,42,Male,Negative,No,No,New 4-month,18.4,165,Censored,2023-02-01
+202,44,Female,Negative,No,Yes,Standard 6-month,19.8,259,Censored,2023-09-26
+203,15,Male,Negative,No,Yes,New 4-month,22.6,247,Censored,2023-07-21
+204,47,Female,Negative,No,No,New 4-month,19.0,294,Censored,2023-05-04
+205,47,Male,Negative,Yes,No,New 4-month,14.6,29,Unfavourable outcome,2023-10-05
+206,19,Female,Negative,No,No,New 4-month,21.7,191,Censored,2023-02-15
+207,35,Female,Negative,Yes,Yes,New 4-month,12.0,116,Unfavourable outcome,2023-08-15
+208,64,Male,Negative,No,Yes,Standard 6-month,22.7,286,Censored,2023-03-24
+209,33,Male,Negative,Yes,No,New 4-month,21.1,279,Censored,2023-03-06
+210,50,Male,Negative,Yes,Yes,New 4-month,16.1,295,Censored,2023-08-07
+211,23,Male,Negative,No,No,Standard 6-month,25.3,240,Censored,2023-10-08
+212,21,Female,Negative,No,Yes,Standard 6-month,25.8,226,Censored,2023-05-09
+213,23,Male,Negative,No,No,Standard 6-month,16.4,285,Unfavourable outcome,2023-11-12
+214,57,Female,Negative,No,Yes,Standard 6-month,13.6,209,Censored,2023-07-02
+215,46,Male,Negative,Yes,No,Standard 6-month,17.7,190,Censored,2023-03-15
+216,32,Male,Negative,No,Yes,Standard 6-month,18.7,259,Censored,2023-07-23
+217,18,Male,Negative,No,No,Standard 6-month,18.6,133,Unfavourable outcome,2023-07-10
+218,42,Male,Negative,Yes,No,New 4-month,20.6,216,Censored,2023-02-13
+219,54,Male,Negative,Yes,No,New 4-month,17.7,55,Unfavourable outcome,2023-04-04
+220,60,Male,Negative,Yes,Yes,New 4-month,16.6,165,Unfavourable outcome,2023-09-07
+221,15,Female,Negative,No,Yes,New 4-month,17.8,281,Censored,2023-07-23
+222,36,Female,Negative,Yes,Yes,New 4-month,16.2,261,Censored,2023-07-11
+223,15,Male,Negative,No,No,Standard 6-month,16.5,317,Censored,2023-03-06
+224,33,Male,Negative,No,Yes,Standard 6-month,18.1,326,Censored,2023-11-07
+225,49,Male,Negative,No,Yes,Standard 6-month,16.7,341,Censored,2023-08-01
+226,27,Male,Negative,No,Yes,New 4-month,20.3,318,Censored,2023-04-23
+227,34,Female,Negative,No,Yes,Standard 6-month,16.2,168,Censored,2023-05-05
+228,47,Female,Negative,No,No,Standard 6-month,15.9,170,Censored,2023-09-09
+229,15,Female,Negative,No,No,Standard 6-month,16.9,274,Censored,2023-02-21
+230,28,Female,Negative,No,No,New 4-month,17.8,314,Censored,2023-06-03
+231,52,Male,Negative,No,Yes,Standard 6-month,19.4,123,Unfavourable outcome,2023-02-20
+232,55,Male,Negative,Yes,Yes,New 4-month,20.4,225,Censored,2023-12-02
+233,35,Male,Negative,No,Yes,Standard 6-month,20.3,312,Censored,2023-07-01
+234,31,Female,Positive,No,Yes,Standard 6-month,20.0,277,Censored,2023-05-06
+235,66,Male,Negative,No,No,New 4-month,23.1,197,Censored,2023-05-14
+236,23,Female,Negative,Yes,Yes,Standard 6-month,16.8,312,Censored,2023-08-20
+237,36,Female,Negative,No,Yes,New 4-month,22.3,291,Censored,2023-11-04
+238,15,Male,Positive,Yes,Yes,Standard 6-month,19.6,221,Censored,2023-12-13
+239,37,Male,Negative,No,No,Standard 6-month,19.1,256,Censored,2023-06-30
+240,23,Female,Negative,Yes,Yes,New 4-month,16.3,9,Unfavourable outcome,2023-11-07
+241,32,Female,Negative,No,Yes,Standard 6-month,14.5,324,Censored,2023-03-27
+242,18,Male,Negative,Yes,Yes,Standard 6-month,19.2,140,Unfavourable outcome,2023-10-31
+243,58,Female,Negative,Yes,Yes,Standard 6-month,18.1,170,Censored,2023-04-06
+244,51,Male,Negative,No,No,Standard 6-month,17.0,243,Censored,2023-02-08
+245,31,Female,Negative,No,No,New 4-month,21.8,317,Censored,2023-08-22
+246,53,Female,Negative,No,Yes,New 4-month,17.8,194,Censored,2023-09-30
+247,21,Male,Positive,No,Yes,Standard 6-month,22.3,342,Censored,2023-04-28
+248,56,Male,Negative,Yes,Yes,New 4-month,21.1,222,Censored,2023-07-16
+249,22,Male,Negative,No,Yes,Standard 6-month,24.1,275,Censored,2023-11-26
+250,47,Male,Negative,No,No,New 4-month,17.4,152,Censored,2023-09-05
+251,52,Male,Negative,No,Yes,Standard 6-month,28.5,223,Censored,2023-11-26
+252,30,Male,Negative,No,Yes,New 4-month,17.3,315,Censored,2023-08-24
+253,15,Female,Positive,No,Yes,Standard 6-month,18.9,260,Censored,2023-05-22
+254,29,Male,Negative,Yes,Yes,New 4-month,17.8,260,Censored,2023-06-12
+255,45,Male,Negative,No,Yes,Standard 6-month,17.5,334,Unfavourable outcome,2023-01-04
+256,35,Female,Negative,No,Yes,New 4-month,19.3,363,Censored,2023-06-30
+257,32,Female,Negative,No,Yes,Standard 6-month,18.8,185,Censored,2023-08-21
+258,51,Female,Negative,No,No,Standard 6-month,18.7,206,Censored,2023-06-25
+259,64,Female,Negative,Yes,No,Standard 6-month,16.1,32,Unfavourable outcome,2023-07-02
+260,60,Male,Negative,Yes,No,New 4-month,14.5,295,Censored,2023-03-27
+261,15,Female,Negative,No,Yes,New 4-month,20.7,217,Censored,2023-09-22
+262,47,Female,Negative,Yes,No,Standard 6-month,19.4,204,Censored,2023-07-28
+263,22,Male,Negative,No,No,New 4-month,21.1,364,Censored,2023-07-09
+264,55,Female,Negative,No,Yes,Standard 6-month,18.8,250,Censored,2023-08-15
+265,30,Female,Negative,Yes,Yes,Standard 6-month,18.9,195,Unfavourable outcome,2023-12-17
+266,30,Female,Negative,Yes,No,Standard 6-month,19.2,235,Censored,2023-10-31
+267,51,Female,Negative,Yes,Yes,New 4-month,13.6,258,Censored,2023-11-01
+268,19,Female,Negative,Yes,Yes,Standard 6-month,17.7,183,Censored,2023-02-28
+269,36,Female,Negative,No,No,New 4-month,18.7,342,Censored,2023-07-25
+270,52,Male,Negative,Yes,Yes,Standard 6-month,18.1,195,Censored,2023-01-30
+271,55,Male,Negative,No,Yes,New 4-month,17.9,311,Censored,2023-09-22
+272,28,Female,Positive,No,Yes,Standard 6-month,21.5,202,Censored,2023-06-22
+273,31,Female,Negative,Yes,Yes,Standard 6-month,16.9,133,Unfavourable outcome,2023-05-21
+274,65,Male,Negative,Yes,No,New 4-month,16.1,224,Unfavourable outcome,2023-01-21
+275,62,Male,Negative,No,Yes,New 4-month,19.0,293,Censored,2023-01-06
+276,43,Male,Negative,No,No,New 4-month,18.5,217,Censored,2023-05-07
+277,48,Female,Negative,No,No,Standard 6-month,24.2,258,Censored,2023-06-11
+278,44,Female,Positive,Yes,Yes,Standard 6-month,17.8,65,Unfavourable outcome,2023-05-05
+279,27,Male,Negative,Yes,Yes,New 4-month,19.1,271,Censored,2023-11-22
+280,49,Male,Negative,No,Yes,Standard 6-month,13.3,152,Censored,2023-02-18
+281,53,Female,Negative,Yes,Yes,New 4-month,14.6,67,Unfavourable outcome,2023-02-22
+282,27,Male,Negative,Yes,Yes,Standard 6-month,22.4,179,Censored,2023-11-21
+283,21,Male,Negative,Yes,No,New 4-month,14.2,270,Censored,2023-05-06
+284,27,Female,Negative,No,Yes,New 4-month,18.0,235,Unfavourable outcome,2023-03-03
+285,54,Male,Negative,No,Yes,Standard 6-month,15.2,179,Censored,2023-05-10
+286,29,Male,Negative,No,No,Standard 6-month,24.4,197,Censored,2023-06-28
+287,37,Female,Negative,No,No,New 4-month,19.2,155,Censored,2023-12-28
+288,40,Male,Negative,Yes,No,Standard 6-month,18.2,219,Censored,2023-01-30
+289,32,Female,Negative,No,Yes,New 4-month,15.8,235,Unfavourable outcome,2023-11-04
+290,26,Female,Negative,No,No,Standard 6-month,15.7,348,Censored,2023-05-22
+291,15,Male,Negative,No,No,Standard 6-month,16.8,153,Censored,2023-10-26
+292,53,Male,Negative,Yes,No,Standard 6-month,21.2,193,Censored,2023-11-29
+293,39,Male,Positive,Yes,No,Standard 6-month,22.7,249,Censored,2023-08-31
+294,73,Male,Negative,No,Yes,New 4-month,19.1,295,Censored,2023-06-23
+295,53,Female,Negative,No,No,Standard 6-month,16.6,179,Censored,2023-01-26
+296,38,Male,Negative,No,Yes,Standard 6-month,17.7,287,Censored,2023-11-01
+297,44,Female,Negative,No,No,New 4-month,21.9,218,Censored,2023-09-24
+298,37,Male,Negative,No,Yes,New 4-month,21.0,330,Censored,2023-02-20
+299,35,Male,Negative,No,Yes,Standard 6-month,13.9,339,Censored,2023-11-09
+300,47,Female,Negative,No,Yes,New 4-month,21.6,161,Censored,2023-09-14
+301,38,Male,Negative,Yes,No,New 4-month,15.9,157,Censored,2023-07-28
+302,41,Female,Negative,No,No,Standard 6-month,19.2,174,Censored,2023-09-25
+303,27,Male,Negative,Yes,No,New 4-month,21.2,344,Censored,2023-12-15
+304,15,Female,Negative,No,Yes,Standard 6-month,19.8,343,Censored,2023-06-20
+305,54,Male,Negative,Yes,Yes,New 4-month,17.8,227,Censored,2023-08-03
+306,30,Male,Positive,No,Yes,New 4-month,19.3,13,Unfavourable outcome,2023-11-22
+307,38,Male,Negative,No,No,Standard 6-month,23.7,57,Unfavourable outcome,2023-07-04
+308,62,Male,Positive,No,Yes,New 4-month,19.9,361,Censored,2023-01-20
+309,25,Male,Negative,No,Yes,New 4-month,23.1,334,Censored,2023-05-18
+310,46,Male,Negative,No,Yes,Standard 6-month,21.2,169,Censored,2023-01-12
+311,27,Female,Negative,No,Yes,New 4-month,17.0,268,Censored,2023-05-23
+312,55,Male,Negative,No,Yes,New 4-month,19.9,190,Censored,2023-12-27
+313,38,Female,Negative,Yes,Yes,New 4-month,18.9,306,Censored,2023-08-18
+314,44,Female,Negative,No,Yes,Standard 6-month,17.1,315,Censored,2023-04-02
+315,29,Female,Negative,Yes,No,Standard 6-month,19.8,363,Censored,2023-03-09
+316,33,Male,Negative,No,No,New 4-month,19.4,346,Censored,2023-12-06
+317,15,Male,Negative,No,Yes,Standard 6-month,17.3,295,Censored,2023-03-13
+318,26,Male,Negative,No,Yes,Standard 6-month,19.2,174,Censored,2023-05-24
+319,31,Female,Negative,No,Yes,Standard 6-month,14.7,256,Censored,2023-01-17
+320,71,Male,Negative,No,No,New 4-month,17.0,275,Censored,2023-03-03
+321,47,Male,Negative,No,Yes,New 4-month,20.9,274,Censored,2023-12-09
+322,38,Male,Negative,No,No,New 4-month,14.0,261,Censored,2023-07-26
+323,52,Female,Negative,No,No,New 4-month,13.4,285,Censored,2023-01-18
+324,33,Male,Negative,No,No,Standard 6-month,20.9,336,Censored,2023-05-16
+325,24,Male,Negative,No,Yes,New 4-month,23.2,198,Censored,2023-05-01
+326,46,Male,Negative,Yes,Yes,Standard 6-month,16.3,349,Censored,2023-07-28
+327,54,Female,Negative,No,Yes,New 4-month,20.1,238,Censored,2023-09-28
+328,49,Male,Negative,No,No,New 4-month,16.9,254,Censored,2023-04-20
+329,47,Female,Negative,No,No,Standard 6-month,16.1,328,Censored,2023-07-16
+330,32,Male,Negative,No,Yes,Standard 6-month,16.8,102,Unfavourable outcome,2023-05-19
+331,31,Male,Negative,Yes,No,Standard 6-month,20.7,180,Censored,2023-06-06
+332,28,Male,Negative,Yes,Yes,Standard 6-month,15.1,365,Censored,2023-06-03
+333,61,Male,Negative,No,Yes,Standard 6-month,18.3,128,Unfavourable outcome,2023-09-28
+334,35,Male,Negative,Yes,Yes,New 4-month,17.8,322,Censored,2023-04-13
+335,39,Male,Negative,No,No,Standard 6-month,21.8,323,Censored,2023-08-24
+336,26,Male,Positive,No,Yes,New 4-month,17.0,15,Unfavourable outcome,2023-10-31
+337,72,Male,Negative,No,Yes,Standard 6-month,21.6,271,Unfavourable outcome,2023-09-01
+338,20,Male,Negative,No,No,Standard 6-month,17.8,191,Censored,2023-08-09
+339,41,Male,Negative,Yes,Yes,Standard 6-month,18.3,247,Censored,2023-12-15
+340,48,Female,Negative,No,Yes,New 4-month,24.1,319,Censored,2023-01-21
+341,15,Male,Negative,No,Yes,Standard 6-month,17.2,263,Censored,2023-12-13
+342,44,Female,Negative,No,Yes,New 4-month,17.2,228,Censored,2023-02-10
+343,75,Male,Negative,No,Yes,New 4-month,21.3,320,Censored,2023-03-24
+344,23,Male,Positive,No,No,New 4-month,18.2,269,Censored,2023-06-30
+345,30,Female,Negative,No,Yes,New 4-month,15.4,71,Unfavourable outcome,2023-08-31
+346,20,Female,Positive,No,Yes,New 4-month,25.4,170,Censored,2023-11-26
+347,24,Male,Negative,No,Yes,Standard 6-month,15.4,273,Censored,2023-10-11
+348,52,Male,Negative,Yes,Yes,New 4-month,20.1,196,Censored,2023-12-13
+349,28,Female,Negative,No,Yes,Standard 6-month,20.0,329,Censored,2023-04-13
+350,32,Female,Negative,No,Yes,New 4-month,19.2,327,Censored,2023-06-05
+351,31,Female,Negative,No,Yes,New 4-month,19.3,244,Censored,2023-09-09
+352,44,Female,Negative,No,Yes,New 4-month,17.7,249,Censored,2023-01-02
+353,31,Male,Negative,No,No,Standard 6-month,20.1,163,Censored,2023-07-19
+354,29,Male,Negative,No,No,New 4-month,25.5,171,Censored,2023-05-08
+355,46,Female,Negative,Yes,No,Standard 6-month,20.8,138,Unfavourable outcome,2023-08-11
+356,43,Male,Negative,No,Yes,New 4-month,25.4,243,Censored,2023-04-04
+357,15,Male,Negative,No,No,New 4-month,18.9,271,Censored,2023-04-11
+358,65,Male,Negative,No,Yes,New 4-month,26.0,330,Censored,2023-11-28
+359,68,Female,Negative,Yes,Yes,Standard 6-month,17.9,219,Censored,2023-08-14
+360,36,Male,Positive,No,No,New 4-month,18.1,167,Censored,2023-08-30
+361,46,Male,Negative,No,No,Standard 6-month,19.2,266,Censored,2023-07-06
+362,41,Male,Negative,No,Yes,Standard 6-month,19.5,163,Censored,2023-06-29
+363,60,Male,Positive,No,Yes,New 4-month,23.5,320,Censored,2023-06-04
+364,24,Female,Negative,No,Yes,Standard 6-month,19.5,249,Censored,2023-01-29
+365,24,Male,Positive,No,No,New 4-month,16.7,295,Censored,2023-05-03
+366,41,Female,Negative,No,Yes,New 4-month,20.7,177,Censored,2023-09-01
+367,35,Male,Negative,No,Yes,New 4-month,14.1,234,Censored,2023-01-25
+368,47,Male,Positive,No,Yes,New 4-month,19.0,323,Censored,2023-05-31
+369,20,Male,Negative,No,Yes,New 4-month,16.4,165,Censored,2023-07-22
+370,54,Female,Negative,No,No,Standard 6-month,22.1,174,Censored,2023-08-26
+371,35,Male,Positive,No,Yes,Standard 6-month,18.6,262,Censored,2023-12-16
+372,46,Male,Negative,Yes,No,New 4-month,17.0,330,Censored,2023-09-10
+373,42,Male,Negative,No,Yes,New 4-month,18.4,162,Censored,2023-10-12
+374,18,Male,Negative,No,Yes,New 4-month,14.2,159,Censored,2023-02-12
+375,37,Female,Negative,Yes,No,Standard 6-month,23.9,202,Censored,2023-10-02
+376,38,Female,Negative,Yes,No,Standard 6-month,21.0,267,Censored,2023-06-02
+377,16,Male,Positive,Yes,Yes,Standard 6-month,20.7,277,Censored,2023-07-05
+378,33,Male,Negative,Yes,Yes,Standard 6-month,16.0,255,Censored,2023-04-06
+379,28,Male,Negative,No,Yes,New 4-month,17.1,91,Unfavourable outcome,2023-12-27
+380,49,Female,Negative,No,Yes,Standard 6-month,15.2,347,Censored,2023-05-11
+381,46,Male,Negative,No,Yes,New 4-month,17.9,187,Censored,2023-09-03
+382,48,Male,Negative,Yes,No,New 4-month,17.4,204,Censored,2023-05-16
+383,29,Male,Negative,No,No,New 4-month,18.9,255,Censored,2023-08-16
+384,18,Female,Negative,No,Yes,New 4-month,20.9,270,Censored,2023-01-09
+385,35,Male,Negative,No,Yes,Standard 6-month,17.9,313,Censored,2023-12-06
+386,40,Male,Negative,Yes,No,New 4-month,16.9,210,Censored,2023-05-16
+387,54,Male,Negative,Yes,No,Standard 6-month,16.2,268,Censored,2023-07-20
+388,35,Male,Negative,Yes,No,New 4-month,18.0,153,Censored,2023-02-06
+389,68,Male,Negative,Yes,Yes,New 4-month,18.6,343,Censored,2023-04-09
+390,42,Male,Negative,No,No,New 4-month,19.7,206,Censored,2023-12-19
+391,39,Male,Negative,No,Yes,Standard 6-month,18.0,292,Censored,2023-03-29
+392,59,Male,Negative,Yes,Yes,Standard 6-month,18.4,217,Unfavourable outcome,2023-06-01
+393,30,Male,Negative,No,Yes,Standard 6-month,16.1,350,Censored,2023-05-06
+394,19,Female,Negative,No,Yes,New 4-month,21.0,214,Censored,2023-09-09
+395,30,Female,Negative,Yes,No,New 4-month,12.9,161,Censored,2023-05-27
+396,26,Male,Negative,Yes,No,New 4-month,20.6,212,Unfavourable outcome,2023-11-04
+397,15,Male,Negative,Yes,Yes,New 4-month,16.9,229,Censored,2023-10-09
+398,62,Male,Negative,No,Yes,Standard 6-month,17.4,171,Unfavourable outcome,2023-07-25
+399,41,Male,Positive,No,Yes,Standard 6-month,21.0,73,Unfavourable outcome,2023-08-05
+400,63,Female,Negative,Yes,No,New 4-month,19.9,79,Unfavourable outcome,2023-10-12
+401,39,Female,Negative,Yes,No,Standard 6-month,20.9,222,Censored,2023-06-10
+402,54,Male,Negative,Yes,Yes,Standard 6-month,16.5,101,Unfavourable outcome,2023-07-17
+403,38,Male,Negative,No,No,Standard 6-month,17.1,317,Censored,2023-11-19
+404,50,Male,Negative,Yes,Yes,Standard 6-month,14.4,13,Unfavourable outcome,2023-11-23
+405,40,Female,Negative,No,Yes,Standard 6-month,18.0,191,Censored,2023-09-23
+406,54,Female,Negative,No,No,New 4-month,19.8,221,Censored,2023-03-10
+407,47,Male,Negative,Yes,Yes,Standard 6-month,14.8,173,Censored,2023-03-13
+408,47,Male,Negative,No,Yes,Standard 6-month,20.0,221,Censored,2023-03-01
+409,27,Male,Negative,Yes,Yes,Standard 6-month,18.6,331,Censored,2023-10-22
+410,39,Female,Negative,Yes,No,Standard 6-month,20.4,246,Censored,2023-01-19
+411,19,Female,Negative,No,No,New 4-month,19.7,319,Censored,2023-03-15
+412,36,Male,Negative,No,Yes,Standard 6-month,16.8,214,Censored,2023-05-08
+413,15,Male,Negative,No,No,Standard 6-month,16.5,19,Unfavourable outcome,2023-07-19
+414,38,Female,Positive,No,Yes,Standard 6-month,21.1,313,Censored,2023-12-31
+415,32,Male,Negative,No,Yes,New 4-month,16.1,252,Censored,2023-12-08
+416,43,Male,Negative,No,Yes,Standard 6-month,18.5,252,Unfavourable outcome,2023-12-31
+417,56,Female,Negative,No,No,New 4-month,18.4,242,Censored,2023-06-21
+418,36,Female,Negative,No,Yes,New 4-month,17.1,308,Censored,2023-01-15
+419,48,Male,Negative,No,Yes,New 4-month,18.1,154,Censored,2023-06-08
+420,15,Male,Negative,No,No,New 4-month,21.3,116,Unfavourable outcome,2023-05-22
+421,64,Female,Negative,Yes,Yes,New 4-month,20.9,221,Censored,2023-01-23
+422,35,Male,Negative,No,Yes,New 4-month,24.6,305,Censored,2023-10-16
+423,29,Female,Positive,Yes,Yes,Standard 6-month,18.8,261,Censored,2023-02-03
+424,39,Female,Negative,Yes,No,Standard 6-month,19.2,14,Unfavourable outcome,2023-10-13
+425,15,Female,Negative,No,Yes,Standard 6-month,19.2,275,Censored,2023-11-11
+426,35,Female,Negative,Yes,No,Standard 6-month,12.0,53,Unfavourable outcome,2023-07-11
+427,52,Male,Negative,Yes,No,New 4-month,16.0,229,Censored,2023-09-05
+428,36,Female,Negative,No,No,Standard 6-month,14.9,210,Censored,2023-02-23
+429,57,Male,Negative,No,No,New 4-month,23.9,157,Censored,2023-03-23
+430,43,Male,Positive,No,Yes,Standard 6-month,17.6,155,Censored,2023-02-20
+431,49,Male,Negative,Yes,No,Standard 6-month,16.8,324,Censored,2023-06-16
+432,32,Male,Negative,No,Yes,Standard 6-month,21.6,193,Censored,2023-10-24
+433,35,Female,Negative,No,Yes,New 4-month,17.3,258,Censored,2023-08-22
+434,30,Male,Negative,Yes,Yes,New 4-month,20.1,244,Censored,2023-10-31
+435,43,Male,Negative,No,Yes,New 4-month,18.2,345,Censored,2023-04-07
+436,53,Male,Negative,No,Yes,Standard 6-month,20.4,42,Unfavourable outcome,2023-10-06
+437,28,Male,Negative,No,Yes,New 4-month,19.7,319,Censored,2023-07-07
+438,22,Female,Positive,No,No,Standard 6-month,20.4,145,Unfavourable outcome,2023-03-02
+439,37,Male,Negative,No,Yes,New 4-month,19.2,344,Censored,2023-12-14
+440,25,Male,Positive,No,Yes,Standard 6-month,17.6,97,Unfavourable outcome,2023-01-15
+441,26,Female,Negative,No,Yes,Standard 6-month,18.6,231,Censored,2023-04-28
+442,15,Female,Negative,No,Yes,New 4-month,12.3,153,Censored,2023-09-03
+443,52,Male,Negative,No,Yes,New 4-month,20.6,190,Unfavourable outcome,2023-03-14
+444,15,Male,Negative,No,Yes,Standard 6-month,19.3,169,Censored,2023-09-29
+445,15,Female,Negative,Yes,No,New 4-month,16.9,220,Censored,2023-09-22
+446,49,Male,Negative,Yes,No,New 4-month,20.1,225,Censored,2023-03-10
+447,49,Male,Negative,No,No,New 4-month,21.9,175,Censored,2023-04-11
+448,17,Male,Negative,No,Yes,Standard 6-month,21.8,360,Censored,2023-09-24
+449,24,Male,Negative,No,No,New 4-month,22.1,323,Censored,2023-02-27
+450,33,Male,Negative,No,Yes,Standard 6-month,19.6,13,Unfavourable outcome,2023-07-07
+451,77,Female,Negative,No,Yes,New 4-month,21.5,271,Censored,2023-06-29
+452,50,Male,Negative,No,No,New 4-month,18.9,301,Censored,2023-08-06
+453,50,Male,Negative,Yes,Yes,Standard 6-month,19.0,321,Censored,2023-08-08
+454,26,Male,Negative,No,Yes,Standard 6-month,23.1,290,Censored,2023-04-05
+455,49,Male,Negative,No,No,Standard 6-month,17.5,320,Censored,2023-08-08
+456,48,Male,Negative,No,No,New 4-month,21.0,358,Censored,2023-05-06
+457,23,Male,Negative,No,No,Standard 6-month,18.0,326,Censored,2023-09-09
+458,48,Male,Negative,No,Yes,Standard 6-month,25.5,96,Unfavourable outcome,2023-08-08
+459,63,Female,Negative,No,No,Standard 6-month,17.4,156,Censored,2023-02-22
+460,36,Female,Positive,No,No,New 4-month,17.4,350,Censored,2023-12-15
+461,22,Male,Negative,No,No,New 4-month,20.1,166,Censored,2023-11-16
+462,20,Female,Negative,No,Yes,Standard 6-month,12.2,214,Censored,2023-01-14
+463,39,Female,Negative,Yes,Yes,Standard 6-month,19.6,244,Unfavourable outcome,2023-03-29
+464,46,Male,Negative,Yes,Yes,Standard 6-month,15.1,74,Unfavourable outcome,2023-02-28
+465,15,Female,Negative,No,Yes,Standard 6-month,21.0,301,Censored,2023-04-24
+466,23,Male,Negative,No,Yes,Standard 6-month,20.5,281,Censored,2023-01-17
+467,24,Male,Negative,No,Yes,New 4-month,17.8,264,Censored,2023-06-06
+468,31,Male,Negative,Yes,No,New 4-month,16.4,178,Censored,2023-12-29
+469,36,Male,Negative,No,No,New 4-month,20.8,343,Censored,2023-01-31
+470,43,Male,Negative,No,No,New 4-month,20.0,150,Censored,2023-03-25
+471,30,Female,Positive,No,No,New 4-month,20.5,298,Censored,2023-06-09
+472,15,Female,Positive,No,No,New 4-month,17.6,181,Censored,2023-04-26
+473,37,Female,Negative,No,Yes,New 4-month,16.4,355,Censored,2023-11-26
+474,20,Female,Negative,No,Yes,Standard 6-month,17.2,305,Censored,2023-10-19
+475,31,Male,Negative,Yes,Yes,Standard 6-month,20.4,252,Censored,2023-01-12
+476,39,Male,Negative,No,No,New 4-month,19.9,283,Censored,2023-06-08
+477,48,Female,Negative,Yes,Yes,Standard 6-month,20.0,271,Censored,2023-12-24
+478,15,Male,Negative,No,Yes,New 4-month,20.8,293,Censored,2023-06-18
+479,62,Male,Negative,No,No,Standard 6-month,18.1,160,Censored,2023-12-30
+480,26,Male,Positive,No,Yes,New 4-month,19.8,284,Censored,2023-08-02
+481,22,Female,Negative,No,Yes,Standard 6-month,19.5,322,Censored,2023-06-30
+482,26,Male,Negative,No,Yes,Standard 6-month,20.7,297,Censored,2023-10-09
+483,64,Male,Negative,No,Yes,Standard 6-month,17.4,191,Censored,2023-03-23
+484,48,Female,Negative,No,Yes,New 4-month,22.2,230,Censored,2023-06-14
+485,30,Female,Negative,No,No,Standard 6-month,19.2,68,Unfavourable outcome,2023-07-12
+486,35,Male,Positive,Yes,Yes,New 4-month,21.5,273,Censored,2023-03-07
+487,64,Female,Negative,No,Yes,New 4-month,20.9,235,Censored,2023-05-26
+488,67,Female,Positive,No,No,New 4-month,19.6,40,Unfavourable outcome,2023-04-20
+489,42,Male,Negative,No,No,New 4-month,21.1,334,Unfavourable outcome,2023-10-21
+490,40,Male,Negative,No,Yes,Standard 6-month,27.6,209,Censored,2023-07-12
+491,48,Male,Negative,No,Yes,Standard 6-month,24.4,296,Censored,2023-04-16
+492,36,Male,Negative,No,Yes,New 4-month,21.2,265,Censored,2023-07-15
+493,58,Female,Negative,No,Yes,New 4-month,18.3,160,Censored,2023-10-12
+494,41,Male,Negative,No,Yes,Standard 6-month,18.9,232,Censored,2023-05-06
+495,28,Male,Positive,Yes,No,Standard 6-month,17.8,274,Censored,2023-10-24
+496,42,Male,Negative,No,No,Standard 6-month,20.1,335,Censored,2023-05-12
+497,66,Male,Negative,No,No,New 4-month,15.0,179,Censored,2023-06-09
+498,50,Male,Positive,No,No,New 4-month,19.5,221,Censored,2023-11-05
+499,39,Male,Positive,No,Yes,Standard 6-month,20.5,253,Censored,2023-08-10
+500,53,Male,Negative,Yes,Yes,Standard 6-month,17.4,30,Unfavourable outcome,2023-03-17
+501,50,Male,Positive,No,Yes,Standard 6-month,22.4,271,Censored,2023-04-29
+502,37,Male,Negative,No,No,New 4-month,16.8,307,Censored,2023-05-19
+503,32,Male,Negative,No,Yes,New 4-month,14.4,272,Censored,2023-01-02
+504,40,Male,Positive,No,No,New 4-month,20.2,266,Censored,2023-05-21
+505,51,Female,Negative,Yes,No,New 4-month,16.1,251,Censored,2023-11-21
+506,36,Male,Negative,No,No,New 4-month,25.3,256,Censored,2023-01-31
+507,47,Male,Positive,No,No,Standard 6-month,19.6,143,Unfavourable outcome,2023-09-25
+508,44,Male,Negative,No,No,Standard 6-month,17.9,222,Censored,2023-01-22
+509,17,Female,Negative,No,No,New 4-month,22.7,196,Censored,2023-10-28
+510,21,Male,Positive,No,Yes,Standard 6-month,18.9,247,Censored,2023-12-07
+511,31,Female,Negative,No,Yes,New 4-month,19.6,327,Censored,2023-05-08
+512,36,Male,Negative,No,No,Standard 6-month,16.7,264,Unfavourable outcome,2023-10-26
+513,29,Male,Negative,Yes,No,Standard 6-month,15.0,170,Censored,2023-06-05
+514,30,Female,Negative,Yes,No,New 4-month,17.8,308,Censored,2023-11-13
+515,44,Male,Negative,Yes,No,New 4-month,19.2,288,Censored,2023-10-11
+516,41,Male,Negative,Yes,Yes,Standard 6-month,18.5,360,Censored,2023-10-30
+517,37,Male,Negative,Yes,Yes,New 4-month,18.1,71,Unfavourable outcome,2023-04-19
+518,49,Female,Negative,No,No,Standard 6-month,20.6,179,Censored,2023-12-21
+519,48,Male,Negative,No,No,Standard 6-month,18.8,281,Censored,2023-03-29
+520,15,Male,Negative,No,No,Standard 6-month,19.8,165,Censored,2023-05-15
+521,55,Female,Negative,No,No,New 4-month,18.3,279,Censored,2023-12-25
+522,46,Male,Negative,Yes,Yes,New 4-month,20.7,223,Censored,2023-02-10
+523,47,Male,Negative,Yes,No,New 4-month,21.2,159,Censored,2023-08-27
+524,58,Male,Negative,No,Yes,New 4-month,18.3,253,Censored,2023-05-27
+525,35,Female,Negative,Yes,Yes,Standard 6-month,18.5,216,Censored,2023-10-04
+526,38,Female,Positive,No,Yes,New 4-month,16.2,158,Censored,2023-07-19
+527,43,Male,Negative,No,No,New 4-month,17.7,285,Censored,2023-07-11
+528,24,Female,Negative,No,Yes,New 4-month,18.0,284,Censored,2023-10-17
+529,42,Male,Negative,Yes,Yes,Standard 6-month,19.9,298,Censored,2023-07-25
+530,19,Female,Negative,Yes,Yes,Standard 6-month,15.4,345,Censored,2023-03-26
+531,41,Female,Negative,No,No,Standard 6-month,26.8,265,Censored,2023-12-11
+532,22,Male,Negative,Yes,Yes,Standard 6-month,17.7,253,Censored,2023-12-26
+533,26,Male,Negative,No,Yes,New 4-month,17.7,154,Censored,2023-01-04
+534,29,Male,Negative,No,Yes,Standard 6-month,19.0,228,Censored,2023-06-11
+535,28,Male,Negative,Yes,No,New 4-month,17.6,342,Censored,2023-10-18
+536,52,Male,Negative,Yes,Yes,New 4-month,16.6,194,Censored,2023-09-02
+537,33,Male,Negative,No,Yes,Standard 6-month,17.8,281,Censored,2023-02-12
+538,15,Female,Negative,No,Yes,Standard 6-month,18.1,299,Censored,2023-05-26
+539,34,Male,Positive,No,Yes,Standard 6-month,22.4,332,Censored,2023-05-07
+540,15,Male,Negative,No,Yes,New 4-month,21.3,211,Censored,2023-07-22
+541,49,Female,Negative,No,No,Standard 6-month,21.5,260,Censored,2023-02-07
+542,31,Male,Negative,Yes,No,Standard 6-month,15.1,244,Censored,2023-03-13
+543,52,Male,Negative,Yes,Yes,Standard 6-month,20.9,191,Censored,2023-12-12
+544,62,Male,Negative,Yes,No,Standard 6-month,16.4,352,Censored,2023-02-01
+545,65,Male,Negative,No,Yes,New 4-month,14.8,54,Unfavourable outcome,2023-03-07
+546,55,Female,Negative,No,Yes,New 4-month,18.9,290,Censored,2023-06-28
+547,28,Male,Positive,No,Yes,New 4-month,22.7,282,Censored,2023-07-16
+548,39,Male,Negative,No,Yes,Standard 6-month,19.5,214,Censored,2023-08-11
+549,35,Female,Negative,No,No,Standard 6-month,17.7,271,Censored,2023-08-10
+550,42,Male,Negative,No,Yes,Standard 6-month,20.9,106,Unfavourable outcome,2023-02-03
+551,49,Female,Negative,Yes,Yes,New 4-month,18.6,183,Censored,2023-05-31
+552,37,Male,Negative,No,Yes,Standard 6-month,20.3,327,Censored,2023-06-30
+553,59,Female,Negative,No,Yes,New 4-month,22.2,352,Censored,2023-10-28
+554,37,Male,Negative,No,No,Standard 6-month,16.7,58,Unfavourable outcome,2023-08-14
+555,65,Female,Negative,No,No,Standard 6-month,18.5,159,Censored,2023-08-29
+556,43,Male,Negative,No,Yes,New 4-month,24.0,352,Censored,2023-08-04
+557,47,Female,Negative,No,No,Standard 6-month,21.7,167,Censored,2023-09-01
+558,42,Female,Negative,No,No,New 4-month,19.5,162,Censored,2023-04-15
+559,26,Female,Negative,Yes,Yes,New 4-month,14.0,276,Censored,2023-09-03
+560,45,Female,Negative,No,Yes,New 4-month,22.0,167,Censored,2023-03-27
+561,57,Male,Negative,No,Yes,Standard 6-month,20.3,364,Censored,2023-10-03
+562,19,Male,Negative,No,Yes,Standard 6-month,14.3,220,Censored,2023-06-27
+563,51,Female,Negative,No,Yes,Standard 6-month,21.8,295,Censored,2023-01-09
+564,38,Male,Negative,No,Yes,New 4-month,16.1,266,Censored,2023-03-15
+565,20,Female,Negative,No,Yes,Standard 6-month,18.0,219,Censored,2023-12-31
+566,37,Female,Negative,No,Yes,Standard 6-month,22.9,293,Censored,2023-04-27
+567,45,Male,Negative,No,Yes,Standard 6-month,18.6,166,Censored,2023-01-15
+568,48,Male,Negative,Yes,No,New 4-month,18.2,302,Censored,2023-11-03
+569,31,Male,Negative,No,Yes,New 4-month,19.7,340,Censored,2023-05-12
+570,41,Male,Negative,Yes,No,Standard 6-month,20.8,249,Censored,2023-08-11
+571,18,Male,Negative,No,No,New 4-month,20.2,199,Censored,2023-04-04
+572,31,Male,Negative,Yes,No,Standard 6-month,20.2,264,Censored,2023-10-20
+573,51,Male,Negative,Yes,Yes,Standard 6-month,23.3,77,Unfavourable outcome,2023-05-26
+574,42,Female,Negative,No,No,Standard 6-month,19.5,274,Censored,2023-12-19
+575,57,Male,Negative,Yes,Yes,Standard 6-month,21.4,313,Unfavourable outcome,2023-02-09
+576,42,Male,Negative,No,No,Standard 6-month,17.9,164,Censored,2023-04-12
+577,21,Female,Negative,No,Yes,New 4-month,18.6,291,Censored,2023-01-27
+578,29,Male,Negative,No,Yes,Standard 6-month,18.9,293,Censored,2023-06-21
+579,45,Female,Negative,No,No,Standard 6-month,14.9,271,Censored,2023-02-03
+580,42,Male,Negative,Yes,Yes,Standard 6-month,23.6,179,Unfavourable outcome,2023-01-02
+581,32,Female,Negative,No,Yes,New 4-month,18.6,287,Censored,2023-11-21
+582,23,Male,Positive,No,No,Standard 6-month,17.9,160,Censored,2023-04-01
+583,27,Female,Negative,Yes,No,Standard 6-month,19.6,112,Unfavourable outcome,2023-04-22
+584,60,Male,Negative,Yes,Yes,Standard 6-month,20.3,187,Censored,2023-07-26
+585,24,Male,Positive,No,Yes,New 4-month,18.8,153,Censored,2023-08-30
+586,33,Male,Negative,No,Yes,New 4-month,18.6,245,Censored,2023-03-04
+587,61,Male,Negative,No,Yes,Standard 6-month,19.8,145,Unfavourable outcome,2023-08-20
+588,30,Male,Negative,No,Yes,New 4-month,21.6,235,Censored,2023-05-12
+589,47,Male,Negative,No,Yes,Standard 6-month,16.4,286,Censored,2023-04-09
+590,65,Male,Negative,Yes,No,Standard 6-month,16.7,361,Censored,2023-10-18
+591,23,Male,Negative,Yes,Yes,New 4-month,14.1,259,Censored,2023-04-04
+592,30,Male,Negative,Yes,Yes,New 4-month,20.1,294,Censored,2023-10-05
+593,22,Female,Negative,No,No,Standard 6-month,19.5,293,Censored,2023-03-28
+594,51,Male,Negative,No,Yes,Standard 6-month,19.0,313,Censored,2023-12-13
+595,28,Female,Negative,No,No,New 4-month,20.2,124,Unfavourable outcome,2023-03-09
+596,39,Female,Negative,No,No,Standard 6-month,14.8,251,Censored,2023-03-24
+597,33,Male,Negative,Yes,Yes,Standard 6-month,17.8,349,Censored,2023-11-29
+598,39,Female,Negative,Yes,Yes,Standard 6-month,15.3,200,Censored,2023-12-22
+599,36,Female,Negative,No,Yes,New 4-month,22.7,188,Censored,2023-04-30
+600,66,Female,Negative,No,No,Standard 6-month,26.7,260,Censored,2023-05-01

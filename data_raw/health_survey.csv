@@ -1,0 +1,1201 @@
+id,district,area,sex,age,education,wealth_quintile,smoking,phys_activity,bmi,sbp,dbp,hypertension,fasting_glucose,diabetes,visit_date
+1001,Rajshahi,Rural,Female,49,No formal education,Middle,Never,Moderate,21.0,123.0,80.0,No,5.6,No,2024-05-03
+1002,Pabna,Rural,Female,53,No formal education,Poorer,Never,Moderate,19.0,124.0,85.0,No,5.0,No,2024-09-22
+1003,Bogura,Rural,Male,79,Higher,Poorer,Current,Moderate,24.9,127.0,83.0,No,6.2,No,2024-04-15
+1004,Bogura,Rural,Female,53,No formal education,Richer,Never,High,22.1,114.0,81.0,No,6.6,No,2024-09-13
+1005,Bogura,Urban,Female,42,No formal education,Richer,Never,High,21.7,88.0,67.0,No,5.2,No,2024-04-07
+1006,Natore,Rural,Male,76,Primary,Richer,Never,High,21.8,135.0,80.0,No,5.6,No,2024-03-18
+1007,Naogaon,Urban,Female,66,No formal education,Richest,Never,Moderate,18.2,126.0,79.0,No,5.5,No,2024-08-16
+1008,Rajshahi,Rural,Female,70,Primary,Poorer,Never,Moderate,19.9,118.0,77.0,No,5.9,No,2024-06-21
+1009,Pabna,Urban,Female,85,No formal education,Richer,Never,Moderate,26.3,141.0,101.0,Yes,6.9,No,2024-10-09
+1010,Bogura,Rural,Female,32,Primary,Richest,Never,Low,23.6,116.0,78.0,No,5.5,No,2024-08-01
+1011,Naogaon,Rural,Female,80,Secondary,Poorest,Never,Low,24.8,132.0,87.0,No,6.2,No,2024-01-15
+1012,Naogaon,Rural,Female,54,Secondary,Richer,Never,Moderate,28.0,129.0,74.0,No,5.9,No,2024-02-02
+1013,Pabna,Rural,Female,64,Secondary,Richest,Former,Low,17.6,107.0,65.0,No,5.4,No,2024-01-13
+1014,Natore,Urban,Male,78,No formal education,Richest,Current,Low,23.0,,,,6.5,No,2024-01-20
+1015,Bogura,Urban,Male,69,Higher,Middle,Former,Low,23.1,135.0,75.0,No,6.6,No,2024-02-17
+1016,Natore,Urban,Female,77,Secondary,Poorest,Former,Low,24.3,116.0,83.0,No,6.4,No,2024-08-26
+1017,Bogura,Urban,Male,53,No formal education,Poorer,Former,High,23.2,127.0,89.0,No,5.5,No,2024-08-02
+1018,Bogura,Urban,Female,79,Secondary,Richest,Never,Moderate,26.5,141.0,84.0,Yes,6.4,No,2024-04-23
+1019,Rajshahi,Rural,Female,49,Higher,Poorest,Never,Moderate,20.2,124.0,78.0,No,6.4,No,2024-11-27
+1020,Rajshahi,Urban,Male,67,Higher,Richer,Former,Low,22.0,123.0,81.0,No,5.9,No,2024-10-02
+1021,Pabna,Urban,Female,85,Primary,Richest,Never,High,29.1,152.0,94.0,Yes,6.1,No,2024-04-27
+1022,Bogura,Rural,Male,55,No formal education,Poorer,Former,Low,26.9,139.0,84.0,No,6.3,No,2024-10-25
+1023,Pabna,Rural,Male,43,Higher,Middle,Former,High,26.6,130.0,81.0,No,5.4,No,2024-10-10
+1024,Rajshahi,Urban,Female,47,Primary,Poorest,Never,Moderate,28.7,131.0,86.0,No,6.6,No,2024-04-02
+1025,Bogura,Rural,Female,71,Higher,Poorer,Never,Moderate,21.1,117.0,79.0,No,6.0,No,2024-07-13
+1026,Bogura,Rural,Female,62,Secondary,Poorer,Never,Moderate,26.0,116.0,73.0,No,5.8,No,2024-06-14
+1027,Rajshahi,Rural,Female,54,Secondary,Richer,Never,Moderate,22.9,127.0,72.0,No,5.7,No,2024-01-09
+1028,Pabna,Urban,Male,58,Higher,Richest,Current,Moderate,23.8,110.0,73.0,No,5.7,No,2024-04-20
+1029,Bogura,Rural,Male,76,Higher,Poorest,Never,High,31.6,132.0,89.0,No,6.3,No,2024-05-17
+1030,Bogura,Urban,Female,84,Higher,Poorer,Never,Moderate,18.0,120.0,92.0,Yes,7.0,Yes,2024-04-03
+1031,Rajshahi,Rural,Female,48,Primary,Poorest,Never,Moderate,22.3,102.0,72.0,No,5.8,No,2024-03-11
+1032,Naogaon,Rural,Female,73,Secondary,Poorest,Never,Low,23.4,139.0,91.0,Yes,8.1,Yes,2024-10-10
+1033,Natore,Urban,Male,85,No formal education,Middle,Never,Low,27.3,154.0,95.0,Yes,6.6,No,2024-11-15
+1034,Pabna,Rural,Male,62,Higher,Poorest,Never,Low,25.2,119.0,73.0,No,6.9,No,2024-02-27
+1035,Bogura,Rural,Female,83,Secondary,Richer,Never,Low,,136.0,81.0,No,6.5,No,2024-08-23
+1036,Naogaon,Urban,Male,49,Secondary,Middle,Never,High,25.0,125.0,73.0,No,5.2,No,2024-06-21
+1037,Pabna,Rural,Female,40,No formal education,Poorest,Never,Low,,103.0,72.0,No,5.6,No,2024-03-23
+1038,Bogura,Urban,Female,54,Primary,Poorest,Never,High,28.8,122.0,84.0,No,6.1,No,2024-11-03
+1039,Naogaon,Rural,Male,43,No formal education,Richer,Former,Low,25.8,97.0,64.0,No,5.5,No,2024-05-16
+1040,Bogura,Rural,Male,35,Higher,Poorest,Former,Low,23.7,92.0,61.0,No,5.2,No,2024-02-02
+1041,Pabna,Rural,Female,47,Secondary,Richest,Never,Low,,107.0,73.0,No,,,2024-04-12
+1042,Bogura,Rural,Female,71,No formal education,Poorest,Never,High,24.3,121.0,74.0,No,5.5,No,2024-07-09
+1043,Rajshahi,Rural,Male,75,Primary,Richest,Former,High,21.8,129.0,79.0,No,5.3,No,2024-10-27
+1044,Natore,Rural,Male,62,No formal education,Middle,Current,Moderate,23.5,133.0,88.0,No,5.7,No,2024-04-23
+1045,Rajshahi,Rural,Female,58,Secondary,Richer,Never,High,28.3,151.0,101.0,Yes,5.4,No,2024-05-12
+1046,Bogura,Rural,Male,63,Secondary,Richest,Current,Moderate,20.4,101.0,61.0,No,5.7,No,2024-04-03
+1047,Pabna,Rural,Male,75,No formal education,Poorer,Former,High,19.1,104.0,73.0,No,6.0,No,2024-03-22
+1048,Rajshahi,Urban,Female,69,Primary,Richest,Never,High,22.2,136.0,90.0,Yes,5.4,No,2024-10-25
+1049,Natore,Rural,Female,64,No formal education,Poorer,Never,High,23.0,108.0,67.0,No,6.3,No,2024-03-08
+1050,Pabna,Rural,Male,47,Secondary,Poorest,Former,Moderate,19.8,124.0,70.0,No,5.1,No,2024-09-29
+1051,Pabna,Rural,Male,79,Primary,Poorest,Never,Low,,131.0,95.0,Yes,8.3,Yes,2024-10-20
+1052,Bogura,Urban,Female,73,Primary,Richer,Never,Moderate,25.9,140.0,86.0,Yes,6.6,No,2024-07-02
+1053,Bogura,Rural,Female,59,No formal education,Poorer,Former,High,22.4,131.0,81.0,No,6.8,No,2024-09-10
+1054,Bogura,Rural,Female,74,Secondary,Richer,Never,Low,23.3,130.0,87.0,No,6.5,No,2024-11-26
+1055,Bogura,Urban,Female,46,Higher,Richest,Never,Moderate,21.7,98.0,79.0,No,,,2024-11-06
+1056,Pabna,Rural,Female,51,Primary,Poorest,Never,Moderate,22.9,116.0,77.0,No,6.1,No,2024-02-01
+1057,Pabna,Rural,Female,85,Higher,Poorer,Never,Low,20.7,114.0,83.0,No,,,2024-04-30
+1058,Bogura,Rural,Male,80,Primary,Richest,Current,Low,24.5,135.0,81.0,No,7.7,Yes,2024-02-10
+1059,Rajshahi,Rural,Male,53,Secondary,Middle,Never,High,22.6,141.0,101.0,Yes,5.9,No,2024-10-05
+1060,Natore,Rural,Female,84,Secondary,Richest,Never,Moderate,21.0,123.0,68.0,No,6.3,No,2024-07-12
+1061,Bogura,Rural,Male,62,No formal education,Poorest,Current,Low,19.3,113.0,74.0,No,5.8,No,2024-01-24
+1062,Bogura,Rural,Male,54,No formal education,Poorer,Never,Moderate,34.1,104.0,68.0,No,6.5,No,2024-08-24
+1063,Bogura,Urban,Female,85,Primary,Middle,Never,High,28.4,145.0,89.0,Yes,7.1,Yes,2024-07-15
+1064,Rajshahi,Rural,Male,49,Secondary,Richest,Former,Low,25.7,116.0,77.0,No,6.8,No,2024-04-14
+1065,Naogaon,Urban,Male,72,No formal education,Poorer,Former,Moderate,22.0,137.0,101.0,Yes,7.3,Yes,2024-10-23
+1066,Naogaon,Rural,Male,47,Secondary,Middle,Former,High,24.4,107.0,70.0,No,,,2024-09-22
+1067,Rajshahi,Rural,Female,51,Secondary,Middle,Never,Low,25.5,104.0,70.0,No,6.8,No,2024-08-21
+1068,Bogura,Rural,Female,76,Secondary,Poorer,Never,Low,23.6,137.0,82.0,No,6.5,No,2024-07-28
+1069,Natore,Rural,Male,47,No formal education,Middle,Current,Moderate,19.9,111.0,76.0,No,6.5,No,2024-07-03
+1070,Bogura,Urban,Female,61,Secondary,Poorest,Never,Moderate,22.1,119.0,78.0,No,5.8,No,2024-07-11
+1071,Pabna,Rural,Male,39,Secondary,Poorer,Current,High,23.8,131.0,82.0,No,5.2,No,2024-06-26
+1072,Bogura,Urban,Female,76,Secondary,Richer,Never,Low,22.2,139.0,77.0,No,6.3,No,2024-10-29
+1073,Natore,Urban,Male,68,Primary,Richest,Former,Low,28.0,140.0,92.0,Yes,6.5,No,2024-10-23
+1074,Naogaon,Rural,Female,44,Secondary,Middle,Never,Low,16.9,93.0,67.0,No,5.5,No,2024-03-15
+1075,Naogaon,Rural,Female,58,No formal education,Poorest,Never,Low,17.4,133.0,76.0,No,5.8,No,2024-09-11
+1076,Pabna,Rural,Male,54,Primary,Poorer,Never,High,24.7,103.0,67.0,No,5.4,No,2024-05-06
+1077,Rajshahi,Urban,Female,52,Primary,Richest,Never,Moderate,22.1,135.0,73.0,No,5.1,No,2024-04-03
+1078,Naogaon,Urban,Male,64,Higher,Richest,Former,Moderate,23.2,112.0,82.0,No,5.7,No,2024-07-23
+1079,Rajshahi,Urban,Female,54,Secondary,Middle,Never,Moderate,17.3,110.0,77.0,No,5.0,No,2024-06-06
+1080,Bogura,Rural,Male,84,Higher,Richer,Former,High,25.1,113.0,70.0,No,,,2024-11-30
+1081,Bogura,Rural,Male,63,Primary,Richest,Never,Moderate,25.8,125.0,71.0,No,5.8,No,2024-10-20
+1082,Pabna,Rural,Male,44,Primary,Richest,Former,Moderate,30.4,101.0,73.0,No,6.1,No,2024-06-29
+1083,Bogura,Rural,Male,40,Secondary,Richest,Never,High,17.9,105.0,71.0,No,5.5,No,2024-02-05
+1084,Rajshahi,Rural,Female,46,Secondary,Poorer,Never,Low,20.4,112.0,80.0,No,5.5,No,2024-01-17
+1085,Rajshahi,Rural,Male,65,Primary,Poorer,Never,High,28.9,148.0,94.0,Yes,7.4,Yes,2024-02-28
+1086,Pabna,Rural,Female,85,Primary,Poorer,Never,Moderate,,155.0,96.0,Yes,5.9,No,2024-05-11
+1087,Bogura,Rural,Female,56,No formal education,Richer,Never,Low,23.7,121.0,79.0,No,6.3,No,2024-04-13
+1088,Pabna,Urban,Male,42,Higher,Poorer,Current,Low,24.8,119.0,77.0,No,5.7,No,2024-03-08
+1089,Pabna,Rural,Female,37,No formal education,Richer,Never,Low,21.7,108.0,67.0,No,6.2,No,2024-03-09
+1090,Naogaon,Urban,Male,72,Higher,Richest,Former,Moderate,24.8,143.0,86.0,Yes,6.6,No,2024-03-27
+1091,Naogaon,Urban,Male,56,Primary,Middle,Never,Moderate,23.1,124.0,81.0,No,5.8,No,2024-01-15
+1092,Rajshahi,Urban,Male,65,Secondary,Richer,Current,Low,28.6,125.0,84.0,No,6.4,No,2024-07-11
+1093,Naogaon,Rural,Male,55,Secondary,Middle,Current,Low,22.4,132.0,86.0,No,7.3,Yes,2024-07-04
+1094,Natore,Urban,Female,74,No formal education,Poorest,Former,Low,24.0,134.0,88.0,No,6.0,No,2024-03-24
+1095,Pabna,Rural,Male,77,Secondary,Richest,Current,High,24.6,129.0,74.0,No,,,2024-07-04
+1096,Pabna,Rural,Male,64,Secondary,Poorest,Former,Moderate,21.0,114.0,69.0,No,7.2,Yes,2024-10-15
+1097,Pabna,Urban,Female,68,Primary,Poorer,Never,Low,20.8,124.0,80.0,No,6.3,No,2024-03-07
+1098,Naogaon,Rural,Female,54,Secondary,Poorer,Never,Moderate,23.1,113.0,72.0,No,6.6,No,2024-06-21
+1099,Rajshahi,Rural,Female,82,Higher,Poorest,Never,Moderate,23.2,128.0,79.0,No,6.3,No,2024-12-02
+1100,Pabna,Rural,Male,57,Primary,Poorer,Current,High,23.6,129.0,91.0,Yes,5.1,No,2024-07-26
+1101,Natore,Rural,Female,47,Secondary,Middle,Current,High,26.4,128.0,81.0,No,5.5,No,2024-01-15
+1102,Rajshahi,Rural,Female,85,No formal education,Poorer,Never,High,22.1,136.0,92.0,Yes,6.4,No,2024-10-19
+1103,Pabna,Rural,Female,78,Primary,Poorer,Former,Moderate,24.1,160.0,101.0,Yes,6.1,No,2024-02-22
+1104,Bogura,Rural,Female,61,Higher,Middle,Never,High,23.8,135.0,86.0,No,5.2,No,2024-10-13
+1105,Natore,Rural,Male,70,Primary,Poorer,Never,Moderate,20.1,128.0,91.0,Yes,6.5,No,2024-10-25
+1106,Rajshahi,Rural,Male,35,Secondary,Poorer,Current,High,27.3,106.0,75.0,No,,,2024-04-29
+1107,Pabna,Rural,Male,67,No formal education,Middle,Current,High,26.5,124.0,82.0,No,6.2,No,2024-09-16
+1108,Natore,Urban,Female,74,Higher,Poorer,Former,High,21.0,144.0,91.0,Yes,5.6,No,2024-09-02
+1109,Pabna,Rural,Male,79,Secondary,Richest,Current,Moderate,24.3,137.0,98.0,Yes,6.2,No,2024-09-05
+1110,Bogura,Urban,Male,60,No formal education,Richer,Former,Low,19.9,125.0,74.0,No,7.4,Yes,2024-05-22
+1111,Pabna,Rural,Male,56,Secondary,Poorest,Former,Low,21.8,135.0,89.0,No,6.2,No,2024-03-26
+1112,Bogura,Rural,Female,72,Higher,Richer,Never,High,23.0,119.0,79.0,No,7.1,Yes,2024-05-23
+1113,Pabna,Rural,Female,58,Primary,Richest,Never,High,26.3,120.0,76.0,No,5.3,No,2024-11-06
+1114,Rajshahi,Urban,Male,62,Primary,Richest,Current,Low,20.2,118.0,88.0,No,5.8,No,2024-02-16
+1115,Rajshahi,Rural,Female,41,No formal education,Richer,Former,Moderate,19.7,102.0,70.0,No,5.2,No,2024-11-14
+1116,Rajshahi,Rural,Male,83,Primary,Richer,Current,Moderate,20.5,120.0,78.0,No,6.1,No,2024-09-27
+1117,Rajshahi,Urban,Male,65,Secondary,Richer,Never,Moderate,20.2,117.0,76.0,No,5.9,No,2024-04-03
+1118,Pabna,Rural,Male,66,Secondary,Richest,,Low,22.3,119.0,80.0,No,5.8,No,2024-01-17
+1119,Rajshahi,Rural,Male,81,No formal education,Middle,Never,Low,24.9,129.0,82.0,No,6.5,No,2024-08-12
+1120,Bogura,Rural,Male,73,Higher,Richer,Never,High,26.3,124.0,77.0,No,6.0,No,2024-02-14
+1121,Pabna,Urban,Female,55,Primary,Middle,Never,High,21.1,135.0,89.0,No,5.7,No,2024-05-22
+1122,Naogaon,Rural,Female,42,Higher,Poorer,Never,Low,22.8,116.0,80.0,No,6.5,No,2024-08-23
+1123,Bogura,Urban,Female,76,Higher,Poorest,Never,Low,23.2,119.0,74.0,No,6.4,No,2024-06-12
+1124,Bogura,Rural,Male,45,Primary,Richest,Never,Moderate,19.9,117.0,73.0,No,5.5,No,2024-04-02
+1125,Bogura,Rural,Male,64,Secondary,Richer,Never,Moderate,27.1,127.0,82.0,No,,,2024-04-07
+1126,Rajshahi,Rural,Female,63,No formal education,Richer,Never,Moderate,19.2,105.0,66.0,No,,,2024-04-28
+1127,Pabna,Urban,Male,52,Higher,Richer,Current,High,28.1,137.0,93.0,Yes,5.5,No,2024-11-08
+1128,Natore,Rural,Female,75,Higher,Richer,Former,High,19.4,133.0,77.0,No,5.1,No,2024-08-10
+1129,Bogura,Rural,Female,73,Primary,Middle,Never,High,25.4,131.0,77.0,No,5.9,No,2024-03-16
+1130,Pabna,Urban,Male,76,Higher,Richest,Never,Low,21.7,137.0,96.0,Yes,6.3,No,2024-09-04
+1131,Naogaon,Rural,Male,51,Primary,Middle,Never,High,22.3,133.0,87.0,No,4.8,No,2024-06-04
+1132,Pabna,Rural,Male,69,Secondary,Richest,Former,High,23.5,156.0,94.0,Yes,6.4,No,2024-08-19
+1133,Natore,Rural,Male,64,Secondary,Poorest,Never,Low,20.7,117.0,72.0,No,6.2,No,2024-07-21
+1134,Naogaon,Rural,Male,65,Primary,Middle,Former,Moderate,25.4,146.0,96.0,Yes,6.4,No,2024-06-26
+1135,Rajshahi,Urban,Male,66,Secondary,Poorer,Never,Low,24.9,132.0,87.0,No,6.3,No,2024-05-24
+1136,Pabna,Rural,Male,48,Secondary,Poorest,Current,Moderate,26.4,124.0,90.0,Yes,5.5,No,2024-09-30
+1137,Natore,Rural,Female,64,Higher,Richer,Never,Moderate,21.1,121.0,77.0,No,5.5,No,2024-09-08
+1138,Natore,Rural,Male,37,Secondary,Richer,Former,Moderate,16.8,121.0,75.0,No,5.1,No,2024-05-10
+1139,Bogura,Urban,Female,47,Higher,Richer,Never,Low,27.3,111.0,70.0,No,6.7,No,2024-04-09
+1140,Pabna,Urban,Female,58,No formal education,Richer,Never,Moderate,24.0,131.0,83.0,No,5.7,No,2024-11-01
+1141,Pabna,Urban,Female,51,Primary,Poorer,Never,Moderate,22.9,129.0,76.0,No,5.4,No,2024-04-06
+1142,Bogura,Urban,Male,73,Secondary,Poorer,Never,Moderate,27.1,136.0,95.0,Yes,6.4,No,2024-10-02
+1143,Rajshahi,Rural,Female,52,Higher,Richest,Never,Low,24.6,114.0,76.0,No,5.8,No,2024-07-26
+1144,Bogura,Rural,Female,85,Primary,Poorer,Never,High,20.2,155.0,87.0,Yes,,,2024-07-10
+1145,Naogaon,Rural,Female,67,Primary,Poorer,Former,Low,25.2,123.0,88.0,No,6.6,No,2024-09-04
+1146,Rajshahi,Rural,Male,59,No formal education,Poorest,Never,High,25.5,133.0,83.0,No,6.3,No,2024-03-23
+1147,Rajshahi,Rural,Male,53,Secondary,Poorer,Never,Low,18.5,115.0,70.0,No,5.3,No,2024-08-30
+1148,Bogura,Urban,Female,65,No formal education,Middle,Never,High,23.7,118.0,75.0,No,5.7,No,2024-11-20
+1149,Rajshahi,Urban,Male,54,Secondary,Poorer,Current,High,19.7,134.0,82.0,No,4.8,No,2024-10-02
+1150,Rajshahi,Urban,Female,74,Secondary,Richest,Never,Moderate,29.6,133.0,89.0,No,6.7,No,2024-07-04
+1151,Naogaon,Urban,Female,60,Primary,Middle,Never,High,28.9,113.0,73.0,No,6.1,No,2024-06-01
+1152,Bogura,Urban,Female,82,Primary,Poorer,Former,Low,,142.0,87.0,Yes,6.7,No,2024-09-01
+1153,Pabna,Rural,Male,41,Primary,Poorest,Never,High,23.2,98.0,83.0,No,,,2024-04-13
+1154,Rajshahi,Urban,Male,48,Secondary,Richest,Never,Moderate,25.2,111.0,74.0,No,5.8,No,2024-08-29
+1155,Pabna,Urban,Female,58,Secondary,Richer,Never,Moderate,20.5,124.0,83.0,No,5.4,No,2024-05-28
+1156,Rajshahi,Rural,Female,77,Primary,Richer,Never,Moderate,25.1,135.0,81.0,No,6.4,No,2024-06-06
+1157,Natore,Rural,Male,52,Primary,Middle,Never,Low,26.6,111.0,74.0,No,5.9,No,2024-11-14
+1158,Bogura,Rural,Female,85,Secondary,Middle,Never,Moderate,25.7,150.0,99.0,Yes,6.6,No,2024-11-26
+1159,Rajshahi,Rural,Female,62,Primary,Poorer,Never,Moderate,24.2,131.0,78.0,No,6.2,No,2024-01-20
+1160,Natore,Rural,Male,85,No formal education,Richest,Never,Low,24.2,120.0,79.0,No,6.3,No,2024-02-19
+1161,Pabna,Rural,Female,82,No formal education,Richest,Never,Moderate,20.4,120.0,76.0,No,6.2,No,2024-05-04
+1162,Bogura,Rural,Female,78,Higher,Richest,Never,High,25.0,157.0,87.0,Yes,5.7,No,2024-11-16
+1163,Rajshahi,Urban,Male,52,Higher,Poorest,Former,Moderate,31.7,116.0,79.0,No,6.1,No,2024-04-01
+1164,Natore,Rural,Male,85,Primary,Richest,Former,Low,21.0,143.0,85.0,Yes,,,2024-11-19
+1165,Bogura,Rural,Male,81,No formal education,Poorer,Never,Moderate,20.2,133.0,81.0,No,5.6,No,2024-01-17
+1166,Rajshahi,Rural,Male,43,Secondary,Richer,Never,Moderate,19.4,122.0,91.0,Yes,5.5,No,2024-08-13
+1167,Naogaon,Urban,Female,50,Secondary,Richest,Never,Low,23.5,106.0,79.0,No,5.7,No,2024-04-02
+1168,Rajshahi,Urban,Male,85,Secondary,Poorer,Never,Moderate,28.5,144.0,92.0,Yes,7.2,Yes,2024-08-20
+1169,Rajshahi,Rural,Female,69,Secondary,Poorer,Never,High,23.4,123.0,80.0,No,6.2,No,2024-11-27
+1170,Bogura,Urban,Male,69,Secondary,Richest,Former,Moderate,29.3,134.0,83.0,No,6.5,No,2024-01-24
+1171,Rajshahi,Rural,Female,66,No formal education,Middle,Never,High,,131.0,77.0,No,5.6,No,2024-03-25
+1172,Bogura,Rural,Male,85,Primary,Richer,Never,High,23.3,142.0,88.0,Yes,5.8,No,2024-01-19
+1173,Pabna,Urban,Male,85,Primary,Richest,Never,Low,31.1,136.0,94.0,Yes,6.8,No,2024-05-01
+1174,Naogaon,Rural,Male,78,Higher,Richest,Current,Moderate,28.7,136.0,86.0,No,6.1,No,2024-04-28
+1175,Naogaon,Urban,Female,48,Primary,Poorest,Never,Low,19.1,97.0,60.0,No,5.5,No,2024-08-31
+1176,Rajshahi,Rural,Male,85,Secondary,Poorest,Former,Low,25.8,141.0,97.0,Yes,6.3,No,2024-08-03
+1177,Natore,Rural,Male,46,No formal education,Middle,Never,Moderate,20.9,118.0,68.0,No,,,2024-04-17
+1178,Rajshahi,Rural,Male,37,Primary,Richer,Former,Low,19.6,102.0,70.0,No,6.0,No,2024-07-15
+1179,Natore,Urban,Male,85,Primary,Richer,Former,High,26.1,142.0,83.0,Yes,6.0,No,2024-10-27
+1180,Bogura,Urban,Male,50,Primary,Richest,Former,High,,135.0,89.0,No,5.9,No,2024-10-21
+1181,Natore,Rural,Female,54,Higher,Richer,Never,Low,24.9,105.0,63.0,No,6.0,No,2024-02-21
+1182,Natore,Rural,Female,71,No formal education,Poorest,Never,Moderate,25.9,146.0,92.0,Yes,6.9,No,2024-10-26
+1183,Natore,Rural,Female,54,Secondary,Poorest,Never,Moderate,20.2,104.0,69.0,No,5.3,No,2024-04-16
+1184,Naogaon,Urban,Male,53,Higher,Richer,Former,High,27.0,141.0,85.0,Yes,6.1,No,2024-09-11
+1185,Rajshahi,Rural,Male,59,Secondary,Richest,Never,Low,20.7,116.0,68.0,No,6.0,No,2024-02-27
+1186,Pabna,Rural,Male,73,Primary,Poorest,Never,High,23.6,135.0,95.0,Yes,6.3,No,2024-03-30
+1187,Natore,Urban,Male,61,Secondary,Richer,Former,Low,25.0,147.0,79.0,Yes,6.3,No,2024-07-21
+1188,Rajshahi,Rural,Female,85,Secondary,Poorer,Never,High,24.0,129.0,80.0,No,6.2,No,2024-04-09
+1189,Pabna,Rural,Male,85,Primary,Middle,Former,Low,23.3,150.0,91.0,Yes,8.0,Yes,2024-04-09
+1190,Bogura,Rural,Male,63,Primary,Poorer,Former,High,25.1,125.0,83.0,No,5.9,No,2024-04-07
+1191,Rajshahi,Urban,Female,49,Secondary,Middle,Current,Low,24.8,133.0,90.0,Yes,5.9,No,2024-01-20
+1192,Pabna,Rural,Female,47,Secondary,Richer,Never,Moderate,20.4,119.0,76.0,No,5.5,No,2024-11-29
+1193,Bogura,Urban,Male,52,Primary,Richest,Former,Low,27.1,120.0,74.0,No,7.1,Yes,2024-12-02
+1194,Pabna,Urban,Male,46,Higher,Richer,Never,Moderate,28.7,98.0,56.0,No,5.6,No,2024-06-26
+1195,Pabna,Rural,Female,78,Secondary,Poorest,Never,Moderate,19.4,134.0,81.0,No,6.5,No,2024-02-24
+1196,Bogura,Rural,Female,67,Primary,Richer,Never,High,16.3,124.0,85.0,No,5.1,No,2024-04-04
+1197,Naogaon,Urban,Male,69,Secondary,Poorer,,High,25.8,136.0,87.0,No,7.0,Yes,2024-08-27
+1198,Rajshahi,Rural,Male,66,Primary,Middle,Never,High,26.8,130.0,88.0,No,5.4,No,2024-05-21
+1199,Bogura,Rural,Male,55,Primary,Poorest,Former,Low,19.0,110.0,70.0,No,6.1,No,2024-07-08
+1200,Bogura,Rural,Female,64,Higher,Middle,Former,High,29.4,123.0,82.0,No,6.0,No,2024-06-01
+1201,Natore,Rural,Female,64,No formal education,Richer,Never,Moderate,21.6,109.0,80.0,No,5.8,No,2024-01-21
+1202,Pabna,Rural,Male,41,Secondary,Poorer,Never,Moderate,26.8,101.0,62.0,No,6.0,No,2024-04-11
+1203,Rajshahi,Rural,Male,76,Higher,Poorer,Never,Moderate,26.6,141.0,101.0,Yes,6.4,No,2024-09-03
+1204,Natore,Urban,Male,85,No formal education,Richer,Former,Low,29.0,141.0,95.0,Yes,7.9,Yes,2024-05-02
+1205,Natore,Rural,Male,72,Primary,Poorer,Current,Low,23.0,112.0,74.0,No,6.6,No,2024-05-05
+1206,Natore,Urban,Male,85,Higher,Richest,Never,Low,30.6,149.0,100.0,Yes,7.1,Yes,2024-06-09
+1207,Rajshahi,Urban,Female,46,No formal education,Poorer,Never,High,21.3,104.0,69.0,No,5.1,No,2024-06-08
+1208,Rajshahi,Urban,Male,85,Primary,Richer,Former,Low,27.7,146.0,99.0,Yes,7.3,Yes,2024-01-15
+1209,Naogaon,Rural,Female,73,Higher,Richer,Never,High,26.4,136.0,96.0,Yes,6.3,No,2024-05-08
+1210,Naogaon,Urban,Female,71,No formal education,Richest,Never,High,25.1,142.0,91.0,Yes,5.8,No,2024-07-24
+1211,Rajshahi,Urban,Female,72,No formal education,Poorest,Never,High,24.3,139.0,86.0,No,5.4,No,2024-03-28
+1212,Pabna,Rural,Female,60,Primary,Richer,Former,Low,22.2,117.0,77.0,No,6.4,No,2024-02-13
+1213,Rajshahi,Urban,Male,64,No formal education,Richer,Never,High,,123.0,70.0,No,6.0,No,2024-04-02
+1214,Bogura,Rural,Female,62,No formal education,Richest,Former,Moderate,21.0,115.0,83.0,No,6.2,No,2024-11-15
+1215,Rajshahi,Rural,Female,42,Primary,Poorer,Never,High,23.2,129.0,88.0,No,4.8,No,2024-09-09
+1216,Bogura,Urban,Male,61,Primary,Richest,Former,Moderate,17.1,103.0,61.0,No,5.8,No,2024-08-29
+1217,Rajshahi,Rural,Female,68,Higher,Richer,Never,Low,27.2,126.0,70.0,No,6.9,No,2024-02-28
+1218,Naogaon,Urban,Male,85,Higher,Richest,Former,Low,24.3,144.0,95.0,Yes,6.2,No,2024-03-21
+1219,Pabna,Rural,Male,85,No formal education,Middle,Current,Moderate,24.0,126.0,79.0,No,6.6,No,2024-11-05
+1220,Rajshahi,Urban,Female,84,Primary,Richer,Never,Low,23.8,125.0,85.0,No,8.3,Yes,2024-01-27
+1221,Bogura,Urban,Male,57,No formal education,Richest,Never,High,25.3,106.0,59.0,No,5.3,No,2024-11-29
+1222,Bogura,Rural,Male,78,Primary,Middle,Current,Moderate,22.9,139.0,88.0,No,6.0,No,2024-01-20
+1223,Pabna,Rural,Male,40,Primary,Middle,Never,High,27.2,99.0,68.0,No,4.9,No,2024-02-08
+1224,Pabna,Rural,Female,67,Primary,Poorer,Never,High,26.0,112.0,72.0,No,5.6,No,2024-02-26
+1225,Bogura,Rural,Female,75,No formal education,Richer,Former,High,21.2,139.0,92.0,Yes,5.6,No,2024-03-04
+1226,Bogura,Rural,Female,44,Higher,Richest,Never,Moderate,17.0,86.0,56.0,No,4.8,No,2024-08-06
+1227,Pabna,Rural,Female,75,Primary,Poorest,Never,High,27.0,127.0,85.0,No,5.9,No,2024-11-28
+1228,Naogaon,Rural,Female,46,No formal education,Poorer,Never,Low,22.9,114.0,62.0,No,5.8,No,2024-05-08
+1229,Pabna,Rural,Male,73,Primary,Poorer,Former,Moderate,21.3,121.0,73.0,No,5.5,No,2024-03-31
+1230,Naogaon,Rural,Male,57,Higher,Richest,Former,Low,26.2,118.0,80.0,No,6.5,No,2024-11-20
+1231,Rajshahi,Urban,Male,52,Primary,Richer,Never,Low,17.1,118.0,75.0,No,6.5,No,2024-09-01
+1232,Rajshahi,Rural,Male,73,Primary,Richest,Former,Low,22.4,117.0,72.0,No,6.1,No,2024-05-14
+1233,Naogaon,Rural,Male,52,Higher,Richer,Former,Moderate,25.5,126.0,87.0,No,6.1,No,2024-07-09
+1234,Pabna,Urban,Male,85,No formal education,Richer,Former,Moderate,21.9,139.0,98.0,Yes,5.8,No,2024-02-09
+1235,Bogura,Urban,Male,83,Higher,Middle,Former,Moderate,19.5,123.0,84.0,No,6.9,No,2024-09-19
+1236,Bogura,Urban,Female,85,Higher,Poorer,Never,Low,22.4,144.0,90.0,Yes,6.5,No,2024-04-13
+1237,Bogura,Rural,Male,85,Primary,Poorest,Former,High,22.4,127.0,89.0,No,5.8,No,2024-03-12
+1238,Pabna,Urban,Male,43,Primary,Richest,Current,Moderate,23.9,114.0,76.0,No,5.9,No,2024-08-30
+1239,Bogura,Rural,Female,63,Secondary,Richest,Never,Low,27.7,122.0,72.0,No,6.4,No,2024-09-18
+1240,Bogura,Urban,Female,52,Higher,Middle,Never,Moderate,25.1,111.0,72.0,No,6.1,No,2024-08-07
+1241,Natore,Urban,Female,62,Primary,Richest,Never,Moderate,23.6,125.0,86.0,No,5.5,No,2024-07-31
+1242,Naogaon,Urban,Male,54,Primary,Middle,Current,High,25.0,101.0,69.0,No,6.1,No,2024-02-02
+1243,Naogaon,Urban,Male,75,Higher,Richest,Former,Moderate,26.0,125.0,77.0,No,7.0,Yes,2024-02-19
+1244,Bogura,Rural,Male,58,Higher,Richer,Current,Moderate,27.9,124.0,86.0,No,7.0,Yes,2024-02-02
+1245,Rajshahi,Rural,Male,53,Secondary,Poorer,Former,Moderate,25.0,126.0,87.0,No,5.5,No,2024-09-13
+1246,Rajshahi,Rural,Male,59,Primary,Poorest,Former,High,29.5,131.0,90.0,Yes,6.2,No,2024-01-09
+1247,Bogura,Rural,Male,53,Primary,Middle,Former,Low,24.7,115.0,79.0,No,6.3,No,2024-06-18
+1248,Rajshahi,Rural,Female,85,Higher,Middle,Current,Low,22.9,156.0,97.0,Yes,7.1,Yes,2024-02-27
+1249,Rajshahi,Rural,Female,54,Primary,Poorest,Never,Low,21.5,102.0,75.0,No,5.8,No,2024-10-10
+1250,Rajshahi,Rural,Female,77,Higher,Middle,Never,Moderate,19.3,127.0,90.0,Yes,6.7,No,2024-03-26
+1251,Naogaon,Rural,Male,70,Secondary,Richest,Never,Low,21.3,127.0,80.0,No,6.4,No,2024-10-17
+1252,Rajshahi,Rural,Male,76,Primary,Poorest,Never,Moderate,23.0,117.0,70.0,No,6.3,No,2024-06-23
+1253,Rajshahi,Rural,Female,45,No formal education,Middle,Never,High,25.9,102.0,67.0,No,5.4,No,2024-07-10
+1254,Naogaon,Urban,Female,54,Primary,Richest,Never,Low,22.2,120.0,78.0,No,6.1,No,2024-02-28
+1255,Pabna,Urban,Male,85,Secondary,Middle,Never,High,21.1,128.0,80.0,No,6.5,No,2024-09-06
+1256,Natore,Rural,Male,76,Higher,Middle,Never,Moderate,25.5,144.0,96.0,Yes,6.0,No,2024-07-01
+1257,Bogura,Rural,Male,60,Primary,Middle,Current,Moderate,20.1,116.0,74.0,No,6.2,No,2024-01-10
+1258,Naogaon,Rural,Male,57,Higher,Poorest,Former,Low,28.9,121.0,76.0,No,5.9,No,2024-11-07
+1259,Naogaon,Rural,Female,51,Primary,Poorer,Never,High,27.0,135.0,83.0,No,5.2,No,2024-04-17
+1260,Pabna,Urban,Male,53,Higher,Poorer,Former,Low,24.4,106.0,71.0,No,5.9,No,2024-02-10
+1261,Naogaon,Rural,Male,82,Primary,Poorer,Former,High,22.7,134.0,85.0,No,5.5,No,2024-02-16
+1262,Bogura,Urban,Male,61,Primary,Richest,Never,High,24.7,135.0,77.0,No,7.3,Yes,2024-08-19
+1263,Bogura,Rural,Female,67,Secondary,Poorer,Never,Low,24.1,127.0,90.0,Yes,6.3,No,2024-02-29
+1264,Natore,Rural,Male,66,Higher,Poorer,Never,High,21.4,118.0,73.0,No,5.2,No,2024-05-17
+1265,Pabna,Rural,Male,62,No formal education,Middle,Never,High,21.6,132.0,85.0,No,7.0,Yes,2024-02-04
+1266,Rajshahi,Urban,Female,73,Primary,Richer,Never,Moderate,,109.0,73.0,No,6.3,No,2024-02-12
+1267,Bogura,Urban,Male,49,Primary,Middle,Never,Low,27.5,118.0,82.0,No,5.6,No,2024-06-25
+1268,Rajshahi,Urban,Male,61,Higher,Poorer,Never,Moderate,21.0,111.0,68.0,No,6.1,No,2024-02-09
+1269,Naogaon,Rural,Female,85,Secondary,Middle,Never,High,23.5,138.0,88.0,No,6.3,No,2024-07-12
+1270,Pabna,Urban,Female,80,Primary,Poorest,Never,High,29.3,134.0,99.0,Yes,6.1,No,2024-05-13
+1271,Rajshahi,Rural,Female,84,No formal education,Poorer,Never,High,23.3,128.0,80.0,No,6.2,No,2024-08-09
+1272,Naogaon,Rural,Female,66,Primary,Richest,Never,Low,21.3,132.0,76.0,No,6.3,No,2024-12-02
+1273,Naogaon,Urban,Male,56,No formal education,Richer,Former,Moderate,25.7,123.0,86.0,No,5.5,No,2024-02-13
+1274,Natore,Urban,Male,70,Higher,Richer,Former,Low,20.9,130.0,83.0,No,6.0,No,2024-09-08
+1275,Bogura,Rural,Male,70,Primary,Poorer,Former,High,23.1,136.0,92.0,Yes,5.7,No,2024-11-02
+1276,Pabna,Rural,Female,61,Primary,Richer,Never,Moderate,24.0,105.0,75.0,No,5.5,No,2024-08-23
+1277,Rajshahi,Rural,Male,56,Primary,Middle,Never,High,20.6,114.0,73.0,No,5.1,No,2024-03-19
+1278,Rajshahi,Rural,Female,48,Higher,Richest,Never,Low,24.3,114.0,67.0,No,5.5,No,2024-03-26
+1279,Bogura,Rural,Female,50,Secondary,Middle,Never,Low,22.4,124.0,92.0,Yes,6.3,No,2024-01-15
+1280,Bogura,Urban,Female,47,No formal education,Richer,Never,High,23.9,95.0,71.0,No,5.4,No,2024-07-16
+1281,Natore,Rural,Female,84,Higher,Middle,Never,Low,22.1,139.0,86.0,No,6.8,No,2024-03-25
+1282,Rajshahi,Urban,Female,70,Primary,Poorest,Never,Low,22.1,140.0,92.0,Yes,6.0,No,2024-01-26
+1283,Rajshahi,Rural,Male,79,No formal education,Poorest,Never,Moderate,19.6,124.0,86.0,No,5.9,No,2024-05-23
+1284,Pabna,Urban,Female,68,No formal education,Richer,Never,Low,33.9,143.0,94.0,Yes,7.7,Yes,2024-08-05
+1285,Naogaon,Rural,Male,85,Secondary,Poorest,Former,Moderate,31.5,141.0,94.0,Yes,7.7,Yes,2024-08-22
+1286,Naogaon,Urban,Female,85,Primary,Richest,Never,Moderate,25.0,144.0,97.0,Yes,6.3,No,2024-07-14
+1287,Natore,Urban,Female,53,Secondary,Middle,Never,High,25.4,131.0,87.0,No,5.8,No,2024-07-27
+1288,Naogaon,Rural,Female,67,Secondary,Middle,Never,Low,22.7,130.0,85.0,No,7.1,Yes,2024-08-10
+1289,Pabna,Rural,Male,72,No formal education,Poorest,Never,Moderate,18.6,144.0,96.0,Yes,5.8,No,2024-06-29
+1290,Natore,Rural,Female,57,Higher,Richest,Never,High,22.9,112.0,75.0,No,5.4,No,2024-07-19
+1291,Bogura,Rural,Male,63,Secondary,Middle,Current,Moderate,33.2,146.0,90.0,Yes,6.6,No,2024-06-28
+1292,Bogura,Rural,Female,65,Primary,Richest,Never,Moderate,24.4,152.0,97.0,Yes,6.2,No,2024-05-29
+1293,Naogaon,Rural,Male,70,Secondary,Poorest,Never,Moderate,16.0,118.0,78.0,No,5.5,No,2024-09-20
+1294,Bogura,Rural,Male,65,Primary,Middle,Never,Moderate,23.6,123.0,75.0,No,6.5,No,2024-05-30
+1295,Natore,Urban,Male,65,Primary,Richer,Never,Low,23.9,122.0,83.0,No,6.6,No,2024-11-07
+1296,Bogura,Rural,Male,52,No formal education,Poorer,Never,High,28.4,112.0,73.0,No,6.3,No,2024-02-19
+1297,Rajshahi,Urban,Female,66,Primary,Middle,Never,High,24.3,112.0,69.0,No,5.4,No,2024-06-21
+1298,Rajshahi,Rural,Female,83,No formal education,Richer,Never,High,21.2,155.0,90.0,Yes,5.4,No,2024-06-04
+1299,Bogura,Rural,Female,85,Secondary,Middle,Never,High,20.3,127.0,84.0,No,5.4,No,2024-07-03
+1300,Natore,Rural,Male,44,No formal education,Middle,Never,Low,18.9,121.0,70.0,No,6.2,No,2024-04-24
+1301,Natore,Urban,Male,64,Primary,Poorer,Never,Moderate,24.3,137.0,86.0,No,7.3,Yes,2024-11-02
+1302,Bogura,Rural,Female,51,Secondary,Poorer,Never,Low,17.1,123.0,80.0,No,8.0,Yes,2024-09-23
+1303,Rajshahi,Rural,Male,59,Higher,Poorest,Former,Moderate,19.0,100.0,67.0,No,5.1,No,2024-05-22
+1304,Pabna,Rural,Female,72,Secondary,Middle,Never,Moderate,23.0,121.0,75.0,No,7.9,Yes,2024-04-18
+1305,Rajshahi,Rural,Male,49,Primary,Richest,Former,Low,28.0,125.0,67.0,No,6.2,No,2024-01-10
+1306,Bogura,Urban,Male,55,Primary,Richest,Current,Moderate,25.2,125.0,74.0,No,6.3,No,2024-09-05
+1307,Pabna,Rural,Female,56,Higher,Richer,Never,Moderate,22.5,122.0,72.0,No,5.8,No,2024-02-13
+1308,Bogura,Urban,Male,63,Higher,Richer,Former,Low,24.2,122.0,85.0,No,5.9,No,2024-06-19
+1309,Bogura,Rural,Male,67,Primary,Richest,Never,Low,27.0,116.0,84.0,No,,,2024-11-11
+1310,Rajshahi,Urban,Female,80,Higher,Richer,Never,Low,25.8,139.0,98.0,Yes,6.5,No,2024-07-21
+1311,Rajshahi,Urban,Male,45,Primary,Richest,Never,Low,27.6,114.0,71.0,No,6.5,No,2024-10-16
+1312,Natore,Rural,Male,85,No formal education,Poorer,Never,Moderate,26.3,119.0,68.0,No,6.3,No,2024-06-16
+1313,Bogura,Rural,Female,55,Higher,Poorer,Never,Low,22.0,116.0,76.0,No,5.6,No,2024-05-24
+1314,Naogaon,Rural,Male,62,Higher,Richest,Never,High,21.1,110.0,68.0,No,5.8,No,2024-12-01
+1315,Natore,Urban,Male,65,Secondary,Richest,Never,Moderate,24.7,141.0,91.0,Yes,5.7,No,2024-02-01
+1316,Rajshahi,Urban,Female,57,No formal education,Poorer,Never,Moderate,25.1,105.0,84.0,No,6.0,No,2024-09-02
+1317,Bogura,Urban,Male,57,Secondary,Middle,Current,High,23.0,114.0,71.0,No,5.6,No,2024-08-20
+1318,Pabna,Rural,Female,50,Secondary,Poorer,Never,Moderate,18.6,117.0,83.0,No,5.2,No,2024-02-25
+1319,Rajshahi,Urban,Female,85,No formal education,Middle,Never,Low,24.3,127.0,78.0,No,6.3,No,2024-09-06
+1320,Rajshahi,Urban,Female,85,Primary,Richer,Never,Low,23.9,156.0,104.0,Yes,6.9,No,2024-04-04
+1321,Natore,Urban,Female,83,Primary,Richer,Never,Moderate,24.5,136.0,86.0,No,6.2,No,2024-08-30
+1322,Natore,Urban,Female,52,Higher,Richest,Never,Moderate,24.9,119.0,78.0,No,6.7,No,2024-03-13
+1323,Bogura,Rural,Male,50,No formal education,Richest,Former,High,27.5,126.0,86.0,No,6.7,No,2024-05-28
+1324,Natore,Rural,Male,69,No formal education,Poorest,Never,Low,18.6,151.0,102.0,Yes,7.1,Yes,2024-09-12
+1325,Bogura,Rural,Male,85,Primary,Middle,Current,Low,17.7,139.0,88.0,No,6.6,No,2024-10-03
+1326,Natore,Rural,Female,62,Primary,Richest,Never,High,26.7,133.0,95.0,Yes,5.4,No,2024-09-12
+1327,Bogura,Urban,Male,72,Primary,Richer,Former,Moderate,24.8,133.0,80.0,No,6.6,No,2024-02-27
+1328,Bogura,Rural,Female,63,Primary,Richer,Never,Moderate,21.0,119.0,83.0,No,6.1,No,2024-02-23
+1329,Naogaon,Rural,Female,83,Secondary,Middle,Current,Low,,154.0,84.0,Yes,6.2,No,2024-03-27
+1330,Natore,Rural,Male,83,Primary,Poorer,Current,Low,20.3,144.0,85.0,Yes,5.9,No,2024-08-04
+1331,Bogura,Rural,Male,85,Secondary,Middle,Former,Moderate,27.3,138.0,80.0,No,7.0,Yes,2024-11-25
+1332,Naogaon,Rural,Male,85,Primary,Poorest,Former,Low,21.4,123.0,70.0,No,6.2,No,2024-04-03
+1333,Bogura,Rural,Female,43,Primary,Poorest,Never,High,20.8,114.0,76.0,No,4.9,No,2024-11-18
+1334,Pabna,Urban,Male,68,No formal education,Poorer,Current,Low,18.3,127.0,80.0,No,6.4,No,2024-08-23
+1335,Natore,Rural,Male,64,No formal education,Poorest,Former,High,21.2,106.0,63.0,No,6.0,No,2024-09-10
+1336,Bogura,Urban,Male,85,Primary,Richer,Former,Low,25.2,125.0,83.0,No,6.6,No,2024-03-06
+1337,Natore,Urban,Male,63,Higher,Poorest,Never,Low,26.5,109.0,62.0,No,6.2,No,2024-05-14
+1338,Bogura,Rural,Female,63,Higher,Poorer,Never,Moderate,23.3,132.0,92.0,Yes,6.5,No,2024-11-08
+1339,Naogaon,Rural,Male,40,No formal education,Richer,Former,Moderate,19.6,105.0,64.0,No,5.4,No,2024-01-22
+1340,Naogaon,Urban,Female,76,Higher,Poorer,Never,High,17.5,111.0,72.0,No,7.1,Yes,2024-09-10
+1341,Naogaon,Urban,Male,39,Primary,Richest,Current,Moderate,23.5,104.0,73.0,No,5.5,No,2024-06-13
+1342,Naogaon,Rural,Female,63,Primary,Middle,Never,Low,26.0,130.0,81.0,No,6.3,No,2024-02-10
+1343,Rajshahi,Urban,Male,52,No formal education,Richer,Former,High,20.2,103.0,61.0,No,5.0,No,2024-09-17
+1344,Pabna,Rural,Female,55,No formal education,Poorer,Never,High,23.1,109.0,66.0,No,5.5,No,2024-03-20
+1345,Natore,Urban,Female,81,No formal education,Richer,Never,Moderate,20.6,129.0,81.0,No,6.1,No,2024-02-11
+1346,Pabna,Rural,Male,55,Primary,Richer,Never,Low,30.4,129.0,87.0,No,6.0,No,2024-06-21
+1347,Pabna,Rural,Male,84,Higher,Poorer,Never,Low,20.9,123.0,79.0,No,6.4,No,2024-09-24
+1348,Rajshahi,Rural,Male,53,Higher,Richest,Former,High,19.7,95.0,59.0,No,4.9,No,2024-06-12
+1349,Rajshahi,Urban,Female,57,Secondary,Poorest,Never,Low,23.4,131.0,72.0,No,6.0,No,2024-06-06
+1350,Natore,Urban,Female,57,Secondary,Richest,Never,Low,20.2,117.0,70.0,No,7.3,Yes,2024-04-06
+1351,Rajshahi,Urban,Male,74,Primary,Richest,Current,Low,20.5,136.0,93.0,Yes,5.7,No,2024-09-12
+1352,Natore,Urban,Male,85,Primary,Poorest,Former,High,23.1,134.0,98.0,Yes,5.8,No,2024-07-28
+1353,Rajshahi,Urban,Male,65,Primary,Poorer,Former,Low,27.2,126.0,86.0,No,6.3,No,2024-01-24
+1354,Bogura,Rural,Male,77,Secondary,Poorest,Former,Low,20.9,133.0,88.0,No,6.1,No,2024-02-28
+1355,Rajshahi,Rural,Male,47,Primary,Richer,Former,Moderate,21.3,116.0,77.0,No,5.5,No,2024-03-14
+1356,Pabna,Urban,Female,71,Primary,Richer,Never,Low,18.1,128.0,77.0,No,6.4,No,2024-10-09
+1357,Bogura,Urban,Female,60,Primary,Richer,Never,Low,26.7,135.0,88.0,No,6.4,No,2024-07-17
+1358,Bogura,Urban,Male,62,No formal education,Middle,Never,High,23.0,115.0,75.0,No,5.4,No,2024-11-30
+1359,Bogura,Rural,Male,76,Secondary,Middle,Former,Moderate,20.9,126.0,79.0,No,6.2,No,2024-09-21
+1360,Bogura,Urban,Female,48,Secondary,Richer,Never,Low,27.7,112.0,79.0,No,,,2024-02-12
+1361,Pabna,Urban,Female,58,Higher,Middle,Never,High,19.1,112.0,66.0,No,,,2024-02-03
+1362,Rajshahi,Rural,Female,52,Higher,Middle,Never,Low,27.2,92.0,73.0,No,6.0,No,2024-09-09
+1363,Natore,Urban,Female,79,Secondary,Richest,Former,Low,21.8,110.0,66.0,No,6.1,No,2024-01-13
+1364,Natore,Rural,Male,77,Primary,Middle,Former,Moderate,26.8,142.0,92.0,Yes,7.1,Yes,2024-01-30
+1365,Naogaon,Urban,Female,44,No formal education,Richest,Never,Moderate,21.1,98.0,75.0,No,6.6,No,2024-10-13
+1366,Bogura,Rural,Female,55,Secondary,Poorer,Never,High,19.2,106.0,68.0,No,5.1,No,2024-10-11
+1367,Naogaon,Urban,Male,57,No formal education,Poorest,Former,Moderate,24.1,125.0,82.0,No,6.0,No,2024-06-24
+1368,Rajshahi,Urban,Female,46,Primary,Poorest,Never,Low,22.2,97.0,59.0,No,5.8,No,2024-10-24
+1369,Naogaon,Rural,Male,55,No formal education,Middle,Former,Moderate,25.5,143.0,91.0,Yes,6.0,No,2024-08-07
+1370,Rajshahi,Urban,Male,61,Higher,Middle,Former,Moderate,21.4,138.0,89.0,No,5.4,No,2024-04-07
+1371,Bogura,Rural,Male,85,Secondary,Richer,Former,Moderate,22.9,111.0,81.0,No,6.0,No,2024-05-15
+1372,Rajshahi,Rural,Male,73,Primary,Poorest,Former,High,23.4,142.0,81.0,Yes,5.9,No,2024-11-02
+1373,Natore,Urban,Male,60,Secondary,Richer,Current,High,19.5,131.0,76.0,No,6.3,No,2024-04-03
+1374,Bogura,Rural,Male,85,Primary,Richer,Never,Moderate,22.2,145.0,82.0,Yes,5.8,No,2024-06-04
+1375,Naogaon,Rural,Male,39,Primary,Poorer,Never,Moderate,20.0,90.0,50.0,No,5.2,No,2024-10-06
+1376,Rajshahi,Urban,Female,54,Secondary,Poorest,Never,Moderate,22.1,114.0,72.0,No,5.4,No,2024-04-10
+1377,Naogaon,Rural,Male,55,Primary,Poorest,Never,Moderate,20.4,120.0,83.0,No,,,2024-07-27
+1378,Bogura,Urban,Male,66,No formal education,Middle,Current,High,21.9,125.0,78.0,No,5.2,No,2024-01-31
+1379,Rajshahi,Urban,Female,74,Primary,Poorer,Former,Low,23.5,134.0,87.0,No,6.8,No,2024-11-23
+1380,Pabna,Urban,Male,49,Higher,Poorer,Former,Moderate,16.6,110.0,66.0,No,5.8,No,2024-01-18
+1381,Rajshahi,Rural,Female,64,Primary,Poorer,Never,Moderate,20.5,135.0,89.0,No,5.7,No,2024-03-27
+1382,Pabna,Rural,Male,56,Primary,Poorer,Former,Moderate,20.6,99.0,66.0,No,5.6,No,2024-11-02
+1383,Bogura,Rural,Male,72,No formal education,Poorest,Former,Low,22.8,138.0,90.0,Yes,6.1,No,2024-09-09
+1384,Rajshahi,Rural,Male,85,Higher,Poorer,Current,High,20.7,146.0,94.0,Yes,5.7,No,2024-07-20
+1385,Bogura,Rural,Female,68,No formal education,Richer,Never,High,21.0,141.0,88.0,Yes,6.0,No,2024-03-06
+1386,Bogura,Urban,Female,80,Secondary,Richer,Never,Low,18.7,106.0,63.0,No,5.9,No,2024-11-04
+1387,Rajshahi,Rural,Female,48,Primary,Poorer,Never,Low,22.5,93.0,54.0,No,5.4,No,2024-01-19
+1388,Naogaon,Urban,Male,44,No formal education,Richer,Former,Low,19.8,102.0,68.0,No,5.9,No,2024-04-17
+1389,Pabna,Urban,Male,53,Higher,Richest,Never,High,26.9,129.0,73.0,No,6.5,No,2024-09-07
+1390,Rajshahi,Rural,Female,85,No formal education,Poorer,Never,Low,24.2,129.0,79.0,No,6.3,No,2024-10-09
+1391,Natore,Rural,Female,57,No formal education,Poorer,Never,Low,17.9,135.0,96.0,Yes,6.3,No,2024-04-26
+1392,Bogura,Rural,Female,60,Primary,Richest,Never,Moderate,22.6,109.0,81.0,No,5.5,No,2024-02-08
+1393,Pabna,Urban,Female,73,No formal education,Richest,Never,High,28.2,140.0,92.0,Yes,6.3,No,2024-09-19
+1394,Bogura,Rural,Male,76,Secondary,Middle,,High,22.2,133.0,82.0,No,6.1,No,2024-05-25
+1395,Pabna,Rural,Female,55,Higher,Richer,Never,Moderate,,133.0,78.0,No,5.6,No,2024-04-11
+1396,Pabna,Rural,Female,69,No formal education,Poorest,Never,Moderate,20.3,128.0,86.0,No,6.0,No,2024-01-09
+1397,Bogura,Rural,Female,51,Secondary,Poorest,Never,Moderate,23.1,110.0,66.0,No,5.4,No,2024-04-06
+1398,Natore,Urban,Male,47,Primary,Richer,Former,Moderate,15.2,81.0,58.0,No,4.8,No,2024-05-11
+1399,Pabna,Urban,Male,58,No formal education,Richer,Former,Moderate,25.7,122.0,79.0,No,5.6,No,2024-11-13
+1400,Pabna,Rural,Male,74,Primary,Richest,Never,Low,17.9,146.0,96.0,Yes,6.0,No,2024-08-07
+1401,Rajshahi,Rural,Female,70,Secondary,Richest,Current,High,20.8,122.0,73.0,No,5.4,No,2024-08-04
+1402,Rajshahi,Urban,Male,67,Primary,Richer,Former,Moderate,23.1,125.0,78.0,No,6.4,No,2024-11-03
+1403,Bogura,Urban,Female,40,No formal education,Poorer,Never,Low,25.7,123.0,74.0,No,6.5,No,2024-11-22
+1404,Rajshahi,Rural,Female,64,Secondary,Poorest,Never,High,19.2,109.0,81.0,No,5.2,No,2024-05-01
+1405,Rajshahi,Urban,Male,70,Higher,Middle,Never,Moderate,24.8,131.0,87.0,No,5.7,No,2024-02-14
+1406,Pabna,Rural,Male,64,Primary,Richer,Former,Moderate,22.1,132.0,88.0,No,6.4,No,2024-01-28
+1407,Bogura,Rural,Female,69,No formal education,Richer,Never,Low,29.5,126.0,85.0,No,7.0,Yes,2024-02-01
+1408,Natore,Rural,Female,75,Secondary,Middle,Never,Moderate,18.2,133.0,85.0,No,5.6,No,2024-05-20
+1409,Rajshahi,Urban,Female,81,Higher,Middle,Never,Moderate,31.0,142.0,99.0,Yes,6.7,No,2024-09-10
+1410,Natore,Rural,Female,67,Higher,Poorest,Never,Low,21.7,124.0,86.0,No,5.9,No,2024-05-27
+1411,Rajshahi,Rural,Female,65,Higher,Poorest,Never,Low,23.4,135.0,87.0,No,6.1,No,2024-08-12
+1412,Naogaon,Rural,Female,85,No formal education,Richer,Never,High,24.1,109.0,82.0,No,5.9,No,2024-04-30
+1413,Naogaon,Rural,Male,67,Primary,Poorest,Current,Moderate,20.4,125.0,73.0,No,6.2,No,2024-03-06
+1414,Pabna,Rural,Male,51,Primary,Richer,Never,Moderate,,130.0,86.0,No,5.9,No,2024-10-21
+1415,Bogura,Rural,Female,58,No formal education,Richer,Never,Moderate,21.8,131.0,86.0,No,5.4,No,2024-06-12
+1416,Rajshahi,Rural,Female,65,No formal education,Richest,Never,High,27.3,130.0,85.0,No,5.8,No,2024-10-26
+1417,Natore,Urban,Female,82,Secondary,Richest,Former,Moderate,28.7,150.0,93.0,Yes,6.4,No,2024-07-15
+1418,Pabna,Rural,Male,61,No formal education,Middle,Never,High,21.2,136.0,95.0,Yes,6.1,No,2024-10-02
+1419,Rajshahi,Rural,Female,81,Higher,Poorer,Former,Low,24.8,126.0,76.0,No,6.7,No,2024-03-19
+1420,Pabna,Rural,Male,60,Primary,Richest,Former,Moderate,25.9,138.0,89.0,No,6.4,No,2024-07-12
+1421,Rajshahi,Rural,Male,59,No formal education,Richest,Current,High,,122.0,78.0,No,6.0,No,2024-02-03
+1422,Bogura,Rural,Male,80,Primary,Middle,Never,Moderate,28.0,146.0,97.0,Yes,6.4,No,2024-01-26
+1423,Pabna,Urban,Male,50,Secondary,Middle,Former,Moderate,24.2,110.0,72.0,No,,,2024-09-11
+1424,Natore,Urban,Male,85,Primary,Richer,Former,Low,22.3,141.0,88.0,Yes,6.7,No,2024-09-16
+1425,Bogura,Rural,Male,62,Primary,Poorer,Never,High,23.4,104.0,72.0,No,5.3,No,2024-02-25
+1426,Rajshahi,Rural,Female,85,Primary,Richest,Never,Low,18.8,120.0,71.0,No,7.0,Yes,2024-11-10
+1427,Bogura,Urban,Female,56,No formal education,Poorer,Current,High,21.0,124.0,84.0,No,5.4,No,2024-11-08
+1428,Rajshahi,Rural,Male,58,No formal education,Richest,Never,Low,29.1,152.0,101.0,Yes,8.1,Yes,2024-07-01
+1429,Naogaon,Rural,Male,57,Higher,Middle,Current,Low,22.5,126.0,84.0,No,6.3,No,2024-02-12
+1430,Naogaon,Rural,Male,54,Secondary,Richer,,Low,23.5,136.0,76.0,No,5.7,No,2024-09-03
+1431,Pabna,Urban,Male,50,Higher,Richest,Never,Low,22.8,122.0,77.0,No,5.9,No,2024-04-18
+1432,Rajshahi,Urban,Male,62,Secondary,Richest,Former,High,21.4,123.0,75.0,No,6.1,No,2024-02-16
+1433,Rajshahi,Urban,Female,85,Primary,Poorer,Never,Low,20.9,139.0,84.0,No,6.6,No,2024-11-15
+1434,Naogaon,Urban,Male,63,Secondary,Poorest,Former,Moderate,30.6,121.0,84.0,No,6.6,No,2024-10-07
+1435,Rajshahi,Urban,Female,50,Primary,Poorer,Never,High,21.5,90.0,58.0,No,5.3,No,2024-11-29
+1436,Rajshahi,Urban,Female,54,Primary,Poorer,Never,Moderate,22.5,138.0,77.0,No,5.4,No,2024-09-13
+1437,Natore,Rural,Female,50,Primary,Poorest,Current,Moderate,19.8,104.0,77.0,No,4.9,No,2024-07-23
+1438,Bogura,Rural,Male,67,Primary,Middle,Former,Moderate,20.6,139.0,87.0,No,5.5,No,2024-03-19
+1439,Bogura,Urban,Female,71,Higher,Richest,Never,Low,23.1,124.0,79.0,No,6.6,No,2024-06-24
+1440,Bogura,Rural,Female,63,Higher,Richer,Never,Moderate,,121.0,74.0,No,,,2024-03-18
+1441,Natore,Rural,Male,62,Primary,Poorer,Never,Moderate,16.0,104.0,50.0,No,5.7,No,2024-06-28
+1442,Bogura,Urban,Male,85,No formal education,Poorer,Former,Low,21.1,123.0,77.0,No,7.3,Yes,2024-08-11
+1443,Natore,Rural,Female,64,Secondary,Poorest,Former,Low,25.7,113.0,70.0,No,6.1,No,2024-03-15
+1444,Bogura,Urban,Male,53,No formal education,Richer,Former,Low,20.4,123.0,82.0,No,5.3,No,2024-06-12
+1445,Bogura,Urban,Male,60,Higher,Richest,Current,Moderate,28.7,136.0,87.0,No,7.6,Yes,2024-05-05
+1446,Rajshahi,Rural,Male,72,Higher,Poorest,Never,Low,20.9,114.0,72.0,No,,,2024-08-31
+1447,Natore,Urban,Male,53,Primary,Poorest,Former,Moderate,16.5,127.0,80.0,No,5.2,No,2024-02-19
+1448,Rajshahi,Rural,Male,81,No formal education,Richer,Never,Low,25.5,135.0,88.0,No,7.0,Yes,2024-07-10
+1449,Pabna,Rural,Female,58,Secondary,Poorer,Never,Moderate,16.0,113.0,66.0,No,4.9,No,2024-08-20
+1450,Pabna,Rural,Female,71,Higher,Poorest,Never,Low,22.2,113.0,74.0,No,5.9,No,2024-10-01
+1451,Naogaon,Urban,Male,60,Secondary,Poorer,Current,High,24.2,132.0,82.0,No,5.2,No,2024-09-27
+1452,Rajshahi,Rural,Male,54,Secondary,Middle,Never,Low,23.6,128.0,82.0,No,5.8,No,2024-10-08
+1453,Rajshahi,Rural,Female,63,Secondary,Middle,Never,Moderate,21.7,132.0,93.0,Yes,,,2024-07-04
+1454,Pabna,Rural,Male,67,No formal education,Richest,Former,High,27.5,111.0,84.0,No,5.5,No,2024-03-10
+1455,Bogura,Urban,Male,49,Secondary,Richest,Current,Moderate,,127.0,83.0,No,6.4,No,2024-10-31
+1456,Rajshahi,Urban,Male,63,Primary,Middle,Never,High,27.5,146.0,102.0,Yes,6.2,No,2024-08-28
+1457,Naogaon,Urban,Female,46,Higher,Richest,Never,Moderate,21.3,112.0,67.0,No,5.1,No,2024-09-12
+1458,Natore,Rural,Male,57,Secondary,Middle,Never,Moderate,22.7,132.0,81.0,No,5.6,No,2024-04-17
+1459,Rajshahi,Urban,Female,68,No formal education,Richest,Former,Low,21.8,109.0,73.0,No,5.7,No,2024-11-14
+1460,Rajshahi,Urban,Male,47,Primary,Richest,Never,Moderate,20.5,109.0,72.0,No,5.1,No,2024-08-19
+1461,Natore,Rural,Female,69,Primary,Poorest,Never,Low,19.3,126.0,86.0,No,6.2,No,2024-10-11
+1462,Pabna,Rural,Female,40,Higher,Richer,,High,17.5,123.0,82.0,No,6.1,No,2024-04-05
+1463,Naogaon,Rural,Female,67,Secondary,Richer,Never,High,22.9,125.0,86.0,No,5.7,No,2024-09-22
+1464,Bogura,Urban,Female,39,Higher,Poorer,Never,Low,17.4,94.0,56.0,No,5.3,No,2024-06-25
+1465,Rajshahi,Urban,Female,83,No formal education,Poorer,Never,Moderate,24.3,120.0,87.0,No,6.2,No,2024-11-14
+1466,Rajshahi,Rural,Male,65,Secondary,Poorer,Current,Low,27.1,125.0,86.0,No,6.7,No,2024-12-01
+1467,Bogura,Rural,Male,56,Secondary,Middle,Never,Moderate,22.1,124.0,71.0,No,5.4,No,2024-11-19
+1468,Pabna,Urban,Male,78,Primary,Richest,Former,High,28.6,148.0,89.0,Yes,6.5,No,2024-09-14
+1469,Rajshahi,Urban,Male,73,Higher,Middle,Former,High,20.5,121.0,74.0,No,5.5,No,2024-09-14
+1470,Bogura,Rural,Male,70,Primary,Poorest,Never,Low,21.5,113.0,74.0,No,6.7,No,2024-09-19
+1471,Bogura,Urban,Male,78,Higher,Middle,Never,Low,22.3,156.0,92.0,Yes,5.9,No,2024-02-13
+1472,Pabna,Rural,Male,45,Secondary,Poorest,Former,Moderate,22.9,123.0,78.0,No,5.6,No,2024-02-01
+1473,Rajshahi,Rural,Female,77,Higher,Middle,Never,Moderate,29.3,135.0,91.0,Yes,6.3,No,2024-03-23
+1474,Naogaon,Urban,Female,28,Secondary,Richest,Never,Low,22.8,103.0,66.0,No,5.6,No,2024-06-18
+1475,Bogura,Rural,Male,83,Secondary,Richer,Former,Low,21.0,142.0,88.0,Yes,6.4,No,2024-05-25
+1476,Natore,Rural,Male,66,Secondary,Richest,Never,Moderate,27.3,118.0,66.0,No,6.5,No,2024-05-20
+1477,Natore,Urban,Male,82,No formal education,Middle,Former,High,30.0,137.0,98.0,Yes,6.5,No,2024-11-22
+1478,Naogaon,Rural,Male,85,No formal education,Poorer,Current,Moderate,24.0,135.0,84.0,No,6.3,No,2024-09-29
+1479,Rajshahi,Urban,Female,66,Primary,Richest,Never,Low,28.3,114.0,75.0,No,7.6,Yes,2024-05-06
+1480,Natore,Urban,Female,48,Primary,Poorest,Never,High,25.0,104.0,66.0,No,6.4,No,2024-09-29
+1481,Rajshahi,Rural,Female,75,Primary,Richest,Never,High,26.2,130.0,82.0,No,6.7,No,2024-05-24
+1482,Bogura,Rural,Female,56,Primary,Poorest,Never,High,16.2,119.0,77.0,No,4.7,No,2024-01-12
+1483,Rajshahi,Rural,Male,47,Primary,Richest,Former,Low,28.6,112.0,66.0,No,6.7,No,2024-11-02
+1484,Bogura,Urban,Female,83,No formal education,Richer,Current,Moderate,32.1,146.0,99.0,Yes,6.6,No,2024-05-11
+1485,Rajshahi,Urban,Female,53,Secondary,Richest,Never,Low,21.5,122.0,77.0,No,6.7,No,2024-02-03
+1486,Naogaon,Rural,Female,48,Primary,Poorer,Never,High,20.4,123.0,87.0,No,5.0,No,2024-07-17
+1487,Rajshahi,Rural,Male,44,Primary,Poorer,Former,Moderate,22.3,118.0,76.0,No,5.1,No,2024-10-14
+1488,Bogura,Rural,Male,75,Secondary,Poorest,Former,High,21.7,137.0,97.0,Yes,5.7,No,2024-07-27
+1489,Natore,Urban,Male,68,No formal education,Richest,Former,Moderate,25.0,133.0,90.0,Yes,,,2024-10-04
+1490,Rajshahi,Urban,Female,85,Higher,Poorer,Never,Moderate,25.4,138.0,92.0,Yes,6.2,No,2024-04-30
+1491,Pabna,Urban,Female,64,Higher,Richest,Never,High,24.1,122.0,78.0,No,5.7,No,2024-04-17
+1492,Pabna,Rural,Male,69,Secondary,Poorer,Former,Low,26.1,116.0,83.0,No,6.0,No,2024-02-17
+1493,Natore,Urban,Male,84,Primary,Poorer,Former,Low,20.5,140.0,95.0,Yes,6.2,No,2024-11-25
+1494,Pabna,Urban,Male,68,Primary,Richest,Current,Moderate,26.8,127.0,90.0,Yes,6.3,No,2024-08-11
+1495,Natore,Rural,Male,84,No formal education,Poorer,,Moderate,25.4,126.0,78.0,No,6.9,No,2024-08-29
+1496,Natore,Urban,Male,65,Secondary,Richest,Former,Moderate,26.1,130.0,90.0,Yes,6.9,No,2024-10-21
+1497,Pabna,Rural,Male,85,No formal education,Poorer,Current,Low,24.9,140.0,94.0,Yes,,,2024-10-15
+1498,Bogura,Rural,Male,48,Higher,Middle,Never,High,23.8,137.0,99.0,Yes,5.0,No,2024-05-22
+1499,Rajshahi,Urban,Female,39,No formal education,Richest,Never,Moderate,22.2,107.0,72.0,No,5.9,No,2024-10-30
+1500,Rajshahi,Rural,Female,54,Secondary,Richer,Never,Moderate,22.3,128.0,75.0,No,6.1,No,2024-04-30
+1501,Naogaon,Urban,Male,41,No formal education,Richer,Former,High,19.4,118.0,74.0,No,6.2,No,2024-11-24
+1502,Rajshahi,Rural,Female,46,Higher,Richest,Never,Moderate,28.6,111.0,70.0,No,5.9,No,2024-01-25
+1503,Naogaon,Rural,Female,71,No formal education,Richer,Never,Moderate,19.3,135.0,80.0,No,6.0,No,2024-11-09
+1504,Bogura,Urban,Male,80,Primary,Richer,Never,Moderate,25.7,125.0,74.0,No,7.3,Yes,2024-05-23
+1505,Rajshahi,Rural,Male,38,No formal education,Middle,Former,Low,20.2,103.0,71.0,No,5.7,No,2024-03-25
+1506,Bogura,Urban,Female,52,Primary,Middle,Never,High,25.4,113.0,76.0,No,6.2,No,2024-01-10
+1507,Bogura,Rural,Male,51,Secondary,Richest,Never,Low,22.2,118.0,78.0,No,5.9,No,2024-11-24
+1508,Rajshahi,Urban,Male,45,Primary,Middle,Never,Moderate,30.8,103.0,70.0,No,6.5,No,2024-10-27
+1509,Bogura,Rural,Male,46,Primary,Richest,Never,High,25.4,137.0,83.0,No,6.1,No,2024-02-06
+1510,Natore,Rural,Male,85,Primary,Poorest,Never,Moderate,24.2,142.0,97.0,Yes,6.2,No,2024-11-06
+1511,Bogura,Urban,Male,65,Secondary,Poorer,Current,Moderate,,103.0,61.0,No,5.4,No,2024-08-10
+1512,Bogura,Rural,Female,85,Secondary,Poorest,Never,Low,20.5,140.0,84.0,Yes,7.2,Yes,2024-02-25
+1513,Naogaon,Rural,Male,48,Secondary,Poorest,Current,Moderate,18.7,130.0,92.0,Yes,5.3,No,2024-10-31
+1514,Rajshahi,Urban,Male,69,Secondary,Richer,Former,High,26.6,128.0,82.0,No,5.5,No,2024-10-01
+1515,Pabna,Rural,Female,75,Higher,Poorest,Never,Moderate,19.2,126.0,84.0,No,5.6,No,2024-04-29
+1516,Naogaon,Rural,Female,85,Primary,Richer,Never,Low,25.3,137.0,92.0,Yes,6.5,No,2024-02-17
+1517,Bogura,Rural,Male,43,Primary,Poorer,Never,Low,20.4,101.0,62.0,No,6.9,No,2024-04-05
+1518,Pabna,Rural,Female,76,Secondary,Middle,Never,Moderate,23.7,137.0,89.0,No,5.8,No,2024-04-17
+1519,Pabna,Urban,Female,85,Secondary,Middle,Current,Low,20.8,124.0,91.0,Yes,,,2024-07-21
+1520,Rajshahi,Urban,Female,43,Primary,Richer,Never,High,23.6,106.0,65.0,No,4.8,No,2024-07-08
+1521,Natore,Rural,Female,57,Primary,Poorest,Never,High,18.0,112.0,70.0,No,4.9,No,2024-02-28
+1522,Naogaon,Rural,Female,78,No formal education,Richest,Never,High,24.2,154.0,91.0,Yes,,,2024-07-09
+1523,Naogaon,Rural,Male,45,Higher,Richest,Former,High,21.8,113.0,76.0,No,4.8,No,2024-01-18
+1524,Pabna,Rural,Male,76,Primary,Richer,Former,Moderate,21.0,131.0,86.0,No,5.7,No,2024-03-31
+1525,Bogura,Urban,Male,53,No formal education,Richer,Former,Moderate,22.2,104.0,70.0,No,5.3,No,2024-04-23
+1526,Pabna,Rural,Male,75,Higher,Richest,Never,Moderate,25.4,129.0,84.0,No,6.6,No,2024-08-08
+1527,Naogaon,Rural,Male,74,Secondary,Middle,Former,Low,18.5,119.0,68.0,No,,,2024-01-15
+1528,Naogaon,Urban,Male,68,Higher,Richer,Never,High,22.3,112.0,73.0,No,6.8,No,2024-08-09
+1529,Bogura,Rural,Male,69,No formal education,Poorest,Never,Low,14.0,128.0,84.0,No,6.5,No,2024-04-24
+1530,Naogaon,Rural,Female,52,Primary,Middle,Former,Moderate,27.7,113.0,66.0,No,6.0,No,2024-06-02
+1531,Natore,Urban,Female,85,Primary,Poorer,Never,Low,26.9,150.0,86.0,Yes,6.6,No,2024-07-31
+1532,Naogaon,Urban,Male,53,Primary,Poorest,Never,Moderate,24.2,123.0,76.0,No,,,2024-01-24
+1533,Rajshahi,Urban,Male,65,No formal education,Richest,Never,Low,25.7,110.0,75.0,No,,,2024-06-28
+1534,Naogaon,Rural,Male,81,No formal education,Richer,Never,High,23.2,120.0,82.0,No,6.3,No,2024-09-14
+1535,Natore,Rural,Female,56,Secondary,Poorest,Never,Moderate,25.8,119.0,69.0,No,6.3,No,2024-06-11
+1536,Rajshahi,Rural,Female,52,No formal education,Richest,Never,Moderate,22.4,114.0,74.0,No,6.2,No,2024-09-17
+1537,Pabna,Rural,Male,55,Primary,Poorer,Former,Low,20.5,117.0,78.0,No,5.6,No,2024-02-16
+1538,Rajshahi,Rural,Male,81,Primary,Poorest,Former,Moderate,20.5,127.0,83.0,No,6.0,No,2024-08-10
+1539,Natore,Urban,Female,85,Higher,Middle,Never,Moderate,27.6,154.0,104.0,Yes,6.8,No,2024-01-19
+1540,Pabna,Rural,Male,42,Secondary,Poorer,Current,High,22.4,111.0,67.0,No,6.0,No,2024-05-01
+1541,Pabna,Rural,Female,65,Primary,Richest,Never,High,26.5,124.0,77.0,No,6.1,No,2024-01-16
+1542,Natore,Rural,Male,43,Primary,Middle,Former,Low,24.1,131.0,81.0,No,6.8,No,2024-08-30
+1543,Natore,Rural,Female,53,Secondary,Middle,Never,Moderate,29.5,146.0,89.0,Yes,5.9,No,2024-10-28
+1544,Rajshahi,Rural,Female,60,Secondary,Richest,Never,Low,19.1,128.0,72.0,No,6.0,No,2024-04-22
+1545,Natore,Urban,Female,74,Primary,Richer,Former,Low,21.8,134.0,94.0,Yes,6.6,No,2024-05-30
+1546,Pabna,Rural,Female,56,Secondary,Richest,Never,Moderate,21.9,133.0,94.0,Yes,6.6,No,2024-05-15
+1547,Rajshahi,Rural,Male,72,Primary,Poorer,Current,High,24.1,137.0,82.0,No,6.4,No,2024-08-29
+1548,Bogura,Rural,Female,50,Higher,Richest,Never,High,24.3,106.0,72.0,No,5.3,No,2024-05-29
+1549,Bogura,Rural,Male,50,Higher,Middle,Never,Low,22.9,126.0,80.0,No,7.1,Yes,2024-11-19
+1550,Natore,Urban,Male,43,Higher,Poorer,Current,Low,23.1,122.0,86.0,No,5.5,No,2024-09-29
+1551,Naogaon,Urban,Female,64,Secondary,Middle,Never,High,22.6,121.0,84.0,No,5.5,No,2024-07-24
+1552,Rajshahi,Rural,Female,68,No formal education,Middle,Never,Moderate,24.5,124.0,83.0,No,6.0,No,2024-01-30
+1553,Bogura,Rural,Female,36,Secondary,Richest,Never,Moderate,24.7,95.0,72.0,No,5.0,No,2024-02-21
+1554,Natore,Rural,Male,82,Secondary,Poorer,Never,Low,,150.0,95.0,Yes,6.6,No,2024-03-14
+1555,Pabna,Rural,Male,72,Primary,Poorest,Current,Low,23.9,110.0,69.0,No,6.5,No,2024-03-19
+1556,Natore,Rural,Male,55,Secondary,Richest,Current,Moderate,25.5,113.0,65.0,No,6.3,No,2024-07-03
+1557,Pabna,Rural,Male,59,No formal education,Richest,Former,Low,21.5,96.0,56.0,No,5.7,No,2024-10-21
+1558,Rajshahi,Rural,Female,71,Primary,Middle,Never,Moderate,23.8,135.0,86.0,No,6.5,No,2024-02-21
+1559,Bogura,Urban,Female,80,No formal education,Middle,Never,Moderate,21.3,150.0,90.0,Yes,6.1,No,2024-03-10
+1560,Bogura,Rural,Female,76,Primary,Poorest,Never,Moderate,24.7,135.0,88.0,No,6.1,No,2024-01-28
+1561,Naogaon,Urban,Female,47,No formal education,Middle,Former,Moderate,28.3,127.0,87.0,No,5.6,No,2024-11-24
+1562,Bogura,Rural,Male,67,No formal education,Richest,Former,Low,26.4,116.0,68.0,No,6.0,No,2024-02-28
+1563,Rajshahi,Rural,Female,58,Secondary,Richest,Never,Low,25.1,145.0,98.0,Yes,6.5,No,2024-05-22
+1564,Natore,Urban,Male,85,Secondary,Middle,Current,Moderate,21.9,138.0,80.0,No,6.5,No,2024-11-03
+1565,Bogura,Urban,Female,66,Secondary,Richer,Never,Low,23.4,137.0,89.0,No,6.0,No,2024-07-12
+1566,Bogura,Rural,Male,72,Secondary,Richest,Current,Low,26.3,160.0,101.0,Yes,6.4,No,2024-01-27
+1567,Naogaon,Urban,Female,51,Primary,Richer,Never,Moderate,25.4,105.0,65.0,No,5.9,No,2024-07-19
+1568,Pabna,Urban,Female,85,No formal education,Richer,Former,Low,21.1,120.0,84.0,No,6.2,No,2024-08-14
+1569,Pabna,Urban,Male,81,Primary,Middle,Never,Low,21.7,157.0,95.0,Yes,7.4,Yes,2024-10-23
+1570,Naogaon,Rural,Female,85,Higher,Poorest,Never,Moderate,15.1,127.0,88.0,No,5.5,No,2024-10-17
+1571,Natore,Rural,Male,61,Primary,Middle,Never,Moderate,24.2,126.0,88.0,No,5.7,No,2024-06-05
+1572,Naogaon,Urban,Female,85,Secondary,Richer,Former,Moderate,26.3,130.0,80.0,No,6.4,No,2024-03-08
+1573,Pabna,Urban,Female,48,Secondary,Poorest,Never,High,18.7,118.0,77.0,No,5.1,No,2024-05-08
+1574,Pabna,Urban,Female,59,Secondary,Poorer,Never,High,24.0,110.0,74.0,No,6.0,No,2024-06-13
+1575,Bogura,Rural,Female,58,Secondary,Richest,Never,Low,21.1,132.0,83.0,No,6.1,No,2024-02-25
+1576,Rajshahi,Urban,Female,56,Secondary,Poorer,Never,High,20.6,120.0,84.0,No,,,2024-05-17
+1577,Pabna,Rural,Male,48,Primary,Richer,Former,Moderate,27.5,114.0,69.0,No,6.4,No,2024-04-29
+1578,Rajshahi,Rural,Female,38,No formal education,Poorer,,Low,24.2,112.0,66.0,No,5.5,No,2024-04-14
+1579,Rajshahi,Rural,Female,67,Secondary,Richer,Never,Moderate,,123.0,81.0,No,7.0,Yes,2024-05-09
+1580,Natore,Urban,Male,76,Secondary,Richer,Current,High,22.4,145.0,81.0,Yes,5.5,No,2024-06-22
+1581,Pabna,Urban,Female,85,Higher,Richest,Never,Moderate,26.6,136.0,90.0,Yes,6.3,No,2024-10-25
+1582,Rajshahi,Urban,Male,73,Secondary,Richest,Current,Moderate,28.4,143.0,85.0,Yes,6.3,No,2024-03-31
+1583,Rajshahi,Rural,Female,83,Primary,Richest,Never,High,22.8,142.0,87.0,Yes,6.3,No,2024-06-06
+1584,Pabna,Urban,Male,59,Secondary,Richest,Never,Low,24.7,130.0,84.0,No,6.2,No,2024-10-29
+1585,Bogura,Urban,Female,50,Primary,Middle,Never,Moderate,24.6,116.0,84.0,No,6.1,No,2024-01-24
+1586,Pabna,Rural,Male,43,Secondary,Richer,Former,Moderate,21.3,110.0,83.0,No,6.9,No,2024-04-06
+1587,Rajshahi,Rural,Female,62,Secondary,Richer,Never,High,,106.0,70.0,No,5.0,No,2024-06-22
+1588,Naogaon,Rural,Female,57,Secondary,Richer,Never,Low,,119.0,83.0,No,5.7,No,2024-11-17
+1589,Rajshahi,Rural,Female,62,Primary,Richer,Never,High,19.9,115.0,71.0,No,5.3,No,2024-09-26
+1590,Bogura,Urban,Female,50,Secondary,Poorer,Never,Low,28.2,127.0,76.0,No,7.5,Yes,2024-11-29
+1591,Bogura,Rural,Female,59,Primary,Poorest,Never,Moderate,,118.0,86.0,No,5.8,No,2024-01-27
+1592,Pabna,Rural,Female,58,Primary,Middle,Never,High,19.1,100.0,65.0,No,5.1,No,2024-06-08
+1593,Naogaon,Urban,Female,59,Primary,Poorer,Never,High,19.3,107.0,76.0,No,5.3,No,2024-08-22
+1594,Rajshahi,Rural,Female,76,No formal education,Middle,,Moderate,,113.0,75.0,No,5.8,No,2024-04-18
+1595,Rajshahi,Rural,Male,64,No formal education,Richer,Former,Moderate,25.2,125.0,80.0,No,5.6,No,2024-06-07
+1596,Rajshahi,Rural,Female,62,Higher,Richer,Former,Low,19.3,121.0,74.0,No,5.9,No,2024-08-01
+1597,Natore,Rural,Male,55,Secondary,Richer,Never,Moderate,22.1,120.0,83.0,No,6.3,No,2024-05-09
+1598,Bogura,Rural,Male,85,Primary,Middle,Never,Low,24.3,122.0,69.0,No,,,2024-01-14
+1599,Naogaon,Urban,Female,50,No formal education,Poorest,Never,High,25.2,115.0,82.0,No,6.0,No,2024-03-08
+1600,Rajshahi,Rural,Male,85,No formal education,Poorest,Former,Moderate,25.6,147.0,96.0,Yes,8.2,Yes,2024-10-21
+1601,Pabna,Rural,Female,85,No formal education,Richer,Never,Moderate,23.7,120.0,85.0,No,6.2,No,2024-03-16
+1602,Natore,Urban,Female,61,Secondary,Middle,Never,Low,16.3,120.0,72.0,No,5.8,No,2024-11-16
+1603,Bogura,Rural,Female,68,No formal education,Poorer,Never,Moderate,21.2,127.0,81.0,No,5.4,No,2024-03-08
+1604,Bogura,Rural,Male,85,No formal education,Poorest,Former,Low,22.7,127.0,85.0,No,7.1,Yes,2024-08-12
+1605,Natore,Rural,Female,66,Secondary,Richest,Never,Low,22.1,129.0,87.0,No,6.0,No,2024-10-29
+1606,Bogura,Rural,Male,52,Higher,Poorest,Current,Low,23.3,132.0,78.0,No,,,2024-07-13
+1607,Naogaon,Rural,Female,85,Higher,Poorer,Never,Low,22.4,111.0,61.0,No,6.5,No,2024-05-25
+1608,Rajshahi,Rural,Female,85,Higher,Poorer,Never,Low,18.8,123.0,84.0,No,6.5,No,2024-06-02
+1609,Pabna,Urban,Female,67,Secondary,Poorer,Never,Moderate,16.2,128.0,87.0,No,5.4,No,2024-12-02
+1610,Pabna,Urban,Male,72,Secondary,Richest,Current,Low,,143.0,100.0,Yes,5.7,No,2024-08-26
+1611,Naogaon,Rural,Male,40,Higher,Poorer,Former,Low,19.2,90.0,67.0,No,6.0,No,2024-05-09
+1612,Rajshahi,Rural,Male,79,Higher,Poorest,Current,Moderate,23.7,140.0,85.0,Yes,6.1,No,2024-10-03
+1613,Natore,Rural,Male,62,No formal education,Poorest,Former,Moderate,23.7,121.0,83.0,No,5.8,No,2024-04-18
+1614,Pabna,Rural,Female,49,Secondary,Richest,Former,Moderate,26.6,125.0,71.0,No,5.4,No,2024-03-15
+1615,Naogaon,Urban,Male,85,Secondary,Richer,Never,Moderate,21.2,136.0,95.0,Yes,6.9,No,2024-06-28
+1616,Pabna,Rural,Male,85,Higher,Richest,Never,High,27.4,143.0,79.0,Yes,6.4,No,2024-07-14
+1617,Bogura,Urban,Female,58,No formal education,Poorer,Never,High,22.7,126.0,77.0,No,5.8,No,2024-09-02
+1618,Natore,Rural,Male,77,Secondary,Richest,Current,Moderate,20.5,136.0,79.0,No,7.6,Yes,2024-02-19
+1619,Bogura,Rural,Female,68,Higher,Richest,Never,Moderate,26.3,145.0,91.0,Yes,6.0,No,2024-01-10
+1620,Rajshahi,Rural,Female,62,No formal education,Richer,Never,High,25.9,126.0,84.0,No,6.6,No,2024-10-09
+1621,Natore,Rural,Male,74,Primary,Richest,Former,Low,27.9,131.0,74.0,No,6.2,No,2024-11-06
+1622,Natore,Urban,Male,70,Primary,Richer,Former,High,20.9,131.0,87.0,No,5.2,No,2024-11-28
+1623,Natore,Rural,Female,52,Higher,Richest,Never,High,19.6,136.0,77.0,No,4.8,No,2024-11-09
+1624,Bogura,Urban,Male,68,Higher,Richest,Current,Moderate,28.1,130.0,80.0,No,6.5,No,2024-08-03
+1625,Natore,Urban,Female,35,Primary,Richest,Never,Moderate,20.5,116.0,83.0,No,,,2024-05-12
+1626,Natore,Rural,Female,67,Higher,Richest,Former,Moderate,23.9,132.0,83.0,No,6.4,No,2024-10-28
+1627,Bogura,Rural,Male,85,Higher,Richer,Current,Low,29.1,151.0,96.0,Yes,7.0,Yes,2024-07-20
+1628,Natore,Urban,Male,44,Primary,Richer,Current,High,21.9,101.0,70.0,No,5.5,No,2024-06-20
+1629,Naogaon,Rural,Male,45,Higher,Poorest,Former,Low,,108.0,80.0,No,5.6,No,2024-06-01
+1630,Bogura,Urban,Female,85,No formal education,Poorest,Current,Low,22.5,147.0,95.0,Yes,6.4,No,2024-10-19
+1631,Rajshahi,Urban,Male,46,Primary,Richer,Former,Moderate,25.2,119.0,81.0,No,5.9,No,2024-01-23
+1632,Pabna,Rural,Female,46,Secondary,Middle,Former,High,26.8,141.0,87.0,Yes,5.1,No,2024-05-03
+1633,Naogaon,Rural,Male,85,No formal education,Richer,Current,Low,21.6,135.0,76.0,No,6.1,No,2024-10-06
+1634,Pabna,Urban,Female,60,Primary,Richest,Current,High,24.1,113.0,68.0,No,5.5,No,2024-05-08
+1635,Naogaon,Urban,Male,52,Secondary,Poorest,Never,Low,24.2,126.0,80.0,No,6.4,No,2024-05-26
+1636,Naogaon,Rural,Male,72,No formal education,Poorer,Never,High,24.6,117.0,85.0,No,5.7,No,2024-07-31
+1637,Natore,Rural,Female,58,Secondary,Poorer,Never,Moderate,23.1,128.0,80.0,No,5.6,No,2024-08-02
+1638,Natore,Rural,Male,65,Higher,Poorest,Never,Moderate,21.2,126.0,70.0,No,6.2,No,2024-08-23
+1639,Rajshahi,Rural,Female,56,Higher,Poorest,Never,Moderate,24.6,112.0,83.0,No,5.5,No,2024-01-29
+1640,Bogura,Urban,Male,71,Secondary,Middle,Never,Moderate,24.0,131.0,88.0,No,5.7,No,2024-10-25
+1641,Natore,Rural,Female,60,Secondary,Poorest,Never,Moderate,19.9,108.0,71.0,No,5.8,No,2024-05-15
+1642,Bogura,Urban,Female,62,Secondary,Poorer,Never,High,21.9,140.0,81.0,Yes,6.1,No,2024-03-03
+1643,Rajshahi,Rural,Female,41,No formal education,Middle,Former,High,19.7,96.0,56.0,No,4.7,No,2024-06-25
+1644,Rajshahi,Urban,Female,74,Secondary,Richer,Never,High,19.8,130.0,79.0,No,6.3,No,2024-10-10
+1645,Rajshahi,Rural,Female,54,Higher,Richest,Never,Low,21.7,114.0,79.0,No,5.9,No,2024-09-21
+1646,Pabna,Rural,Female,80,Higher,Poorer,Never,Moderate,22.3,130.0,85.0,No,6.3,No,2024-02-23
+1647,Naogaon,Rural,Female,71,Secondary,Richest,Former,High,25.9,115.0,77.0,No,6.1,No,2024-04-23
+1648,Bogura,Urban,Male,38,Secondary,Richer,Former,Moderate,19.8,105.0,77.0,No,5.0,No,2024-10-30
+1649,Natore,Rural,Female,45,Secondary,Richer,Never,Moderate,27.2,113.0,79.0,No,5.6,No,2024-08-15
+1650,Rajshahi,Rural,Male,44,Primary,Poorer,Never,Low,14.0,112.0,82.0,No,5.1,No,2024-02-17
+1651,Natore,Rural,Male,85,Primary,Richest,Former,Low,21.6,146.0,98.0,Yes,,,2024-09-19
+1652,Naogaon,Urban,Female,50,Primary,Middle,Never,Low,23.3,117.0,76.0,No,5.7,No,2024-02-10
+1653,Bogura,Rural,Female,49,Primary,Richer,Never,Moderate,26.5,102.0,71.0,No,6.0,No,2024-02-02
+1654,Bogura,Rural,Female,64,No formal education,Richer,Never,Low,19.5,107.0,75.0,No,6.9,No,2024-09-17
+1655,Naogaon,Urban,Female,59,Primary,Richer,Never,High,25.4,110.0,79.0,No,6.7,No,2024-03-21
+1656,Rajshahi,Rural,Male,73,No formal education,Poorest,Never,Moderate,29.9,140.0,86.0,Yes,6.4,No,2024-09-01
+1657,Naogaon,Rural,Male,69,Primary,Poorest,Current,Moderate,23.0,134.0,80.0,No,6.1,No,2024-11-06
+1658,Naogaon,Rural,Male,42,Secondary,Poorer,Current,High,19.7,104.0,80.0,No,,,2024-11-17
+1659,Naogaon,Rural,Female,85,Primary,Poorer,Never,Moderate,22.0,136.0,91.0,Yes,6.5,No,2024-06-27
+1660,Naogaon,Rural,Male,66,No formal education,Poorest,Current,Moderate,23.3,123.0,72.0,No,5.6,No,2024-02-04
+1661,Pabna,Urban,Male,42,Higher,Richest,Never,Moderate,19.9,110.0,62.0,No,,,2024-06-21
+1662,Pabna,Rural,Male,70,Secondary,Richest,Never,Low,21.9,125.0,79.0,No,7.2,Yes,2024-04-21
+1663,Pabna,Rural,Female,81,Secondary,Middle,Never,Moderate,22.7,141.0,93.0,Yes,6.4,No,2024-05-25
+1664,Bogura,Urban,Male,73,No formal education,Poorer,Former,Moderate,20.9,128.0,77.0,No,5.7,No,2024-05-02
+1665,Naogaon,Rural,Male,85,Secondary,Poorer,Former,High,24.3,139.0,93.0,Yes,6.7,No,2024-07-12
+1666,Rajshahi,Rural,Female,69,Secondary,Richest,Never,Moderate,25.9,114.0,75.0,No,7.0,Yes,2024-01-20
+1667,Rajshahi,Rural,Male,85,Primary,Poorer,Never,Low,25.2,128.0,78.0,No,6.4,No,2024-08-21
+1668,Naogaon,Rural,Male,76,Secondary,Poorest,Never,Low,28.1,133.0,80.0,No,6.5,No,2024-06-23
+1669,Naogaon,Rural,Female,85,Primary,Middle,Never,Moderate,24.9,,,,8.8,Yes,2024-05-21
+1670,Rajshahi,Rural,Female,85,Secondary,Middle,Never,Moderate,23.1,139.0,83.0,No,7.0,Yes,2024-08-16
+1671,Naogaon,Rural,Female,79,Primary,Poorest,Never,Low,20.8,160.0,95.0,Yes,6.2,No,2024-07-31
+1672,Natore,Rural,Male,84,Primary,Richer,Current,High,23.7,139.0,89.0,No,,,2024-10-07
+1673,Natore,Urban,Female,67,Primary,Richer,Never,Low,22.4,129.0,81.0,No,6.3,No,2024-08-16
+1674,Pabna,Rural,Male,34,Primary,Poorest,Never,Moderate,24.4,120.0,66.0,No,5.3,No,2024-07-16
+1675,Bogura,Rural,Female,52,Primary,Richest,Never,Moderate,30.7,134.0,91.0,Yes,8.2,Yes,2024-04-02
+1676,Rajshahi,Urban,Male,61,Primary,Poorer,Former,Low,22.6,137.0,89.0,No,6.4,No,2024-09-17
+1677,Bogura,Urban,Male,67,Secondary,Richer,Current,Low,27.7,139.0,96.0,Yes,6.0,No,2024-01-23
+1678,Bogura,Rural,Male,78,Secondary,Richer,Never,Moderate,24.6,133.0,83.0,No,8.0,Yes,2024-06-27
+1679,Rajshahi,Rural,Male,73,Secondary,Middle,,Moderate,20.4,128.0,80.0,No,,,2024-08-01
+1680,Rajshahi,Rural,Female,58,Primary,Poorer,Never,Moderate,26.1,122.0,66.0,No,5.9,No,2024-01-31
+1681,Rajshahi,Rural,Male,85,Higher,Middle,Never,Moderate,23.9,132.0,76.0,No,6.2,No,2024-04-04
+1682,Bogura,Urban,Male,53,No formal education,Poorer,Never,Moderate,22.3,139.0,91.0,Yes,6.0,No,2024-04-03
+1683,Natore,Rural,Male,53,Secondary,Poorest,Former,Moderate,20.8,121.0,69.0,No,6.2,No,2024-02-01
+1684,Pabna,Urban,Female,51,Primary,Richest,Former,Low,20.4,,,,5.6,No,2024-02-03
+1685,Pabna,Urban,Female,45,No formal education,Richest,Never,High,24.7,111.0,77.0,No,5.3,No,2024-09-17
+1686,Natore,Rural,Female,85,Primary,Poorest,Never,Low,25.0,153.0,96.0,Yes,6.5,No,2024-03-21
+1687,Natore,Rural,Female,71,Secondary,Richest,Never,Low,24.4,135.0,90.0,Yes,6.4,No,2024-07-20
+1688,Bogura,Urban,Male,36,Higher,Richer,Former,Moderate,19.7,91.0,63.0,No,5.6,No,2024-02-07
+1689,Pabna,Urban,Female,53,Higher,Richer,Never,Low,19.7,133.0,88.0,No,6.8,No,2024-02-06
+1690,Naogaon,Rural,Male,40,Secondary,Poorest,Current,Moderate,30.3,109.0,75.0,No,6.1,No,2024-09-29
+1691,Rajshahi,Rural,Male,73,Higher,Richer,Former,Low,22.6,110.0,75.0,No,6.4,No,2024-10-07
+1692,Pabna,Urban,Male,68,Secondary,Middle,Never,Low,22.9,126.0,83.0,No,5.7,No,2024-08-21
+1693,Natore,Rural,Female,65,No formal education,Richer,Never,Moderate,26.9,127.0,79.0,No,6.6,No,2024-06-27
+1694,Bogura,Rural,Female,40,Primary,Richest,Never,Moderate,24.0,114.0,72.0,No,5.3,No,2024-02-26
+1695,Natore,Rural,Male,73,Secondary,Richer,Current,Moderate,25.6,131.0,89.0,No,,,2024-05-05
+1696,Natore,Rural,Female,85,Primary,Poorer,Never,High,18.7,137.0,92.0,Yes,5.8,No,2024-03-08
+1697,Natore,Urban,Female,74,Secondary,Richer,Never,High,25.6,139.0,89.0,No,5.9,No,2024-03-21
+1698,Pabna,Rural,Female,54,Primary,Poorer,Never,Moderate,26.3,140.0,83.0,Yes,7.0,Yes,2024-10-14
+1699,Natore,Rural,Male,45,Primary,Richest,Former,Moderate,27.0,139.0,88.0,No,5.3,No,2024-08-07
+1700,Natore,Rural,Male,44,Primary,Poorer,Current,Moderate,17.1,92.0,61.0,No,5.3,No,2024-10-30
+1701,Bogura,Rural,Male,67,No formal education,Richer,Never,Moderate,26.5,116.0,68.0,No,7.8,Yes,2024-08-04
+1702,Rajshahi,Rural,Female,65,No formal education,Middle,Never,Low,23.4,144.0,91.0,Yes,6.1,No,2024-08-08
+1703,Naogaon,Rural,Male,50,Primary,Richer,Current,Low,25.1,,,,5.7,No,2024-05-05
+1704,Bogura,Urban,Female,68,Higher,Richer,Never,Moderate,25.2,145.0,89.0,Yes,5.8,No,2024-09-03
+1705,Bogura,Rural,Male,50,Higher,Middle,Never,Moderate,24.5,120.0,65.0,No,5.4,No,2024-10-16
+1706,Rajshahi,Rural,Female,68,Secondary,Richest,Never,Low,27.3,130.0,85.0,No,6.3,No,2024-11-01
+1707,Bogura,Rural,Female,85,Secondary,Poorer,Never,Low,24.8,135.0,82.0,No,6.2,No,2024-02-06
+1708,Pabna,Rural,Male,60,Secondary,Richer,Former,Low,19.5,122.0,72.0,No,5.7,No,2024-07-15
+1709,Bogura,Rural,Female,82,Secondary,Poorest,Current,Low,26.4,144.0,94.0,Yes,7.6,Yes,2024-10-31
+1710,Bogura,Urban,Male,77,Primary,Richest,Current,Low,25.7,130.0,89.0,No,6.4,No,2024-01-08
+1711,Rajshahi,Rural,Male,73,Higher,Middle,Former,Moderate,17.4,132.0,75.0,No,5.4,No,2024-04-24
+1712,Naogaon,Urban,Male,72,Secondary,Richest,Current,High,26.4,124.0,81.0,No,,,2024-05-19
+1713,Rajshahi,Rural,Male,70,Secondary,Richer,Current,High,28.2,123.0,74.0,No,6.1,No,2024-01-16
+1714,Naogaon,Rural,Male,70,Primary,Poorer,Never,Low,23.3,124.0,72.0,No,6.9,No,2024-07-02
+1715,Rajshahi,Urban,Female,52,Primary,Poorest,Never,Moderate,21.3,120.0,74.0,No,6.0,No,2024-06-01
+1716,Bogura,Rural,Male,51,Higher,Richest,Current,Low,24.3,144.0,86.0,Yes,6.2,No,2024-10-06
+1717,Natore,Urban,Female,68,Higher,Poorer,Never,Low,23.2,143.0,97.0,Yes,6.4,No,2024-09-19
+1718,Pabna,Urban,Male,74,Higher,Middle,Former,High,23.4,127.0,85.0,No,5.6,No,2024-06-21
+1719,Natore,Urban,Male,45,Primary,Poorest,Former,Moderate,28.7,115.0,66.0,No,6.8,No,2024-10-18
+1720,Rajshahi,Rural,Male,40,No formal education,Richest,Current,Moderate,22.4,110.0,73.0,No,5.9,No,2024-10-03
+1721,Naogaon,Rural,Male,64,Secondary,Richer,Never,Moderate,31.1,120.0,80.0,No,6.7,No,2024-01-23
+1722,Pabna,Rural,Female,62,Primary,Poorer,Never,High,19.1,105.0,58.0,No,6.5,No,2024-11-27
+1723,Naogaon,Urban,Male,39,Higher,Richest,Never,Low,20.6,108.0,65.0,No,6.0,No,2024-11-27
+1724,Naogaon,Urban,Female,85,Higher,Richest,Never,Low,28.9,149.0,103.0,Yes,7.0,Yes,2024-02-28
+1725,Natore,Rural,Male,57,Secondary,Poorer,Never,Low,20.6,133.0,78.0,No,5.9,No,2024-06-08
+1726,Natore,Rural,Female,69,Secondary,Poorer,Former,Moderate,28.0,122.0,70.0,No,5.8,No,2024-04-08
+1727,Naogaon,Rural,Male,85,No formal education,Poorest,Former,Moderate,21.3,124.0,74.0,No,5.9,No,2024-02-17
+1728,Natore,Urban,Male,54,Primary,Richest,Current,Moderate,24.4,112.0,74.0,No,5.4,No,2024-04-26
+1729,Pabna,Rural,Male,83,Higher,Middle,Current,Low,22.6,142.0,93.0,Yes,6.0,No,2024-09-06
+1730,Pabna,Urban,Male,56,Secondary,Richest,Former,Moderate,30.2,135.0,78.0,No,5.6,No,2024-08-28
+1731,Pabna,Urban,Male,80,Secondary,Richest,Never,Low,29.3,120.0,81.0,No,8.9,Yes,2024-01-27
+1732,Pabna,Rural,Female,66,No formal education,Middle,Never,Low,24.0,139.0,81.0,No,6.5,No,2024-09-28
+1733,Pabna,Rural,Male,56,No formal education,Richest,Never,Low,22.8,125.0,80.0,No,6.0,No,2024-10-02
+1734,Rajshahi,Rural,Male,62,Secondary,Richer,Former,Low,15.7,112.0,77.0,No,5.3,No,2024-08-14
+1735,Rajshahi,Urban,Female,73,Secondary,Richest,Never,Moderate,25.8,144.0,83.0,Yes,,,2024-11-21
+1736,Bogura,Rural,Male,85,Primary,Poorest,Former,Moderate,20.0,134.0,71.0,No,5.9,No,2024-01-09
+1737,Bogura,Urban,Female,61,Primary,Richer,Never,Moderate,24.6,144.0,83.0,Yes,6.4,No,2024-02-08
+1738,Pabna,Rural,Male,85,Secondary,Poorer,Never,Low,28.2,149.0,96.0,Yes,6.4,No,2024-01-25
+1739,Naogaon,Rural,Male,46,No formal education,Poorest,Never,Moderate,26.7,115.0,69.0,No,5.8,No,2024-11-03
+1740,Rajshahi,Rural,Male,78,Primary,Middle,,Low,22.0,138.0,96.0,Yes,6.2,No,2024-09-15
+1741,Natore,Rural,Male,72,Primary,Poorest,Former,Low,23.8,136.0,90.0,Yes,5.9,No,2024-11-19
+1742,Bogura,Urban,Female,55,Primary,Richest,Never,High,22.6,117.0,85.0,No,,,2024-07-30
+1743,Natore,Urban,Male,59,No formal education,Poorer,Never,Moderate,19.9,107.0,78.0,No,5.7,No,2024-07-31
+1744,Rajshahi,Rural,Female,42,Primary,Richer,Never,High,20.0,111.0,68.0,No,5.9,No,2024-09-14
+1745,Pabna,Urban,Male,55,Primary,Richer,Former,Moderate,26.8,127.0,84.0,No,5.6,No,2024-02-22
+1746,Pabna,Rural,Male,85,Primary,Poorest,Former,Moderate,20.7,124.0,77.0,No,6.2,No,2024-04-27
+1747,Natore,Urban,Male,51,No formal education,Poorer,Never,Moderate,24.0,133.0,91.0,Yes,5.6,No,2024-09-24
+1748,Rajshahi,Urban,Female,56,Secondary,Middle,Former,Low,25.2,106.0,72.0,No,6.2,No,2024-07-03
+1749,Pabna,Rural,Female,72,Primary,Poorest,Never,High,26.1,129.0,77.0,No,6.0,No,2024-03-26
+1750,Naogaon,Rural,Male,79,No formal education,Poorest,Current,Moderate,26.2,139.0,87.0,No,6.5,No,2024-08-03
+1751,Pabna,Urban,Male,63,Higher,Poorer,Current,High,21.3,121.0,85.0,No,5.7,No,2024-05-06
+1752,Rajshahi,Rural,Female,77,No formal education,Richest,Never,Low,29.4,143.0,72.0,Yes,6.7,No,2024-03-18
+1753,Natore,Rural,Male,60,Higher,Richest,Current,High,19.3,125.0,85.0,No,6.1,No,2024-04-06
+1754,Rajshahi,Rural,Female,52,Primary,Poorer,Never,Low,21.3,116.0,83.0,No,7.2,Yes,2024-10-15
+1755,Rajshahi,Rural,Male,77,Secondary,Poorest,Never,Moderate,20.2,112.0,72.0,No,5.9,No,2024-04-07
+1756,Rajshahi,Urban,Female,53,Higher,Richest,,Low,22.8,110.0,83.0,No,6.0,No,2024-04-06
+1757,Natore,Urban,Female,57,Primary,Middle,Never,High,22.1,126.0,82.0,No,5.3,No,2024-04-20
+1758,Natore,Rural,Male,71,Secondary,Middle,Former,Moderate,24.7,,,,5.9,No,2024-06-25
+1759,Naogaon,Urban,Male,62,No formal education,Poorest,Former,Low,23.4,98.0,76.0,No,5.8,No,2024-11-21
+1760,Natore,Rural,Male,80,Higher,Richer,Current,High,21.0,131.0,94.0,Yes,6.2,No,2024-10-04
+1761,Naogaon,Rural,Female,80,No formal education,Middle,Never,Moderate,32.0,142.0,93.0,Yes,6.6,No,2024-09-04
+1762,Naogaon,Rural,Female,61,Higher,Richest,Never,Low,26.3,127.0,86.0,No,6.8,No,2024-04-01
+1763,Pabna,Urban,Female,53,Primary,Richer,Never,Low,27.4,122.0,75.0,No,6.2,No,2024-05-26
+1764,Pabna,Urban,Female,72,Secondary,Middle,Never,Moderate,21.5,135.0,82.0,No,6.0,No,2024-03-08
+1765,Naogaon,Urban,Male,82,Secondary,Poorer,Former,Low,23.2,125.0,74.0,No,6.3,No,2024-02-03
+1766,Bogura,Rural,Female,35,Secondary,Poorest,Never,Moderate,22.0,105.0,79.0,No,,,2024-05-15
+1767,Rajshahi,Urban,Male,67,Secondary,Richer,Current,Low,23.8,124.0,77.0,No,6.1,No,2024-01-29
+1768,Naogaon,Urban,Female,85,Primary,Poorer,Never,Moderate,26.6,130.0,91.0,Yes,6.5,No,2024-02-06
+1769,Rajshahi,Urban,Female,68,Secondary,Poorest,Never,High,25.7,133.0,87.0,No,6.4,No,2024-02-13
+1770,Pabna,Rural,Male,49,Primary,Richest,Never,Moderate,27.3,128.0,93.0,Yes,5.8,No,2024-07-16
+1771,Naogaon,Rural,Male,63,No formal education,Poorest,Never,Low,21.2,,,,6.2,No,2024-09-24
+1772,Natore,Rural,Male,59,Primary,Poorest,Never,High,24.8,125.0,79.0,No,5.6,No,2024-01-24
+1773,Pabna,Urban,Male,50,Primary,Richer,Current,Moderate,20.4,118.0,71.0,No,6.0,No,2024-11-12
+1774,Bogura,Rural,Female,59,Higher,Poorest,,Moderate,20.2,115.0,75.0,No,5.3,No,2024-08-05
+1775,Rajshahi,Rural,Female,50,No formal education,Richest,Never,Low,21.8,115.0,76.0,No,7.2,Yes,2024-10-26
+1776,Pabna,Rural,Male,36,No formal education,Poorest,Never,Moderate,26.5,131.0,81.0,No,6.4,No,2024-08-04
+1777,Natore,Rural,Male,75,Higher,Poorest,Current,High,25.5,131.0,90.0,Yes,6.8,No,2024-03-01
+1778,Pabna,Rural,Male,83,Primary,Richest,Current,Moderate,24.0,132.0,85.0,No,,,2024-01-14
+1779,Natore,Rural,Female,68,No formal education,Richer,Former,Moderate,26.7,,,,6.0,No,2024-10-27
+1780,Naogaon,Urban,Male,60,Primary,Poorer,Never,Moderate,24.5,138.0,86.0,No,5.6,No,2024-10-15
+1781,Pabna,Rural,Female,65,Higher,Middle,Never,Low,,130.0,73.0,No,5.8,No,2024-09-09
+1782,Natore,Urban,Male,85,No formal education,Poorest,Former,Moderate,19.0,132.0,88.0,No,6.3,No,2024-05-24
+1783,Natore,Rural,Male,47,Primary,Richest,Former,Moderate,22.5,117.0,59.0,No,5.9,No,2024-06-02
+1784,Pabna,Rural,Male,54,Higher,Poorest,Never,High,,121.0,82.0,No,5.9,No,2024-04-04
+1785,Bogura,Rural,Male,53,Higher,Richer,Never,Low,25.4,127.0,83.0,No,6.2,No,2024-08-28
+1786,Natore,Urban,Female,72,Higher,Richest,Former,Low,31.5,134.0,84.0,No,6.4,No,2024-08-25
+1787,Natore,Rural,Female,68,No formal education,Poorest,Never,Low,21.4,,,,6.2,No,2024-08-17
+1788,Naogaon,Urban,Female,49,No formal education,Richer,Never,High,22.5,123.0,71.0,No,6.9,No,2024-04-27
+1789,Rajshahi,Urban,Female,81,Higher,Richest,Never,Low,21.4,141.0,103.0,Yes,6.1,No,2024-07-12
+1790,Bogura,Urban,Male,38,Secondary,Richer,Former,Low,27.0,,,,5.6,No,2024-03-22
+1791,Rajshahi,Rural,Female,60,Primary,Poorest,Former,Low,18.0,122.0,73.0,No,5.6,No,2024-07-06
+1792,Bogura,Urban,Male,75,Primary,Poorer,Never,High,22.7,122.0,80.0,No,5.5,No,2024-03-08
+1793,Bogura,Rural,Female,70,No formal education,Richer,Current,High,27.5,131.0,87.0,No,,,2024-07-20
+1794,Rajshahi,Rural,Female,65,Secondary,Poorest,Never,Moderate,22.3,110.0,78.0,No,6.1,No,2024-01-24
+1795,Naogaon,Urban,Male,55,Primary,Richest,Never,Moderate,20.9,100.0,73.0,No,5.5,No,2024-05-23
+1796,Natore,Rural,Female,69,Higher,Poorer,Never,Moderate,23.7,129.0,86.0,No,6.0,No,2024-08-05
+1797,Bogura,Rural,Male,44,Primary,Middle,Never,Low,22.0,135.0,92.0,Yes,5.9,No,2024-08-04
+1798,Natore,Rural,Male,83,Primary,Richest,Never,Moderate,25.3,141.0,86.0,Yes,7.2,Yes,2024-08-25
+1799,Rajshahi,Urban,Male,58,Primary,Poorest,Former,Low,21.5,132.0,96.0,Yes,,,2024-11-18
+1800,Bogura,Rural,Female,51,Primary,Poorest,Never,High,20.3,106.0,75.0,No,5.0,No,2024-07-20
+1801,Natore,Rural,Male,60,Primary,Richer,Current,Low,26.0,138.0,90.0,Yes,6.1,No,2024-05-01
+1802,Pabna,Rural,Female,65,Primary,Poorer,Never,Moderate,20.1,116.0,75.0,No,5.8,No,2024-10-02
+1803,Natore,Urban,Male,60,Higher,Poorer,Former,Moderate,24.1,130.0,81.0,No,6.3,No,2024-02-05
+1804,Bogura,Rural,Male,43,Higher,Middle,Former,Moderate,20.6,113.0,72.0,No,5.4,No,2024-10-22
+1805,Rajshahi,Rural,Male,78,Primary,Poorest,Never,Low,23.9,128.0,84.0,No,7.1,Yes,2024-08-05
+1806,Bogura,Rural,Female,81,Secondary,Middle,Never,High,25.1,144.0,94.0,Yes,7.0,Yes,2024-10-18
+1807,Natore,Rural,Male,66,Secondary,Poorest,Current,Low,22.1,129.0,96.0,Yes,5.7,No,2024-09-21
+1808,Natore,Rural,Male,85,No formal education,Poorer,Former,Low,24.0,123.0,79.0,No,6.4,No,2024-11-26
+1809,Naogaon,Rural,Female,70,Secondary,Poorer,Never,Moderate,22.6,136.0,89.0,No,5.9,No,2024-09-04
+1810,Naogaon,Rural,Male,55,Higher,Middle,Current,Moderate,22.8,122.0,79.0,No,6.3,No,2024-05-22
+1811,Bogura,Urban,Male,66,Secondary,Richer,Former,Low,21.9,121.0,87.0,No,6.4,No,2024-03-21
+1812,Natore,Rural,Male,73,Secondary,Richer,Former,Low,24.1,130.0,89.0,No,7.8,Yes,2024-10-02
+1813,Naogaon,Urban,Male,57,Secondary,Richest,Never,Moderate,29.0,95.0,61.0,No,7.1,Yes,2024-03-05
+1814,Rajshahi,Urban,Female,59,Primary,Richer,Never,Moderate,23.5,123.0,72.0,No,5.6,No,2024-08-07
+1815,Rajshahi,Rural,Male,70,Primary,Richer,Former,Low,19.0,108.0,74.0,No,7.1,Yes,2024-07-29
+1816,Rajshahi,Urban,Female,53,Secondary,Richer,Never,Moderate,27.9,127.0,83.0,No,6.3,No,2024-03-17
+1817,Natore,Urban,Male,85,Primary,Poorer,Never,Low,19.0,126.0,81.0,No,8.0,Yes,2024-11-24
+1818,Natore,Rural,Female,45,Secondary,Richest,Never,Low,24.9,126.0,75.0,No,5.5,No,2024-01-31
+1819,Rajshahi,Rural,Male,48,No formal education,Richer,Never,High,17.2,102.0,75.0,No,,,2024-11-22
+1820,Naogaon,Rural,Female,63,Higher,Poorest,Never,Moderate,23.2,142.0,94.0,Yes,5.9,No,2024-03-29
+1821,Rajshahi,Rural,Female,80,No formal education,Richest,Never,Low,32.8,149.0,92.0,Yes,6.7,No,2024-05-14
+1822,Natore,Urban,Male,78,No formal education,Poorest,Never,Low,24.4,118.0,69.0,No,6.8,No,2024-06-29
+1823,Rajshahi,Rural,Male,72,Secondary,Poorer,Former,Low,26.1,135.0,100.0,Yes,6.8,No,2024-11-09
+1824,Natore,Urban,Female,85,Secondary,Poorer,Never,Moderate,23.6,154.0,103.0,Yes,6.9,No,2024-08-08
+1825,Rajshahi,Rural,Male,69,Primary,Poorest,Never,Moderate,23.1,134.0,90.0,Yes,5.8,No,2024-01-08
+1826,Pabna,Urban,Male,80,No formal education,Middle,Never,Moderate,23.5,116.0,75.0,No,6.2,No,2024-09-15
+1827,Bogura,Urban,Female,64,Primary,Richer,Former,Moderate,27.9,127.0,78.0,No,6.0,No,2024-05-07
+1828,Pabna,Rural,Male,71,Higher,Richer,Never,Low,26.5,138.0,84.0,No,6.6,No,2024-11-21
+1829,Naogaon,Rural,Female,66,No formal education,Middle,Never,High,23.8,137.0,99.0,Yes,6.1,No,2024-06-19
+1830,Bogura,Urban,Male,69,Primary,Richest,Former,Moderate,22.7,121.0,72.0,No,5.8,No,2024-09-26
+1831,Naogaon,Rural,Male,78,Primary,Richest,Never,Low,19.6,133.0,78.0,No,8.0,Yes,2024-01-26
+1832,Bogura,Urban,Male,60,No formal education,Poorer,Former,Low,24.0,129.0,82.0,No,,,2024-01-18
+1833,Bogura,Rural,Male,67,Secondary,Poorest,Never,Low,23.7,137.0,99.0,Yes,5.9,No,2024-08-07
+1834,Rajshahi,Rural,Female,69,Primary,Richest,Never,Moderate,19.7,137.0,77.0,No,5.3,No,2024-10-29
+1835,Rajshahi,Urban,Male,68,Primary,Richer,Never,Moderate,24.6,130.0,88.0,No,5.7,No,2024-04-29
+1836,Rajshahi,Rural,Male,57,Primary,Richer,Former,Moderate,20.3,127.0,73.0,No,6.5,No,2024-01-15
+1837,Natore,Rural,Male,60,Primary,Poorest,Former,High,17.0,106.0,71.0,No,5.8,No,2024-07-12
+1838,Rajshahi,Rural,Male,85,Secondary,Poorest,Never,Low,16.6,124.0,83.0,No,6.0,No,2024-02-18
+1839,Pabna,Urban,Female,68,No formal education,Middle,Never,High,23.5,129.0,84.0,No,5.7,No,2024-01-29
+1840,Pabna,Rural,Female,56,Secondary,Poorest,Former,Low,25.2,109.0,69.0,No,5.9,No,2024-04-21
+1841,Pabna,Rural,Female,52,Higher,Richest,Never,Moderate,28.4,109.0,66.0,No,5.9,No,2024-09-18
+1842,Bogura,Urban,Female,76,No formal education,Poorer,Never,Moderate,17.8,123.0,71.0,No,6.5,No,2024-05-20
+1843,Rajshahi,Rural,Female,59,No formal education,Poorer,Never,Moderate,,131.0,86.0,No,6.7,No,2024-05-24
+1844,Rajshahi,Urban,Male,59,No formal education,Richest,Never,Moderate,25.1,119.0,81.0,No,5.6,No,2024-05-16
+1845,Pabna,Rural,Male,56,No formal education,Poorer,Never,Moderate,21.1,136.0,79.0,No,5.2,No,2024-08-28
+1846,Naogaon,Rural,Female,51,Primary,Poorer,Never,High,24.7,127.0,88.0,No,7.0,Yes,2024-04-20
+1847,Bogura,Rural,Female,72,Primary,Poorer,Former,Low,21.1,112.0,80.0,No,6.3,No,2024-10-26
+1848,Bogura,Rural,Female,57,Primary,Middle,Former,Moderate,21.9,115.0,72.0,No,7.3,Yes,2024-10-06
+1849,Natore,Rural,Female,83,No formal education,Poorest,Never,Moderate,22.9,134.0,87.0,No,,,2024-01-15
+1850,Rajshahi,Rural,Male,56,Secondary,Poorer,Former,High,22.7,104.0,73.0,No,5.8,No,2024-06-04
+1851,Pabna,Urban,Female,72,Primary,Middle,Never,Moderate,22.1,130.0,80.0,No,5.7,No,2024-11-07
+1852,Naogaon,Rural,Female,85,Secondary,Poorer,Never,Moderate,21.8,130.0,93.0,Yes,6.8,No,2024-02-03
+1853,Bogura,Rural,Female,53,Primary,Poorest,Never,Low,21.9,108.0,63.0,No,5.5,No,2024-10-23
+1854,Bogura,Rural,Male,47,Primary,Poorer,Former,Low,25.7,122.0,67.0,No,6.5,No,2024-06-09
+1855,Bogura,Urban,Female,47,No formal education,Poorest,Never,Moderate,16.8,101.0,77.0,No,4.8,No,2024-05-17
+1856,Pabna,Urban,Female,53,Primary,Poorest,Former,Low,20.8,121.0,75.0,No,5.4,No,2024-10-03
+1857,Naogaon,Rural,Male,69,Primary,Richest,Former,High,26.6,140.0,94.0,Yes,5.9,No,2024-03-14
+1858,Natore,Urban,Male,70,Primary,Middle,Current,Moderate,,129.0,77.0,No,7.2,Yes,2024-02-28
+1859,Bogura,Rural,Male,50,Secondary,Middle,Current,Low,20.5,103.0,67.0,No,5.5,No,2024-09-10
+1860,Bogura,Rural,Male,64,No formal education,Richer,Never,Low,25.3,130.0,85.0,No,6.5,No,2024-01-28
+1861,Pabna,Rural,Female,55,Secondary,Middle,Never,Moderate,19.5,139.0,90.0,Yes,5.6,No,2024-06-01
+1862,Pabna,Urban,Male,57,No formal education,Richest,Never,Moderate,25.2,102.0,83.0,No,5.6,No,2024-04-23
+1863,Rajshahi,Rural,Male,50,Primary,Poorest,Never,Low,26.1,117.0,72.0,No,5.9,No,2024-06-27
+1864,Pabna,Rural,Male,49,Primary,Poorest,Never,Low,16.5,107.0,64.0,No,5.6,No,2024-11-22
+1865,Natore,Rural,Female,85,Primary,Poorer,Never,Low,24.2,135.0,89.0,No,6.1,No,2024-04-09
+1866,Rajshahi,Urban,Female,85,No formal education,Middle,Never,Moderate,26.2,147.0,95.0,Yes,6.4,No,2024-10-14
+1867,Natore,Rural,Male,77,Secondary,Poorest,Former,High,18.7,125.0,80.0,No,5.5,No,2024-02-11
+1868,Rajshahi,Rural,Female,42,No formal education,Poorer,Never,High,23.5,121.0,79.0,No,5.7,No,2024-08-24
+1869,Rajshahi,Urban,Male,66,Secondary,Richest,Current,High,25.4,134.0,95.0,Yes,5.5,No,2024-11-22
+1870,Pabna,Urban,Female,54,Primary,Richest,Never,Moderate,24.7,128.0,96.0,Yes,6.2,No,2024-09-03
+1871,Natore,Urban,Male,81,No formal education,Poorest,Former,Low,23.7,114.0,76.0,No,7.1,Yes,2024-11-28
+1872,Pabna,Urban,Male,57,No formal education,Middle,Never,Low,21.7,128.0,82.0,No,6.8,No,2024-06-27
+1873,Pabna,Urban,Female,51,Primary,Middle,Never,High,,,,,5.2,No,2024-08-25
+1874,Rajshahi,Urban,Female,53,Secondary,Poorer,Never,Moderate,24.1,116.0,81.0,No,5.7,No,2024-06-12
+1875,Pabna,Rural,Male,63,Primary,Poorest,Former,High,26.0,133.0,83.0,No,5.4,No,2024-01-19
+1876,Bogura,Rural,Male,31,Primary,Middle,Current,Moderate,24.9,122.0,85.0,No,,,2024-06-24
+1877,Rajshahi,Rural,Male,71,Secondary,Poorest,Current,Low,26.0,129.0,88.0,No,6.0,No,2024-11-08
+1878,Natore,Rural,Male,53,No formal education,Poorest,Current,Low,24.0,130.0,96.0,Yes,5.7,No,2024-10-26
+1879,Rajshahi,Rural,Female,53,Higher,Poorest,Never,Moderate,23.3,92.0,61.0,No,5.4,No,2024-02-04
+1880,Bogura,Rural,Female,62,No formal education,Richest,Never,Low,25.6,136.0,81.0,No,6.3,No,2024-11-24
+1881,Bogura,Rural,Male,74,Secondary,Poorer,Never,Moderate,27.9,,,,6.8,No,2024-07-20
+1882,Pabna,Urban,Female,53,Secondary,Middle,Current,Low,20.5,108.0,65.0,No,5.8,No,2024-02-28
+1883,Naogaon,Urban,Female,85,Primary,Richest,Never,High,25.2,122.0,81.0,No,,,2024-09-22
+1884,Natore,Urban,Male,80,Secondary,Middle,Never,Low,27.0,128.0,76.0,No,6.3,No,2024-04-04
+1885,Rajshahi,Rural,Male,66,Primary,Poorest,Never,Low,26.9,107.0,77.0,No,6.0,No,2024-07-20
+1886,Rajshahi,Rural,Female,79,Secondary,Poorer,Never,Moderate,27.0,151.0,101.0,Yes,6.5,No,2024-04-13
+1887,Bogura,Rural,Male,50,Primary,Richest,Never,High,23.3,120.0,79.0,No,5.1,No,2024-05-01
+1888,Bogura,Rural,Male,67,Primary,Poorest,Current,Low,22.5,111.0,68.0,No,6.5,No,2024-08-03
+1889,Natore,Urban,Female,49,Secondary,Richer,Never,Low,27.5,105.0,74.0,No,7.1,Yes,2024-09-16
+1890,Pabna,Rural,Female,48,No formal education,Richer,Current,Moderate,27.2,128.0,86.0,No,6.0,No,2024-07-12
+1891,Bogura,Rural,Male,53,No formal education,Richer,Former,Moderate,22.7,139.0,76.0,No,8.1,Yes,2024-07-18
+1892,Pabna,Rural,Male,39,No formal education,Richer,Current,Low,23.2,121.0,87.0,No,5.6,No,2024-03-10
+1893,Bogura,Rural,Male,59,Secondary,Middle,Current,Low,26.4,126.0,74.0,No,7.0,Yes,2024-05-23
+1894,Natore,Rural,Female,85,Higher,Richest,Never,Moderate,27.9,158.0,103.0,Yes,7.0,Yes,2024-03-27
+1895,Natore,Urban,Male,67,Primary,Richest,Former,High,26.2,128.0,78.0,No,5.4,No,2024-01-21
+1896,Natore,Rural,Female,76,Secondary,Poorer,Never,Low,23.4,127.0,79.0,No,6.2,No,2024-08-10
+1897,Naogaon,Urban,Male,85,Primary,Poorest,Former,Moderate,27.5,132.0,79.0,No,7.9,Yes,2024-10-06
+1898,Pabna,Urban,Female,55,Primary,Richer,Never,Low,26.9,126.0,75.0,No,6.6,No,2024-04-20
+1899,Pabna,Rural,Male,85,Secondary,Richest,Never,High,19.9,125.0,76.0,No,5.9,No,2024-04-10
+1900,Natore,Urban,Male,70,Secondary,Richest,Former,Moderate,21.2,137.0,87.0,No,5.7,No,2024-10-01
+1901,Pabna,Rural,Female,53,Secondary,Poorer,Never,Moderate,20.2,124.0,86.0,No,5.2,No,2024-09-26
+1902,Naogaon,Rural,Male,85,No formal education,Richer,Current,Low,21.7,144.0,93.0,Yes,7.3,Yes,2024-09-09
+1903,Bogura,Urban,Male,67,Primary,Richest,Former,Moderate,20.6,137.0,91.0,Yes,5.7,No,2024-06-14
+1904,Bogura,Rural,Male,60,Higher,Richest,Current,Moderate,25.9,121.0,71.0,No,6.0,No,2024-06-01
+1905,Rajshahi,Urban,Male,52,Primary,Richer,Former,Low,22.5,106.0,64.0,No,6.0,No,2024-05-16
+1906,Naogaon,Rural,Male,55,Higher,Poorest,Former,Low,22.0,104.0,66.0,No,7.4,Yes,2024-01-15
+1907,Rajshahi,Rural,Male,55,Primary,Richer,Former,Moderate,23.8,108.0,78.0,No,5.4,No,2024-06-10
+1908,Naogaon,Rural,Male,85,Primary,Richer,Current,Low,29.2,139.0,90.0,Yes,7.2,Yes,2024-06-11
+1909,Bogura,Rural,Female,51,Secondary,Richer,Never,Moderate,21.6,136.0,86.0,No,5.4,No,2024-01-09
+1910,Naogaon,Rural,Female,55,Primary,Poorest,Never,Moderate,19.1,146.0,87.0,Yes,5.3,No,2024-05-22
+1911,Rajshahi,Rural,Female,76,Secondary,Richest,Never,High,23.4,107.0,75.0,No,5.9,No,2024-02-09
+1912,Rajshahi,Rural,Male,84,No formal education,Middle,Current,High,18.8,123.0,65.0,No,5.5,No,2024-07-11
+1913,Natore,Rural,Male,65,No formal education,Middle,Former,High,17.7,119.0,72.0,No,,,2024-05-19
+1914,Bogura,Urban,Male,85,Secondary,Poorer,Former,Moderate,21.4,124.0,80.0,No,7.0,Yes,2024-06-29
+1915,Bogura,Rural,Male,39,No formal education,Richest,Never,High,27.5,111.0,79.0,No,5.2,No,2024-02-06
+1916,Rajshahi,Urban,Female,59,Primary,Middle,Never,High,28.4,125.0,79.0,No,5.4,No,2024-03-14
+1917,Rajshahi,Urban,Female,65,Secondary,Poorer,Never,Moderate,23.9,114.0,69.0,No,5.8,No,2024-02-28
+1918,Natore,Rural,Male,71,Higher,Middle,Never,Low,23.2,130.0,71.0,No,,,2024-02-11
+1919,Pabna,Urban,Male,66,Secondary,Richer,Former,Moderate,21.6,116.0,74.0,No,5.9,No,2024-04-17
+1920,Natore,Rural,Female,57,Primary,Middle,Current,High,22.5,109.0,69.0,No,6.1,No,2024-03-12
+1921,Bogura,Urban,Male,54,Higher,Poorest,Never,Moderate,23.6,116.0,84.0,No,5.5,No,2024-11-24
+1922,Bogura,Urban,Male,69,Primary,Poorer,Never,Moderate,26.6,132.0,81.0,No,6.0,No,2024-09-29
+1923,Naogaon,Rural,Male,80,Higher,Poorest,Never,Low,26.9,135.0,84.0,No,6.5,No,2024-08-14
+1924,Naogaon,Rural,Male,33,Primary,Middle,Former,Moderate,,94.0,66.0,No,,,2024-08-01
+1925,Pabna,Rural,Male,85,Primary,Poorer,Never,High,20.8,154.0,95.0,Yes,6.4,No,2024-02-24
+1926,Pabna,Rural,Male,75,Secondary,Richer,Current,Moderate,21.1,133.0,93.0,Yes,6.7,No,2024-06-24
+1927,Rajshahi,Urban,Female,57,Secondary,Richest,Never,Low,20.6,123.0,80.0,No,5.5,No,2024-05-06
+1928,Bogura,Rural,Female,57,Secondary,Poorest,Current,Low,22.8,127.0,81.0,No,5.8,No,2024-07-16
+1929,Pabna,Urban,Female,71,No formal education,Middle,Never,Low,23.6,123.0,68.0,No,6.5,No,2024-07-07
+1930,Bogura,Urban,Female,57,No formal education,Richest,Never,Moderate,23.6,118.0,67.0,No,5.8,No,2024-03-01
+1931,Bogura,Rural,Male,41,Secondary,Middle,Former,Moderate,24.0,100.0,69.0,No,5.5,No,2024-05-03
+1932,Natore,Rural,Male,57,No formal education,Poorer,Current,Moderate,,114.0,75.0,No,5.3,No,2024-08-11
+1933,Rajshahi,Rural,Male,46,No formal education,Richest,Former,High,22.5,128.0,76.0,No,5.6,No,2024-06-22
+1934,Naogaon,Rural,Female,53,Primary,Poorest,Never,Moderate,22.7,97.0,58.0,No,5.4,No,2024-05-18
+1935,Rajshahi,Rural,Male,59,Secondary,Poorest,Never,Low,19.4,120.0,75.0,No,5.6,No,2024-06-09
+1936,Natore,Rural,Male,49,Primary,Middle,Former,Low,17.7,118.0,83.0,No,5.4,No,2024-02-05
+1937,Bogura,Rural,Female,67,Primary,Poorer,Current,High,22.8,118.0,70.0,No,,,2024-03-27
+1938,Natore,Urban,Male,80,Secondary,Poorer,Never,Low,23.6,142.0,87.0,Yes,7.6,Yes,2024-07-07
+1939,Bogura,Rural,Male,72,Higher,Richest,Current,High,22.3,129.0,71.0,No,5.5,No,2024-09-23
+1940,Bogura,Urban,Male,49,Higher,Richest,Current,High,31.3,120.0,82.0,No,5.7,No,2024-02-21
+1941,Pabna,Urban,Male,49,Secondary,Richest,Never,High,18.7,107.0,61.0,No,4.6,No,2024-06-11
+1942,Naogaon,Urban,Male,85,Secondary,Middle,Former,Moderate,19.2,131.0,84.0,No,6.1,No,2024-01-12
+1943,Pabna,Rural,Male,63,No formal education,Middle,Former,High,19.8,112.0,70.0,No,5.0,No,2024-06-22
+1944,Rajshahi,Rural,Male,51,Primary,Middle,Never,Moderate,27.4,118.0,87.0,No,6.6,No,2024-05-05
+1945,Rajshahi,Rural,Female,51,Primary,Middle,Never,High,18.0,109.0,64.0,No,4.8,No,2024-03-26
+1946,Rajshahi,Rural,Male,85,No formal education,Poorer,Former,Moderate,20.5,138.0,83.0,No,5.8,No,2024-05-20
+1947,Bogura,Urban,Male,75,Primary,Poorer,Former,Moderate,20.6,124.0,82.0,No,5.8,No,2024-01-12
+1948,Rajshahi,Rural,Female,65,Higher,Richer,Never,Low,26.7,124.0,85.0,No,6.4,No,2024-03-06
+1949,Naogaon,Rural,Female,66,Primary,Poorest,Never,High,19.8,107.0,69.0,No,5.5,No,2024-02-16
+1950,Rajshahi,Rural,Male,60,No formal education,Poorest,Former,Low,22.4,131.0,88.0,No,5.7,No,2024-10-26
+1951,Bogura,Rural,Female,46,Secondary,Richer,Never,Moderate,28.0,130.0,85.0,No,5.9,No,2024-02-26
+1952,Rajshahi,Urban,Male,70,Primary,Richest,Current,Moderate,23.7,151.0,95.0,Yes,6.2,No,2024-08-02
+1953,Bogura,Urban,Male,64,Primary,Richest,Current,Low,18.0,126.0,77.0,No,5.6,No,2024-09-18
+1954,Pabna,Urban,Male,70,Secondary,Poorer,Former,Low,23.4,130.0,91.0,Yes,6.4,No,2024-03-21
+1955,Bogura,Rural,Female,64,No formal education,Poorer,Never,Low,27.6,124.0,76.0,No,8.3,Yes,2024-01-15
+1956,Rajshahi,Urban,Female,68,No formal education,Richer,Never,High,23.7,125.0,82.0,No,5.7,No,2024-09-04
+1957,Natore,Rural,Female,80,Secondary,Poorer,Former,High,25.0,140.0,82.0,Yes,6.7,No,2024-01-20
+1958,Naogaon,Rural,Male,60,Primary,Poorer,Never,Moderate,24.8,111.0,83.0,No,6.3,No,2024-06-21
+1959,Rajshahi,Rural,Male,47,Secondary,Poorer,Former,Moderate,23.0,128.0,91.0,Yes,5.5,No,2024-10-10
+1960,Rajshahi,Rural,Male,50,Higher,Middle,Never,Moderate,27.6,95.0,66.0,No,6.4,No,2024-11-27
+1961,Natore,Rural,Male,47,No formal education,Poorest,Never,Moderate,19.0,123.0,75.0,No,5.6,No,2024-06-24
+1962,Bogura,Urban,Male,65,Secondary,Richest,Current,Low,24.0,123.0,89.0,No,5.8,No,2024-02-23
+1963,Rajshahi,Rural,Male,57,Secondary,Middle,Current,High,20.8,134.0,79.0,No,5.6,No,2024-01-28
+1964,Rajshahi,Urban,Female,48,Secondary,Poorest,Never,Low,21.2,114.0,79.0,No,5.4,No,2024-08-10
+1965,Naogaon,Rural,Female,59,No formal education,Poorer,Never,Low,29.0,126.0,84.0,No,6.4,No,2024-04-01
+1966,Natore,Rural,Male,39,No formal education,Poorest,Former,Low,22.4,118.0,78.0,No,,,2024-08-06
+1967,Bogura,Urban,Female,53,Primary,Richer,Former,Moderate,29.0,123.0,82.0,No,5.9,No,2024-03-09
+1968,Rajshahi,Urban,Female,79,Higher,Richest,Never,Moderate,,144.0,99.0,Yes,6.0,No,2024-08-25
+1969,Naogaon,Urban,Male,85,No formal education,Richer,Current,Moderate,27.2,157.0,85.0,Yes,7.4,Yes,2024-11-29
+1970,Bogura,Urban,Female,59,No formal education,Poorest,Never,Low,20.3,130.0,72.0,No,5.7,No,2024-01-14
+1971,Bogura,Urban,Male,36,No formal education,Poorer,Current,Low,18.8,98.0,63.0,No,5.5,No,2024-08-29
+1972,Natore,Rural,Male,46,Primary,Richer,Never,Moderate,19.6,108.0,65.0,No,6.4,No,2024-11-08
+1973,Natore,Urban,Female,83,Primary,Richest,Never,Low,29.7,125.0,80.0,No,7.4,Yes,2024-04-29
+1974,Rajshahi,Rural,Female,68,Secondary,Middle,Never,High,19.4,132.0,80.0,No,5.4,No,2024-05-25
+1975,Pabna,Urban,Male,82,Primary,Middle,Never,Moderate,17.3,120.0,73.0,No,5.9,No,2024-07-17
+1976,Bogura,Rural,Female,59,Primary,Richer,Never,Low,19.9,127.0,89.0,No,6.4,No,2024-06-06
+1977,Naogaon,Rural,Female,65,No formal education,Middle,Never,High,31.4,123.0,77.0,No,6.5,No,2024-08-25
+1978,Bogura,Rural,Male,58,No formal education,Poorest,Former,High,24.9,109.0,67.0,No,5.7,No,2024-03-22
+1979,Bogura,Rural,Female,73,Primary,Richest,Never,Low,19.9,110.0,79.0,No,6.3,No,2024-11-02
+1980,Pabna,Urban,Male,85,No formal education,Richest,Never,High,29.5,124.0,75.0,No,6.4,No,2024-11-11
+1981,Naogaon,Rural,Male,47,Primary,Richer,Current,Low,21.0,144.0,89.0,Yes,5.7,No,2024-04-20
+1982,Pabna,Urban,Female,42,Primary,Richest,Current,Moderate,21.2,120.0,83.0,No,6.0,No,2024-07-12
+1983,Pabna,Urban,Male,80,Secondary,Richest,Never,Moderate,17.9,124.0,90.0,Yes,6.1,No,2024-08-07
+1984,Rajshahi,Urban,Male,70,Secondary,Middle,Current,High,25.3,140.0,91.0,Yes,5.6,No,2024-03-25
+1985,Rajshahi,Urban,Male,58,Secondary,Poorest,Never,Moderate,19.2,130.0,80.0,No,5.4,No,2024-11-23
+1986,Natore,Rural,Female,63,Secondary,Poorest,Never,High,30.8,134.0,89.0,No,6.0,No,2024-03-01
+1987,Rajshahi,Rural,Male,52,Secondary,Richest,Never,Moderate,,126.0,78.0,No,5.4,No,2024-08-12
+1988,Naogaon,Rural,Female,45,No formal education,Poorest,Never,Low,19.1,109.0,78.0,No,5.2,No,2024-10-05
+1989,Naogaon,Urban,Female,82,No formal education,Richer,Current,High,26.4,127.0,91.0,Yes,6.2,No,2024-04-23
+1990,Pabna,Rural,Male,66,Secondary,Poorest,Former,High,20.8,121.0,81.0,No,6.1,No,2024-11-03
+1991,Bogura,Rural,Male,85,No formal education,Richest,Never,Moderate,24.1,138.0,93.0,Yes,6.5,No,2024-06-24
+1992,Naogaon,Rural,Female,43,No formal education,Poorest,Never,Moderate,21.0,112.0,75.0,No,5.6,No,2024-03-23
+1993,Natore,Rural,Male,85,No formal education,Poorest,Former,Moderate,24.7,118.0,72.0,No,6.7,No,2024-04-24
+1994,Natore,Rural,Male,60,Secondary,Richest,Former,Low,25.3,121.0,75.0,No,6.1,No,2024-11-05
+1995,Rajshahi,Rural,Male,56,Primary,Middle,Current,Moderate,23.2,142.0,87.0,Yes,6.3,No,2024-06-14
+1996,Pabna,Rural,Female,56,No formal education,Richer,Never,Low,,103.0,69.0,No,5.3,No,2024-08-29
+1997,Natore,Urban,Female,60,Primary,Poorest,Never,Low,25.1,120.0,71.0,No,6.0,No,2024-08-05
+1998,Rajshahi,Rural,Male,61,Primary,Middle,Never,Low,24.6,162.0,91.0,Yes,5.9,No,2024-02-28
+1999,Rajshahi,Rural,Female,55,Primary,Richer,Never,Low,15.1,124.0,91.0,Yes,5.2,No,2024-07-06
+2000,Bogura,Rural,Male,58,Secondary,Poorer,Never,Low,20.0,112.0,72.0,No,5.5,No,2024-06-15
+2001,Natore,Urban,Male,48,Primary,Richer,Current,Low,21.4,116.0,86.0,No,5.2,No,2024-07-02
+2002,Rajshahi,Rural,Female,60,No formal education,Poorest,Never,Low,21.2,125.0,89.0,No,5.9,No,2024-04-23
+2003,Natore,Rural,Female,65,Primary,Poorer,Never,High,24.5,108.0,66.0,No,7.2,Yes,2024-04-20
+2004,Pabna,Urban,Male,56,Primary,Richer,Former,Moderate,,105.0,80.0,No,6.0,No,2024-06-17
+2005,Natore,Rural,Male,64,Secondary,Richer,Never,Moderate,20.8,140.0,80.0,Yes,5.9,No,2024-02-08
+2006,Rajshahi,Rural,Female,53,No formal education,Middle,Never,Low,21.8,111.0,71.0,No,6.3,No,2024-07-02
+2007,Naogaon,Rural,Female,49,Secondary,Middle,Never,High,22.8,108.0,74.0,No,5.5,No,2024-07-01
+2008,Rajshahi,Rural,Male,43,No formal education,Middle,Former,High,24.3,105.0,65.0,No,5.1,No,2024-10-15
+2009,Natore,Urban,Female,62,Higher,Richest,Former,High,29.2,118.0,68.0,No,6.7,No,2024-09-17
+2010,Rajshahi,Rural,Female,85,No formal education,Poorer,Never,Low,30.4,154.0,95.0,Yes,8.2,Yes,2024-01-26
+2011,Natore,Rural,Male,84,Secondary,Middle,Former,Low,25.4,146.0,90.0,Yes,6.6,No,2024-09-01
+2012,Bogura,Urban,Male,85,Secondary,Richer,Former,High,24.8,125.0,87.0,No,7.0,Yes,2024-06-11
+2013,Bogura,Rural,Male,72,Higher,Poorest,Former,Moderate,18.8,117.0,71.0,No,6.3,No,2024-10-06
+2014,Naogaon,Urban,Male,51,Primary,Middle,,High,27.7,109.0,85.0,No,5.4,No,2024-11-14
+2015,Bogura,Urban,Male,70,Primary,Richer,Former,Low,23.3,120.0,69.0,No,6.7,No,2024-09-03
+2016,Pabna,Urban,Male,69,Higher,Poorer,Former,High,26.9,129.0,87.0,No,6.3,No,2024-10-03
+2017,Pabna,Rural,Male,52,Primary,Richest,Current,High,27.7,127.0,86.0,No,6.1,No,2024-07-13
+2018,Rajshahi,Rural,Female,50,No formal education,Poorer,Never,Low,16.8,131.0,89.0,No,5.8,No,2024-11-08
+2019,Pabna,Rural,Female,42,Secondary,Richest,Never,Moderate,22.1,135.0,83.0,No,5.2,No,2024-02-16
+2020,Naogaon,Urban,Male,50,Primary,Poorest,Never,High,22.5,104.0,66.0,No,5.4,No,2024-05-22
+2021,Bogura,Urban,Female,50,Primary,Richer,Never,Low,24.5,118.0,76.0,No,5.8,No,2024-04-07
+2022,Natore,Urban,Male,66,Primary,Richest,Former,Low,24.3,116.0,83.0,No,6.0,No,2024-06-27
+2023,Rajshahi,Rural,Female,55,Primary,Middle,Former,Moderate,24.0,112.0,66.0,No,5.5,No,2024-07-23
+2024,Pabna,Urban,Female,62,Secondary,Richest,Never,Low,18.6,123.0,78.0,No,,,2024-07-14
+2025,Rajshahi,Urban,Female,73,Higher,Richest,Never,High,26.1,146.0,102.0,Yes,,,2024-05-04
+2026,Rajshahi,Rural,Female,68,Higher,Richest,Never,Moderate,25.0,138.0,87.0,No,5.9,No,2024-08-23
+2027,Pabna,Rural,Female,48,Primary,Poorest,Never,Low,20.7,109.0,75.0,No,6.4,No,2024-10-17
+2028,Rajshahi,Rural,Male,50,Secondary,Poorest,Former,High,21.4,101.0,64.0,No,5.2,No,2024-11-11
+2029,Naogaon,Urban,Female,50,Primary,Middle,Never,High,19.0,99.0,67.0,No,6.4,No,2024-05-21
+2030,Natore,Urban,Female,57,Primary,Richer,Former,High,28.1,132.0,94.0,Yes,5.8,No,2024-03-01
+2031,Rajshahi,Rural,Male,67,No formal education,Poorer,Former,Low,24.6,124.0,79.0,No,7.2,Yes,2024-11-10
+2032,Pabna,Urban,Male,59,Higher,Poorer,Former,Moderate,23.2,105.0,68.0,No,5.8,No,2024-02-18
+2033,Rajshahi,Urban,Female,85,Primary,Middle,Never,Moderate,23.7,144.0,100.0,Yes,6.0,No,2024-06-17
+2034,Pabna,Rural,Female,66,Primary,Poorest,Never,High,28.8,126.0,76.0,No,5.6,No,2024-10-10
+2035,Natore,Urban,Male,55,Higher,Richest,Former,Low,27.1,106.0,72.0,No,6.1,No,2024-11-04
+2036,Natore,Urban,Female,54,Secondary,Poorer,Never,Moderate,24.0,138.0,86.0,No,6.1,No,2024-01-18
+2037,Rajshahi,Urban,Female,68,Secondary,Middle,Never,Low,23.0,126.0,69.0,No,6.9,No,2024-03-27
+2038,Rajshahi,Urban,Male,45,Higher,Richer,Current,Low,23.4,127.0,78.0,No,5.5,No,2024-04-30
+2039,Pabna,Urban,Male,85,No formal education,Middle,Former,Moderate,24.4,146.0,88.0,Yes,6.3,No,2024-01-10
+2040,Bogura,Rural,Female,78,Secondary,Richest,Never,Low,,152.0,92.0,Yes,6.5,No,2024-04-18
+2041,Naogaon,Rural,Female,64,Higher,Richest,Former,High,23.1,126.0,69.0,No,5.6,No,2024-08-04
+2042,Pabna,Rural,Male,53,No formal education,Richer,Former,Moderate,24.9,121.0,75.0,No,5.9,No,2024-02-04
+2043,Pabna,Urban,Female,80,Primary,Poorest,Never,Low,22.7,110.0,73.0,No,7.4,Yes,2024-10-05
+2044,Natore,Rural,Male,60,No formal education,Poorer,Former,High,22.5,97.0,69.0,No,5.7,No,2024-10-20
+2045,Naogaon,Rural,Female,66,Primary,Poorer,Never,High,23.7,128.0,83.0,No,5.4,No,2024-10-30
+2046,Bogura,Urban,Female,76,Primary,Middle,Current,Low,20.4,136.0,79.0,No,6.9,No,2024-05-30
+2047,Pabna,Rural,Male,85,Primary,Richest,Former,High,27.8,139.0,87.0,No,6.1,No,2024-11-07
+2048,Rajshahi,Rural,Female,85,Primary,Richest,Never,Low,21.9,136.0,83.0,No,6.4,No,2024-02-23
+2049,Naogaon,Urban,Male,43,Primary,Richest,Never,High,27.6,121.0,75.0,No,,,2024-08-26
+2050,Naogaon,Rural,Male,43,Primary,Poorest,Never,Low,21.5,98.0,69.0,No,6.7,No,2024-05-18
+2051,Rajshahi,Rural,Male,63,Primary,Middle,Former,Low,23.9,129.0,86.0,No,7.3,Yes,2024-06-28
+2052,Bogura,Urban,Female,65,No formal education,Poorer,Former,Moderate,20.5,136.0,84.0,No,5.5,No,2024-10-20
+2053,Naogaon,Rural,Female,60,No formal education,Richer,Never,Moderate,20.8,118.0,71.0,No,6.1,No,2024-07-06
+2054,Pabna,Rural,Female,85,Secondary,Richest,Never,Moderate,28.7,158.0,87.0,Yes,7.7,Yes,2024-10-09
+2055,Bogura,Urban,Female,67,Higher,Richest,Never,Low,24.3,130.0,84.0,No,6.3,No,2024-10-31
+2056,Bogura,Rural,Male,53,Secondary,Poorer,Former,Low,19.7,121.0,77.0,No,6.2,No,2024-02-06
+2057,Pabna,Urban,Male,85,Secondary,Richest,Former,High,24.2,138.0,85.0,No,6.4,No,2024-03-25
+2058,Pabna,Rural,Male,85,No formal education,Poorer,Never,Moderate,22.0,110.0,77.0,No,6.5,No,2024-06-25
+2059,Rajshahi,Urban,Male,67,Secondary,Richest,Never,High,24.5,133.0,90.0,Yes,6.2,No,2024-01-15
+2060,Bogura,Urban,Male,60,Higher,Poorer,Former,High,24.7,115.0,80.0,No,5.5,No,2024-07-06
+2061,Natore,Urban,Female,74,Higher,Poorer,Never,Low,22.2,139.0,91.0,Yes,6.7,No,2024-09-28
+2062,Natore,Urban,Female,53,No formal education,Middle,Never,Low,28.5,127.0,72.0,No,6.7,No,2024-07-29
+2063,Pabna,Rural,Male,72,No formal education,Middle,Current,Moderate,26.0,,,,6.7,No,2024-05-23
+2064,Natore,Rural,Male,74,Primary,Richer,Never,Low,19.0,123.0,91.0,Yes,6.1,No,2024-02-08
+2065,Pabna,Urban,Female,54,No formal education,Richest,Never,Moderate,21.4,116.0,79.0,No,6.1,No,2024-02-04
+2066,Natore,Rural,Female,58,Higher,Poorest,Never,Moderate,17.7,134.0,87.0,No,6.5,No,2024-04-18
+2067,Bogura,Rural,Female,58,No formal education,Poorest,Never,Low,20.1,,,,6.0,No,2024-05-24
+2068,Rajshahi,Urban,Male,77,Primary,Poorer,Current,Low,20.9,136.0,96.0,Yes,6.4,No,2024-05-27
+2069,Rajshahi,Rural,Male,53,Higher,Richest,Former,High,27.9,,,,5.7,No,2024-10-15
+2070,Pabna,Rural,Male,72,Higher,Richest,Former,High,25.4,131.0,85.0,No,6.1,No,2024-08-06
+2071,Rajshahi,Rural,Male,79,Primary,Middle,Former,Low,28.9,126.0,76.0,No,,,2024-08-20
+2072,Natore,Rural,Female,67,Primary,Richer,Never,Low,21.8,114.0,74.0,No,6.7,No,2024-03-17
+2073,Rajshahi,Urban,Male,51,Primary,Richest,Former,Low,19.2,136.0,83.0,No,5.5,No,2024-09-08
+2074,Natore,Urban,Female,66,Primary,Poorer,Never,Low,23.6,116.0,71.0,No,5.8,No,2024-06-05
+2075,Bogura,Rural,Male,72,No formal education,Poorer,Never,High,27.8,122.0,74.0,No,5.6,No,2024-04-15
+2076,Rajshahi,Rural,Male,59,Secondary,Richest,Former,Low,,125.0,77.0,No,6.2,No,2024-08-19
+2077,Bogura,Rural,Male,77,No formal education,Richest,Former,Low,20.5,119.0,84.0,No,6.8,No,2024-02-28
+2078,Rajshahi,Rural,Male,84,No formal education,Poorer,Never,Low,25.2,140.0,85.0,Yes,6.5,No,2024-05-18
+2079,Rajshahi,Rural,Male,77,Higher,Richest,Never,High,23.4,139.0,99.0,Yes,5.8,No,2024-07-01
+2080,Rajshahi,Rural,Female,50,No formal education,Poorer,Never,Moderate,23.6,129.0,82.0,No,5.1,No,2024-02-06
+2081,Naogaon,Urban,Female,55,Secondary,Poorer,Former,Moderate,18.6,119.0,80.0,No,6.0,No,2024-09-29
+2082,Bogura,Rural,Female,36,Primary,Richer,Never,Moderate,21.8,126.0,88.0,No,5.4,No,2024-08-22
+2083,Pabna,Rural,Female,72,Secondary,Poorest,Never,Low,24.0,126.0,84.0,No,6.7,No,2024-09-16
+2084,Rajshahi,Rural,Female,70,Primary,Richest,Never,High,25.9,136.0,93.0,Yes,6.1,No,2024-05-27
+2085,Rajshahi,Rural,Female,46,Primary,Middle,Never,Low,24.3,104.0,65.0,No,5.4,No,2024-02-29
+2086,Pabna,Rural,Female,78,Primary,Middle,Never,High,26.0,127.0,86.0,No,,,2024-06-21
+2087,Bogura,Rural,Male,68,Higher,Poorest,Never,Moderate,20.8,141.0,92.0,Yes,5.8,No,2024-01-17
+2088,Bogura,Urban,Male,79,No formal education,Richest,Former,Low,21.7,153.0,93.0,Yes,7.0,Yes,2024-08-05
+2089,Rajshahi,Rural,Male,49,Secondary,Middle,Former,Moderate,,90.0,79.0,No,5.9,No,2024-02-28
+2090,Natore,Rural,Male,52,Secondary,Middle,Former,Moderate,20.4,131.0,82.0,No,5.2,No,2024-10-14
+2091,Naogaon,Rural,Male,44,Secondary,Poorer,Never,Low,22.3,109.0,79.0,No,,,2024-07-25
+2092,Bogura,Urban,Male,55,Higher,Richer,Current,Moderate,,121.0,83.0,No,6.1,No,2024-01-08
+2093,Bogura,Rural,Female,59,Secondary,Richest,Never,Low,,131.0,86.0,No,6.6,No,2024-07-02
+2094,Bogura,Urban,Male,49,Primary,Richest,Never,High,23.5,125.0,76.0,No,5.6,No,2024-03-10
+2095,Rajshahi,Urban,Female,72,No formal education,Richer,Never,Low,19.6,125.0,77.0,No,6.0,No,2024-11-25
+2096,Bogura,Rural,Male,56,Primary,Poorer,Never,Moderate,27.8,94.0,63.0,No,5.9,No,2024-03-16
+2097,Natore,Rural,Female,69,Higher,Richer,Never,Moderate,26.2,132.0,77.0,No,6.0,No,2024-08-17
+2098,Rajshahi,Rural,Female,42,Secondary,Richest,Never,High,24.2,108.0,67.0,No,5.0,No,2024-05-16
+2099,Natore,Rural,Female,85,Primary,Poorest,Never,High,21.7,129.0,78.0,No,5.9,No,2024-01-29
+2100,Rajshahi,Urban,Female,55,Secondary,Middle,Never,High,23.0,122.0,72.0,No,5.6,No,2024-11-19
+2101,Pabna,Urban,Female,50,Secondary,Poorer,Never,Moderate,,136.0,88.0,No,6.4,No,2024-05-23
+2102,Natore,Rural,Female,66,Secondary,Richest,Never,Low,21.3,139.0,83.0,No,7.6,Yes,2024-08-23
+2103,Bogura,Rural,Male,85,No formal education,Richer,Current,High,24.5,134.0,90.0,Yes,6.9,No,2024-05-09
+2104,Naogaon,Rural,Male,85,No formal education,Richest,Former,Low,23.6,138.0,93.0,Yes,6.9,No,2024-06-03
+2105,Natore,Rural,Male,59,Secondary,Richer,Former,High,19.0,109.0,60.0,No,4.8,No,2024-10-14
+2106,Pabna,Urban,Female,62,Higher,Richer,Never,Moderate,21.4,122.0,92.0,Yes,5.2,No,2024-11-19
+2107,Bogura,Rural,Female,61,No formal education,Poorest,Never,Moderate,18.6,118.0,80.0,No,5.7,No,2024-06-19
+2108,Rajshahi,Urban,Male,49,Primary,Poorest,Current,Moderate,23.2,133.0,94.0,Yes,6.0,No,2024-08-13
+2109,Pabna,Urban,Male,56,Higher,Poorer,Never,Moderate,23.4,130.0,88.0,No,5.4,No,2024-02-03
+2110,Rajshahi,Rural,Female,56,Primary,Richest,Never,High,18.0,115.0,74.0,No,6.1,No,2024-03-23
+2111,Naogaon,Rural,Female,43,No formal education,Middle,Never,Moderate,22.7,107.0,67.0,No,5.4,No,2024-03-16
+2112,Naogaon,Rural,Male,36,Primary,Middle,Never,Moderate,20.5,95.0,59.0,No,5.6,No,2024-04-09
+2113,Bogura,Rural,Male,73,No formal education,Poorest,Current,High,22.5,109.0,67.0,No,5.7,No,2024-04-25
+2114,Pabna,Rural,Male,52,Higher,Poorest,Never,High,21.3,111.0,82.0,No,5.9,No,2024-02-02
+2115,Natore,Rural,Male,49,Primary,Poorer,Current,Moderate,26.6,128.0,80.0,No,5.6,No,2024-04-05
+2116,Bogura,Rural,Male,85,Secondary,Poorest,Never,Low,25.1,126.0,84.0,No,7.2,Yes,2024-08-19
+2117,Rajshahi,Rural,Female,64,Primary,Poorer,Never,Moderate,23.4,120.0,71.0,No,5.5,No,2024-07-29
+2118,Bogura,Rural,Female,61,Secondary,Richest,Never,Low,21.8,137.0,84.0,No,6.3,No,2024-10-16
+2119,Bogura,Urban,Male,54,Primary,Poorer,Former,High,30.4,120.0,83.0,No,5.5,No,2024-05-26
+2120,Pabna,Rural,Female,77,Secondary,Richest,Never,High,27.2,135.0,96.0,Yes,6.3,No,2024-07-13
+2121,Pabna,Rural,Female,84,Primary,Richer,Never,Moderate,24.4,133.0,94.0,Yes,6.2,No,2024-09-17
+2122,Rajshahi,Urban,Female,59,Higher,Poorer,Never,Moderate,23.9,124.0,78.0,No,6.6,No,2024-05-17
+2123,Naogaon,Urban,Male,47,Secondary,Richer,Never,High,24.7,136.0,90.0,Yes,5.4,No,2024-04-13
+2124,Rajshahi,Urban,Male,60,No formal education,Richest,Current,Moderate,,124.0,71.0,No,7.0,Yes,2024-02-15
+2125,Rajshahi,Rural,Male,85,Secondary,Richer,Current,High,27.2,154.0,102.0,Yes,6.1,No,2024-05-10
+2126,Rajshahi,Rural,Male,66,Primary,Poorer,Never,High,24.9,103.0,67.0,No,6.7,No,2024-04-29
+2127,Bogura,Urban,Female,85,No formal education,Poorer,Never,Low,29.4,139.0,90.0,Yes,7.9,Yes,2024-06-02
+2128,Naogaon,Rural,Female,68,Secondary,Richest,Never,Low,24.2,125.0,68.0,No,6.6,No,2024-10-28
+2129,Pabna,Urban,Male,62,Primary,Richer,Current,High,20.8,128.0,82.0,No,5.1,No,2024-02-10
+2130,Bogura,Urban,Female,56,Primary,Poorer,Never,Low,22.8,121.0,77.0,No,5.5,No,2024-10-28
+2131,Natore,Rural,Male,82,No formal education,Middle,Never,Low,23.0,145.0,89.0,Yes,6.1,No,2024-11-29
+2132,Naogaon,Rural,Female,70,Secondary,Richest,Never,Moderate,22.2,134.0,91.0,Yes,6.1,No,2024-07-29
+2133,Pabna,Rural,Female,75,No formal education,Middle,Never,Moderate,17.6,129.0,92.0,Yes,5.8,No,2024-02-17
+2134,Natore,Rural,Female,67,No formal education,Poorest,Never,Low,25.5,124.0,76.0,No,6.1,No,2024-06-23
+2135,Naogaon,Rural,Male,50,Primary,Poorer,Never,High,25.9,125.0,80.0,No,5.7,No,2024-09-23
+2136,Rajshahi,Rural,Female,37,No formal education,Richest,Never,Low,20.1,115.0,75.0,No,5.1,No,2024-08-28
+2137,Pabna,Rural,Male,69,Secondary,Richer,Current,Moderate,25.4,137.0,88.0,No,7.2,Yes,2024-07-10
+2138,Pabna,Urban,Female,49,Primary,Richer,Never,Low,22.6,119.0,78.0,No,6.1,No,2024-08-02
+2139,Pabna,Rural,Male,59,Primary,Poorest,Former,Moderate,20.9,125.0,72.0,No,5.7,No,2024-03-08
+2140,Bogura,Urban,Male,60,No formal education,Middle,Current,Moderate,30.5,132.0,83.0,No,6.5,No,2024-06-08
+2141,Rajshahi,Urban,Female,85,Higher,Middle,Never,Moderate,30.8,141.0,95.0,Yes,6.5,No,2024-01-25
+2142,Naogaon,Rural,Female,61,Secondary,Middle,Never,High,23.1,112.0,66.0,No,6.0,No,2024-04-03
+2143,Naogaon,Urban,Male,77,No formal education,Poorest,Never,Moderate,22.0,116.0,82.0,No,6.6,No,2024-09-26
+2144,Rajshahi,Rural,Male,71,Higher,Richest,Former,Moderate,24.8,119.0,76.0,No,,,2024-02-19
+2145,Natore,Rural,Female,67,Higher,Poorest,Never,Moderate,25.5,144.0,88.0,Yes,6.3,No,2024-04-12
+2146,Pabna,Rural,Male,69,No formal education,Poorer,Never,High,18.9,119.0,74.0,No,6.5,No,2024-01-11
+2147,Bogura,Rural,Female,84,Higher,Richest,Never,High,25.1,128.0,84.0,No,6.3,No,2024-04-04
+2148,Bogura,Urban,Female,72,Secondary,Richest,Never,Moderate,28.0,136.0,86.0,No,,,2024-05-01
+2149,Bogura,Rural,Female,63,Primary,Poorest,Never,High,22.7,138.0,82.0,No,5.7,No,2024-04-23
+2150,Natore,Urban,Female,81,Primary,Richest,Never,Moderate,26.0,134.0,83.0,No,6.3,No,2024-07-10
+2151,Bogura,Urban,Male,85,Secondary,Middle,Former,Low,18.8,134.0,90.0,Yes,,,2024-11-24
+2152,Pabna,Urban,Female,83,No formal education,Poorer,Never,Moderate,26.8,134.0,90.0,Yes,6.5,No,2024-06-07
+2153,Pabna,Rural,Male,81,Primary,Middle,,Moderate,20.9,123.0,71.0,No,6.1,No,2024-10-07
+2154,Naogaon,Rural,Female,55,Primary,Middle,Never,High,16.9,125.0,79.0,No,5.0,No,2024-02-06
+2155,Pabna,Rural,Male,60,No formal education,Poorer,Never,Low,15.7,116.0,79.0,No,,,2024-10-05
+2156,Rajshahi,Rural,Male,56,Secondary,Richer,Never,High,22.2,115.0,73.0,No,5.7,No,2024-07-03
+2157,Rajshahi,Rural,Male,65,No formal education,Poorer,Never,High,23.6,135.0,81.0,No,5.8,No,2024-07-08
+2158,Pabna,Rural,Female,67,No formal education,Middle,Never,Moderate,22.2,132.0,99.0,Yes,5.8,No,2024-01-25
+2159,Rajshahi,Rural,Female,77,Higher,Poorer,Never,Low,28.3,160.0,90.0,Yes,7.8,Yes,2024-08-20
+2160,Bogura,Rural,Female,76,No formal education,Richest,Never,Low,22.4,123.0,73.0,No,6.4,No,2024-03-28
+2161,Bogura,Urban,Male,63,Secondary,Middle,Never,High,18.2,106.0,84.0,No,5.6,No,2024-10-10
+2162,Rajshahi,Rural,Male,75,Secondary,Poorer,Former,Low,18.6,129.0,81.0,No,6.7,No,2024-04-05
+2163,Rajshahi,Rural,Male,61,Primary,Richest,Current,High,28.9,120.0,76.0,No,5.9,No,2024-05-14
+2164,Rajshahi,Rural,Female,38,Primary,Richer,Never,Moderate,22.9,131.0,87.0,No,7.0,Yes,2024-02-12
+2165,Rajshahi,Urban,Female,74,Secondary,Poorer,Never,Moderate,23.2,136.0,84.0,No,6.3,No,2024-10-14
+2166,Naogaon,Rural,Male,76,Higher,Richest,Former,Moderate,26.1,142.0,90.0,Yes,6.1,No,2024-06-17
+2167,Bogura,Urban,Male,46,Secondary,Poorest,Never,High,20.5,118.0,73.0,No,,,2024-08-29
+2168,Naogaon,Urban,Female,67,Higher,Poorer,Never,Moderate,24.2,124.0,84.0,No,5.9,No,2024-10-21
+2169,Rajshahi,Rural,Female,54,Higher,Middle,Never,Moderate,19.0,116.0,76.0,No,5.8,No,2024-08-27
+2170,Pabna,Urban,Male,63,Higher,Poorer,Former,Low,,111.0,77.0,No,5.5,No,2024-08-25
+2171,Pabna,Rural,Female,62,Secondary,Poorest,Never,Low,20.8,132.0,90.0,Yes,6.1,No,2024-11-26
+2172,Pabna,Rural,Male,48,No formal education,Middle,Former,Low,29.1,112.0,79.0,No,,,2024-10-10
+2173,Natore,Urban,Female,82,Primary,Poorer,Never,High,22.9,111.0,68.0,No,6.3,No,2024-04-23
+2174,Bogura,Rural,Male,85,Primary,Richest,Former,High,27.7,145.0,88.0,Yes,6.4,No,2024-09-01
+2175,Pabna,Rural,Male,81,No formal education,Richer,Former,Moderate,14.4,133.0,85.0,No,5.7,No,2024-03-22
+2176,Rajshahi,Urban,Male,48,Primary,Middle,Never,Moderate,22.7,87.0,58.0,No,5.3,No,2024-04-05
+2177,Natore,Urban,Male,85,Primary,Richer,Current,High,29.2,142.0,97.0,Yes,6.9,No,2024-03-25
+2178,Pabna,Rural,Female,68,Primary,Richest,Never,Low,26.1,108.0,71.0,No,7.6,Yes,2024-02-06
+2179,Rajshahi,Rural,Female,47,No formal education,Middle,Never,Moderate,17.0,109.0,77.0,No,5.1,No,2024-09-18
+2180,Bogura,Rural,Male,59,Primary,Richer,Never,High,19.0,110.0,71.0,No,5.4,No,2024-07-16
+2181,Rajshahi,Rural,Female,62,Primary,Poorest,Never,Moderate,19.6,126.0,82.0,No,5.5,No,2024-02-13
+2182,Natore,Rural,Male,51,Primary,Richer,Former,Low,18.9,118.0,78.0,No,5.9,No,2024-10-29
+2183,Bogura,Rural,Female,65,No formal education,Richer,Never,Low,25.3,138.0,79.0,No,7.1,Yes,2024-02-21
+2184,Pabna,Rural,Male,85,Higher,Richest,Former,Moderate,23.8,134.0,93.0,Yes,6.9,No,2024-10-24
+2185,Pabna,Urban,Male,65,Primary,Richest,Former,Moderate,27.8,131.0,81.0,No,5.8,No,2024-03-16
+2186,Bogura,Rural,Female,76,No formal education,Richest,Never,High,24.7,123.0,75.0,No,6.0,No,2024-11-19
+2187,Naogaon,Urban,Male,66,Primary,Richer,Current,Low,21.1,129.0,76.0,No,6.1,No,2024-11-08
+2188,Natore,Rural,Female,44,No formal education,Poorest,Never,Low,20.9,108.0,68.0,No,6.0,No,2024-08-24
+2189,Pabna,Rural,Female,68,Secondary,Middle,Never,High,19.8,129.0,77.0,No,,,2024-04-08
+2190,Rajshahi,Urban,Female,58,No formal education,Richest,Never,Low,26.9,129.0,77.0,No,6.6,No,2024-11-10
+2191,Bogura,Rural,Female,85,Higher,Middle,Never,Moderate,22.8,132.0,90.0,Yes,6.0,No,2024-09-26
+2192,Bogura,Rural,Female,58,No formal education,Richer,Never,Low,19.0,110.0,69.0,No,5.4,No,2024-07-26
+2193,Natore,Rural,Female,85,Primary,Poorer,Never,High,19.4,143.0,90.0,Yes,5.6,No,2024-04-27
+2194,Rajshahi,Urban,Female,62,Primary,Richest,Never,Low,22.7,118.0,76.0,No,5.9,No,2024-01-11
+2195,Rajshahi,Rural,Male,85,Primary,Middle,Never,Moderate,20.8,129.0,91.0,Yes,6.8,No,2024-01-13
+2196,Natore,Urban,Female,52,Higher,Poorest,Never,Low,26.8,109.0,73.0,No,5.8,No,2024-08-26
+2197,Bogura,Urban,Male,52,No formal education,Richest,Never,Low,22.0,105.0,75.0,No,6.0,No,2024-07-08
+2198,Bogura,Rural,Female,71,Higher,Richest,Never,Moderate,22.4,131.0,75.0,No,5.9,No,2024-01-12
+2199,Rajshahi,Rural,Female,69,Primary,Middle,Never,Low,28.5,132.0,81.0,No,6.6,No,2024-02-07
+2200,Rajshahi,Rural,Female,62,Secondary,Poorer,Never,Moderate,25.2,119.0,77.0,No,6.1,No,2024-03-02

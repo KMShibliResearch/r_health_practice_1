@@ -1,0 +1,23 @@
+Folder structure
+r_health_practice_1/
+ |-data_raw/
+	|-dengue_surveillance.dta
+	|-health_survey.dta
+	|-outbreak_linelist.dta
+	|-tb_cohort.dta
+	|-dengue_surveillance.csv
+	|-health_survey.csv
+	|-outbreak_linelist.csv
+	|-tb_cohort.csv
+	|-dengue_surveillance.xlsc
+	|-health_survey.xlsc
+	|-outbreak_linelist.xlsc
+	|-tb_cohort.xlsc
+	|-dengue_surveillance.sav
+	|-health_survey.sav
+	|-outbreak_linelist.sav
+	|-tb_cohort.sav
+ |-data_clean/
+ |-scripts/
+ |-outputs/
+ |-r_health_practice_1.Rproj

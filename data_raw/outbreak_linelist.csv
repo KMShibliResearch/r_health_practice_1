@@ -1,0 +1,261 @@
+case_id,village,sex,age,onset_date,water_source,ate_street_food,diarrhoea,vomiting,fever,dehydration,abdominal_pain,hospitalised,days_ill,stool_culture,outcome
+C001,Madhupur,Male,6.0,2024-07-15,Pond/river,No,Yes,No,No,Yes,Yes,No,4,Not done,Recovered
+C002,Shyampur,Male,20.0,2024-07-18,Tube well,No,Yes,Yes,No,No,Yes,Yes,6,Not done,Recovered
+C003,Shyampur,Female,42.0,2024-07-15,Pond/river,Yes,Yes,No,No,No,Yes,No,5,Not done,Recovered
+C004,Char Kalidaspur,Female,23.0,2024-07-19,Tube well,No,Yes,No,No,Yes,No,No,2,Negative,Recovered
+C005,Madhupur,Male,13.0,2024-07-17,Tube well,No,Yes,Yes,No,Yes,No,Yes,6,Negative,Recovered
+C006,Char Kalidaspur,Male,11.0,2024-07-16,Pond/river,Yes,Yes,No,Yes,Yes,No,Yes,4,Positive,Recovered
+C007,Char Kalidaspur,Female,42.0,2024-07-24,Tube well,No,Yes,No,No,Yes,No,Yes,5,Not done,Recovered
+C008,Shyampur,Female,56.0,2024-07-14,Pond/river,No,Yes,No,Yes,No,No,No,3,Not done,Recovered
+C009,Madhupur,Female,8.0,2024-07-19,Tube well,No,Yes,No,Yes,Yes,No,No,5,Positive,Recovered
+C010,Madhupur,Female,22.0,2024-07-20,Tube well,No,Yes,Yes,Yes,Yes,Yes,No,3,Not done,Recovered
+C011,Char Kalidaspur,Male,27.0,2024-07-23,Tube well,No,Yes,No,Yes,No,No,No,3,Not done,Died
+C012,Char Kalidaspur,Male,80.0,2024-07-16,Pond/river,Yes,Yes,Yes,No,Yes,Yes,No,4,Negative,Recovered
+C013,Shyampur,Male,9.0,2024-07-21,Piped,Yes,Yes,No,No,No,Yes,Yes,5,Negative,Recovered
+C014,Char Kalidaspur,Male,33.0,2024-07-14,Tube well,No,Yes,No,Yes,No,No,No,4,Not done,Recovered
+C015,Madhupur,Male,15.0,2024-07-17,Piped,No,No,Yes,No,Yes,No,No,3,Positive,Recovered
+C016,Dhamsona,Male,48.0,2024-07-14,Piped,No,Yes,No,Yes,No,No,Yes,7,Negative,Recovered
+C017,Char Kalidaspur,Male,19.0,2024-07-20,Pond/river,Yes,Yes,No,Yes,Yes,No,No,4,Positive,Recovered
+C018,Char Kalidaspur,Male,19.0,2024-07-13,Pond/river,No,Yes,No,No,No,Yes,No,2,Positive,Recovered
+C019,Madhupur,Male,39.0,2024-07-26,Pond/river,No,No,No,Yes,No,Yes,No,4,Negative,Recovered
+C020,Char Kalidaspur,Male,62.0,2024-07-21,Pond/river,No,Yes,Yes,No,Yes,Yes,No,4,Positive,Recovered
+C021,Madhupur,Male,17.0,2024-07-20,Tube well,Yes,Yes,No,No,Yes,No,Yes,5,Negative,Recovered
+C022,Madhupur,Male,15.0,2024-07-16,Tube well,Yes,Yes,Yes,No,Yes,No,No,2,Positive,Recovered
+C023,Char Kalidaspur,Female,10.0,2024-07-15,Piped,Yes,Yes,No,No,Yes,No,No,4,Positive,Recovered
+C024,Char Kalidaspur,Female,10.0,2024-07-15,Piped,No,Yes,No,No,No,Yes,No,4,Positive,Recovered
+C025,Madhupur,Male,24.0,2024-07-20,Pond/river,No,Yes,No,Yes,No,No,Yes,4,Positive,Recovered
+C026,Char Kalidaspur,Female,14.0,2024-07-14,Tube well,Yes,Yes,Yes,No,Yes,Yes,No,3,Not done,Recovered
+C027,Char Kalidaspur,Male,16.0,2024-07-17,Tube well,Yes,Yes,No,Yes,No,No,No,4,Negative,Recovered
+C028,Shyampur,Male,19.0,2024-07-13,Pond/river,No,Yes,No,No,Yes,Yes,Yes,5,Positive,Recovered
+C029,Char Kalidaspur,Male,25.0,2024-07-20,Tube well,Yes,Yes,Yes,No,No,No,No,4,Not done,Recovered
+C030,Char Kalidaspur,Female,32.0,2024-07-16,Tube well,No,Yes,Yes,No,No,Yes,No,2,Positive,Recovered
+C031,Madhupur,Female,26.0,2024-07-16,Pond/river,No,Yes,Yes,Yes,Yes,No,No,5,Not done,Recovered
+C032,Char Kalidaspur,Male,54.0,2024-07-17,Piped,Yes,Yes,Yes,Yes,Yes,Yes,No,4,Negative,Recovered
+C033,Madhupur,Male,8.0,2024-07-17,Tube well,No,Yes,Yes,No,Yes,Yes,Yes,5,Negative,Recovered
+C034,Char Kalidaspur,Male,36.0,2024-07-20,Pond/river,Yes,Yes,Yes,Yes,Yes,No,No,1,Not done,Recovered
+C035,Madhupur,Male,30.0,2024-07-22,Tube well,No,Yes,No,Yes,No,Yes,Yes,6,Negative,Recovered
+C036,Dhamsona,Female,25.0,2024-07-13,Tube well,No,Yes,No,No,Yes,No,No,3,Positive,Recovered
+C037,Char Kalidaspur,Male,31.0,2024-07-20,Tube well,Yes,Yes,Yes,Yes,Yes,No,No,4,Not done,Recovered
+C038,Madhupur,Male,48.0,2024-07-20,Tube well,Yes,Yes,No,No,No,No,No,3,Negative,Recovered
+C039,Shyampur,Female,79.0,2024-07-18,Pond/river,No,Yes,No,No,No,Yes,No,6,Not done,Recovered
+C040,Char Kalidaspur,Male,42.0,2024-07-24,Piped,No,Yes,Yes,Yes,No,Yes,No,3,Positive,Recovered
+C041,Shyampur,Female,20.0,2024-07-17,Tube well,No,Yes,Yes,Yes,Yes,Yes,No,3,Not done,Recovered
+C042,Char Kalidaspur,Female,11.0,2024-07-20,Tube well,No,Yes,Yes,No,No,Yes,No,2,Not done,Recovered
+C043,Madhupur,Male,19.0,2024-07-18,Piped,No,Yes,No,Yes,No,Yes,No,3,Not done,Recovered
+C044,Char Kalidaspur,Male,49.0,2024-07-16,Tube well,Yes,Yes,Yes,No,Yes,No,No,3,Positive,Recovered
+C045,Char Kalidaspur,Male,13.0,2024-07-15,Tube well,No,Yes,Yes,No,No,No,No,2,Positive,Recovered
+C046,Char Kalidaspur,Female,30.0,2024-07-23,Tube well,Yes,Yes,No,No,Yes,Yes,Yes,5,Not done,Recovered
+C047,Shyampur,Female,6.0,2024-07-16,Pond/river,Yes,Yes,No,No,Yes,Yes,No,3,Negative,Recovered
+C048,Shyampur,Male,14.0,2024-07-22,Tube well,Yes,Yes,No,No,Yes,Yes,No,1,Negative,Recovered
+C049,Madhupur,Male,27.0,2024-07-13,Pond/river,No,Yes,No,No,No,Yes,No,5,Negative,Recovered
+C050,Shyampur,Female,14.0,2024-07-19,Tube well,No,No,Yes,Yes,No,No,No,2,Positive,Recovered
+C051,Madhupur,Female,19.0,2024-07-14,Tube well,No,Yes,Yes,Yes,Yes,Yes,Yes,7,Negative,Recovered
+C052,Dhamsona,Female,23.0,2024-07-19,Pond/river,No,Yes,No,No,No,No,No,4,Positive,Recovered
+C053,Madhupur,Male,14.0,2024-07-20,Pond/river,No,Yes,Yes,No,No,No,No,2,Positive,Recovered
+C054,Char Kalidaspur,Male,14.0,2024-07-17,Tube well,No,Yes,Yes,Yes,Yes,Yes,No,3,Negative,Recovered
+C055,Char Kalidaspur,Female,22.0,2024-07-23,Piped,Yes,Yes,Yes,No,No,No,No,5,Negative,Recovered
+C056,Dhamsona,Male,,2024-07-15,Pond/river,No,Yes,Yes,Yes,Yes,No,Yes,5,Negative,Recovered
+C057,Char Kalidaspur,Female,18.0,2024-07-15,Tube well,Yes,Yes,Yes,No,Yes,No,No,3,Not done,Recovered
+C058,Shyampur,Male,10.0,2024-07-13,Pond/river,Yes,Yes,Yes,Yes,No,No,No,2,Positive,Recovered
+C059,Char Kalidaspur,Female,15.0,2024-07-13,Tube well,Yes,Yes,No,No,Yes,No,Yes,6,Not done,Recovered
+C060,Char Kalidaspur,Female,18.0,2024-07-15,Tube well,Yes,Yes,No,No,No,Yes,No,4,Positive,Recovered
+C061,Char Kalidaspur,Female,18.0,2024-07-13,Tube well,No,Yes,Yes,No,Yes,Yes,Yes,9,Negative,Recovered
+C062,Char Kalidaspur,Female,27.0,2024-07-18,Piped,Yes,Yes,Yes,No,Yes,Yes,No,2,Positive,Recovered
+C063,Dhamsona,Female,10.0,2024-07-21,Tube well,Yes,Yes,Yes,No,No,Yes,No,3,Positive,Recovered
+C064,Shyampur,Female,2.0,2024-07-15,Piped,Yes,Yes,Yes,No,No,No,No,3,Negative,Recovered
+C065,Char Kalidaspur,Female,18.0,2024-07-15,Pond/river,No,Yes,Yes,Yes,Yes,Yes,No,5,Positive,Recovered
+C066,Char Kalidaspur,Male,22.0,2024-07-14,Tube well,No,Yes,Yes,Yes,No,No,No,3,Negative,Recovered
+C067,Char Kalidaspur,Female,20.0,2024-07-13,Pond/river,No,Yes,No,Yes,No,Yes,No,4,Positive,Recovered
+C068,Dhamsona,Female,10.0,2024-07-22,Pond/river,No,Yes,Yes,Yes,Yes,Yes,Yes,6,Positive,Recovered
+C069,Dhamsona,Female,9.0,2024-07-13,Piped,No,Yes,Yes,No,Yes,Yes,No,4,Not done,Recovered
+C070,Dhamsona,Male,8.0,2024-07-18,Pond/river,Yes,Yes,Yes,No,Yes,No,No,1,Not done,Recovered
+C071,Shyampur,Female,21.0,2024-07-20,Tube well,Yes,Yes,Yes,Yes,Yes,No,No,3,Negative,Recovered
+C072,Char Kalidaspur,Female,15.0,2024-07-13,Tube well,No,Yes,No,Yes,Yes,No,No,1,Negative,Recovered
+C073,Char Kalidaspur,Female,16.0,2024-07-23,Tube well,No,Yes,No,Yes,No,No,No,4,Positive,Recovered
+C074,Madhupur,Male,18.0,2024-07-22,Tube well,Yes,Yes,No,No,Yes,No,No,3,Positive,Recovered
+C075,Char Kalidaspur,Female,34.0,2024-07-11,Piped,No,Yes,No,No,No,No,No,1,Not done,Recovered
+C076,Char Kalidaspur,Male,17.0,2024-07-18,Tube well,Yes,Yes,Yes,No,Yes,No,No,2,Negative,Recovered
+C077,Char Kalidaspur,Female,17.0,2024-07-24,Tube well,No,Yes,No,No,Yes,Yes,No,3,Positive,Recovered
+C078,Char Kalidaspur,Male,45.0,2024-07-25,Tube well,Yes,Yes,Yes,Yes,No,Yes,No,1,Positive,Recovered
+C079,Shyampur,Male,15.0,2024-07-17,Tube well,No,Yes,No,Yes,Yes,No,No,3,Not done,Recovered
+C080,Char Kalidaspur,Male,32.0,2024-07-18,Pond/river,Yes,Yes,Yes,No,Yes,Yes,Yes,6,Positive,Recovered
+C081,Char Kalidaspur,Male,9.0,2024-07-14,Tube well,Yes,Yes,No,No,Yes,No,Yes,6,Not done,Recovered
+C082,Madhupur,Male,30.0,2024-07-17,Piped,Yes,Yes,No,No,Yes,No,No,5,Not done,Recovered
+C083,Shyampur,Male,80.0,2024-07-14,Tube well,No,Yes,No,Yes,No,Yes,No,1,Positive,Recovered
+C084,Shyampur,Male,24.0,2024-07-19,Piped,No,Yes,No,No,Yes,No,Yes,5,Negative,Recovered
+C085,Char Kalidaspur,Female,60.0,2024-07-21,Tube well,No,Yes,Yes,No,Yes,No,Yes,4,Positive,Recovered
+C086,Char Kalidaspur,Female,6.0,2024-07-20,Tube well,Yes,Yes,Yes,No,Yes,Yes,No,3,Not done,Recovered
+C087,Char Kalidaspur,Female,34.0,2024-07-14,Piped,Yes,Yes,Yes,Yes,Yes,Yes,No,4,Positive,Recovered
+C088,Dhamsona,Male,13.0,2024-07-14,Pond/river,No,Yes,Yes,No,No,No,No,2,Negative,Recovered
+C089,Madhupur,Male,7.0,2024-07-18,Tube well,No,Yes,No,No,Yes,No,No,4,Not done,Recovered
+C090,Shyampur,Male,30.0,2024-07-20,Pond/river,No,Yes,Yes,No,Yes,No,Yes,3,Negative,Recovered
+C091,Madhupur,Female,11.0,2024-07-17,Pond/river,No,Yes,No,Yes,Yes,No,No,3,Positive,Recovered
+C092,Char Kalidaspur,Female,25.0,2024-07-16,Tube well,Yes,Yes,No,Yes,No,No,No,4,Positive,Recovered
+C093,Madhupur,Male,14.0,2024-07-15,Pond/river,No,Yes,Yes,No,Yes,No,Yes,6,Not done,Recovered
+C094,Char Kalidaspur,Male,16.0,2024-07-14,Tube well,No,Yes,No,No,No,Yes,No,5,Not done,Recovered
+C095,Char Kalidaspur,Female,21.0,2024-07-12,Pond/river,Yes,Yes,No,No,No,No,No,4,Not done,Recovered
+C096,Shyampur,Female,48.0,2024-07-20,Piped,No,Yes,Yes,No,Yes,Yes,Yes,5,Positive,Recovered
+C097,Char Kalidaspur,Female,,2024-07-16,Tube well,Yes,Yes,Yes,No,No,Yes,No,1,Not done,Recovered
+C098,Char Kalidaspur,Male,7.0,2024-07-13,Tube well,No,Yes,No,No,No,No,No,4,Not done,Recovered
+C099,Madhupur,Male,15.0,2024-07-19,Tube well,No,Yes,Yes,Yes,No,Yes,No,3,Positive,Recovered
+C100,Char Kalidaspur,Male,80.0,2024-07-25,Pond/river,No,Yes,No,Yes,Yes,Yes,No,5,Positive,Recovered
+C101,Madhupur,Male,13.0,2024-07-20,Tube well,Yes,Yes,Yes,Yes,No,No,No,1,Positive,Recovered
+C102,Char Kalidaspur,Male,48.0,2024-07-21,Pond/river,No,Yes,Yes,No,Yes,Yes,No,3,Positive,Recovered
+C103,Char Kalidaspur,Female,32.0,2024-07-17,Pond/river,No,Yes,Yes,Yes,Yes,No,No,5,Positive,Recovered
+C104,Shyampur,Male,71.0,2024-07-16,Pond/river,Yes,Yes,Yes,No,Yes,No,No,2,Not done,Recovered
+C105,Char Kalidaspur,Male,22.0,2024-07-12,Tube well,No,Yes,No,Yes,No,Yes,No,6,Positive,Recovered
+C106,Shyampur,Female,44.0,2024-07-19,Pond/river,Yes,Yes,No,Yes,No,Yes,No,1,Negative,Recovered
+C107,Shyampur,Female,43.0,2024-07-12,Tube well,No,Yes,No,Yes,No,Yes,No,4,Not done,Recovered
+C108,Madhupur,Female,7.0,2024-07-13,Tube well,No,Yes,No,Yes,No,Yes,No,2,Positive,Recovered
+C109,Dhamsona,Female,3.0,2024-07-23,Tube well,Yes,Yes,Yes,No,No,No,No,2,Negative,Recovered
+C110,Char Kalidaspur,Female,18.0,2024-07-17,Piped,Yes,Yes,Yes,No,Yes,No,No,3,Not done,Recovered
+C111,Madhupur,Female,14.0,2024-07-17,Tube well,No,Yes,Yes,Yes,No,Yes,No,2,Negative,Recovered
+C112,Shyampur,Male,15.0,2024-07-18,Pond/river,No,Yes,No,No,Yes,Yes,Yes,7,Positive,Recovered
+C113,Char Kalidaspur,Male,36.0,2024-07-18,Pond/river,Yes,Yes,Yes,No,No,Yes,No,3,Not done,Recovered
+C114,Char Kalidaspur,Female,17.0,2024-07-19,Tube well,No,Yes,No,No,No,No,No,3,Not done,Recovered
+C115,Char Kalidaspur,Male,13.0,2024-07-14,Tube well,Yes,Yes,No,No,Yes,No,No,4,Not done,Recovered
+C116,Dhamsona,Male,16.0,2024-07-14,Tube well,No,Yes,Yes,No,Yes,Yes,Yes,9,Positive,Recovered
+C117,Char Kalidaspur,Male,10.0,2024-07-13,Tube well,No,Yes,No,Yes,Yes,No,No,4,Positive,Recovered
+C118,Madhupur,Male,24.0,2024-07-16,Tube well,No,Yes,Yes,No,Yes,Yes,No,4,Positive,Recovered
+C119,Char Kalidaspur,Male,48.0,2024-07-15,Pond/river,No,Yes,Yes,Yes,Yes,No,No,4,Positive,Recovered
+C120,Madhupur,Female,32.0,2024-07-14,Pond/river,Yes,Yes,No,No,No,Yes,No,3,Positive,Recovered
+C121,Shyampur,Male,,2024-07-23,Pond/river,No,No,No,Yes,Yes,No,No,3,Negative,Recovered
+C122,Madhupur,Female,28.0,2024-07-13,Tube well,No,Yes,Yes,No,No,Yes,No,4,Not done,Recovered
+C123,Shyampur,Male,30.0,2024-07-17,Tube well,No,Yes,No,No,Yes,Yes,Yes,4,Positive,Recovered
+C124,Shyampur,Female,21.0,2024-07-12,Piped,No,Yes,No,No,No,Yes,No,1,Negative,Recovered
+C125,Char Kalidaspur,Male,30.0,2024-07-16,Pond/river,Yes,Yes,No,No,No,Yes,No,5,Negative,Recovered
+C126,Madhupur,Male,18.0,2024-07-23,Pond/river,No,Yes,No,Yes,No,Yes,No,4,Positive,Recovered
+C127,Char Kalidaspur,Male,20.0,2024-07-24,Tube well,No,Yes,Yes,No,Yes,Yes,No,3,Positive,Recovered
+C128,Madhupur,Female,1.0,2024-07-13,Pond/river,No,Yes,No,Yes,Yes,No,Yes,7,Negative,Recovered
+C129,Char Kalidaspur,Male,27.0,2024-07-17,Tube well,No,Yes,Yes,No,Yes,No,No,4,Not done,Recovered
+C130,Char Kalidaspur,Female,24.0,2024-07-20,Piped,No,Yes,No,Yes,Yes,Yes,No,4,Positive,Recovered
+C131,Dhamsona,Male,17.0,2024-07-19,Tube well,Yes,Yes,Yes,No,Yes,No,No,2,Positive,Recovered
+C132,Char Kalidaspur,Male,68.0,2024-07-19,Pond/river,No,Yes,Yes,No,Yes,No,Yes,4,Not done,Recovered
+C133,Char Kalidaspur,Male,10.0,2024-07-20,Tube well,No,Yes,Yes,Yes,No,No,No,3,Not done,Recovered
+C134,Char Kalidaspur,Male,17.0,2024-07-15,Pond/river,No,Yes,No,No,Yes,Yes,No,3,Positive,Recovered
+C135,Dhamsona,Male,14.0,2024-07-16,Tube well,No,Yes,No,Yes,No,Yes,No,4,Positive,Recovered
+C136,Char Kalidaspur,Female,5.0,2024-07-16,Piped,Yes,Yes,No,No,No,No,No,2,Positive,Recovered
+C137,Madhupur,Female,29.0,2024-07-17,Pond/river,No,Yes,No,No,No,No,Yes,8,Negative,Recovered
+C138,Shyampur,Female,3.0,2024-07-15,Tube well,No,Yes,Yes,No,Yes,No,No,1,Positive,Recovered
+C139,Madhupur,Male,16.0,2024-07-21,Pond/river,No,Yes,Yes,No,No,No,No,4,Not done,Recovered
+C140,Shyampur,Male,4.0,2024-07-26,Tube well,No,Yes,No,Yes,No,No,No,2,Negative,Recovered
+C141,Char Kalidaspur,Male,12.0,2024-07-20,Pond/river,No,Yes,No,Yes,Yes,No,No,3,Positive,Recovered
+C142,Char Kalidaspur,Female,79.0,2024-07-15,Pond/river,No,Yes,No,Yes,No,No,No,2,Positive,Recovered
+C143,Char Kalidaspur,Male,11.0,2024-07-15,Tube well,No,Yes,Yes,No,No,No,Yes,4,Not done,Recovered
+C144,Shyampur,Female,30.0,2024-07-20,Pond/river,Yes,Yes,No,No,Yes,Yes,Yes,7,Not done,Recovered
+C145,Char Kalidaspur,Male,27.0,2024-07-14,Tube well,Yes,Yes,Yes,No,No,Yes,No,6,Positive,Recovered
+C146,Madhupur,Female,16.0,2024-07-25,Pond/river,No,Yes,Yes,No,Yes,No,No,2,Not done,Recovered
+C147,Madhupur,Male,27.0,2024-07-27,Pond/river,No,Yes,No,No,No,No,No,4,Not done,Recovered
+C148,Madhupur,Female,53.0,2024-07-26,Tube well,No,Yes,Yes,No,No,Yes,No,2,Positive,Recovered
+C149,Shyampur,Male,20.0,2024-07-25,Piped,No,Yes,No,No,No,No,No,3,Not done,Recovered
+C150,Char Kalidaspur,Female,9.0,2024-07-14,Piped,Yes,Yes,Yes,No,Yes,No,No,4,Negative,Recovered
+C151,Char Kalidaspur,Female,61.0,2024-07-16,Pond/river,No,Yes,Yes,Yes,Yes,No,No,2,Negative,Recovered
+C152,Shyampur,Female,13.0,2024-07-18,Tube well,No,Yes,Yes,No,No,Yes,No,4,Positive,Recovered
+C153,Madhupur,Male,11.0,2024-07-29,Tube well,Yes,Yes,No,No,Yes,Yes,Yes,4,Positive,Died
+C154,Char Kalidaspur,Male,33.0,2024-07-20,Tube well,No,Yes,Yes,Yes,Yes,No,No,4,Positive,Recovered
+C155,Madhupur,Male,5.0,2024-07-20,Piped,No,Yes,No,No,No,No,No,2,Not done,Recovered
+C156,Char Kalidaspur,Male,33.0,2024-07-13,Tube well,Yes,Yes,Yes,Yes,No,Yes,Yes,5,Negative,Recovered
+C157,Shyampur,Male,13.0,2024-07-13,Pond/river,Yes,Yes,Yes,Yes,Yes,Yes,No,5,Not done,Recovered
+C158,Madhupur,Male,2.0,2024-07-17,Pond/river,Yes,Yes,No,No,Yes,No,Yes,5,Not done,Recovered
+C159,Madhupur,Male,20.0,2024-07-21,Tube well,No,Yes,Yes,No,Yes,No,No,6,Positive,Recovered
+C160,Shyampur,Female,15.0,2024-07-16,Pond/river,No,Yes,Yes,No,Yes,No,No,4,Not done,Recovered
+C161,Char Kalidaspur,Female,22.0,2024-07-17,Pond/river,No,Yes,No,No,Yes,Yes,No,4,Negative,Recovered
+C162,Madhupur,Female,51.0,2024-07-12,Piped,No,Yes,Yes,No,No,No,No,3,Positive,Recovered
+C163,Dhamsona,Female,16.0,2024-07-23,Tube well,No,Yes,No,No,No,Yes,No,1,Positive,Recovered
+C164,Dhamsona,Male,36.0,2024-07-20,Tube well,Yes,Yes,Yes,No,No,Yes,No,2,Not done,Recovered
+C165,Madhupur,Female,6.0,2024-07-24,Tube well,No,Yes,Yes,No,Yes,No,No,4,Positive,Recovered
+C166,Madhupur,Male,30.0,2024-07-16,Tube well,No,Yes,Yes,Yes,No,No,No,3,Positive,Recovered
+C167,Char Kalidaspur,Male,9.0,2024-07-11,Tube well,No,Yes,Yes,No,Yes,Yes,No,4,Positive,Recovered
+C168,Shyampur,Female,17.0,2024-07-15,Pond/river,No,Yes,No,Yes,No,No,No,4,Positive,Recovered
+C169,Char Kalidaspur,Male,21.0,2024-07-18,Tube well,Yes,Yes,No,No,No,No,No,2,Negative,Recovered
+C170,Madhupur,Female,8.0,2024-07-19,Tube well,No,Yes,No,No,No,No,No,3,Negative,Recovered
+C171,Madhupur,Female,4.0,2024-07-13,Tube well,Yes,Yes,No,No,Yes,Yes,No,1,Not done,Recovered
+C172,Char Kalidaspur,Female,9.0,2024-07-15,Tube well,Yes,Yes,No,Yes,No,No,No,5,Positive,Recovered
+C173,Char Kalidaspur,Male,22.0,2024-07-13,Pond/river,Yes,Yes,No,Yes,Yes,No,No,3,Not done,Recovered
+C174,Dhamsona,Male,11.0,2024-07-12,Tube well,Yes,Yes,Yes,No,No,No,No,5,Positive,Recovered
+C175,Shyampur,Male,59.0,2024-07-12,Pond/river,No,Yes,Yes,No,No,Yes,No,3,Not done,Recovered
+C176,Madhupur,Female,17.0,2024-07-21,Piped,Yes,Yes,Yes,No,Yes,No,No,3,Positive,Recovered
+C177,Char Kalidaspur,Female,17.0,2024-07-17,Piped,Yes,Yes,Yes,Yes,Yes,No,Yes,5,Positive,Recovered
+C178,Shyampur,Male,9.0,2024-08-15,Tube well,Yes,Yes,No,No,No,Yes,No,2,Negative,Recovered
+C179,Madhupur,Female,15.0,2024-07-12,Tube well,No,Yes,Yes,No,Yes,Yes,Yes,8,Positive,Recovered
+C180,Dhamsona,Female,21.0,2024-07-18,Pond/river,No,Yes,No,Yes,No,No,No,4,Not done,Recovered
+C181,Dhamsona,Male,60.0,2024-07-13,Pond/river,No,Yes,Yes,No,Yes,No,Yes,6,Positive,Recovered
+C182,Madhupur,Male,5.0,2024-07-31,Tube well,No,Yes,No,No,No,Yes,No,3,Positive,Recovered
+C183,Dhamsona,Male,16.0,2024-07-13,Piped,No,Yes,No,No,No,No,No,3,Positive,Recovered
+C184,Madhupur,Male,26.0,2024-07-20,Pond/river,No,Yes,No,Yes,Yes,Yes,No,2,Positive,Recovered
+C185,Char Kalidaspur,Female,20.0,2024-07-18,Pond/river,No,Yes,No,No,Yes,Yes,No,2,Not done,Recovered
+C186,Char Kalidaspur,Female,21.0,2024-07-17,Piped,No,Yes,Yes,No,Yes,Yes,No,4,Negative,Recovered
+C187,Char Kalidaspur,Male,11.0,2024-07-18,Piped,Yes,Yes,No,Yes,Yes,Yes,Yes,4,Positive,Recovered
+C188,Char Kalidaspur,Male,7.0,2024-07-15,Pond/river,No,Yes,Yes,No,No,No,Yes,8,Positive,Recovered
+C189,Madhupur,Female,6.0,2024-07-23,Pond/river,Yes,Yes,No,Yes,No,No,No,4,Not done,Recovered
+C190,Char Kalidaspur,Female,18.0,2024-07-25,Pond/river,No,Yes,Yes,No,Yes,Yes,No,4,Positive,Recovered
+C191,Shyampur,Female,35.0,2024-07-18,Pond/river,Yes,Yes,No,No,No,Yes,No,2,Positive,Recovered
+C192,Char Kalidaspur,Male,12.0,2024-07-13,Pond/river,No,Yes,Yes,No,Yes,No,No,5,Positive,Recovered
+C193,Shyampur,Female,25.0,2024-07-16,Tube well,Yes,Yes,Yes,No,No,No,No,6,Negative,Recovered
+C194,Char Kalidaspur,Female,,2024-07-18,Tube well,Yes,Yes,Yes,No,Yes,No,No,5,Positive,Recovered
+C195,Madhupur,Female,19.0,2024-07-19,Pond/river,No,Yes,Yes,No,Yes,No,No,3,Not done,Recovered
+C196,Madhupur,Male,15.0,2024-07-19,Tube well,No,Yes,Yes,Yes,Yes,Yes,Yes,4,Positive,Recovered
+C197,Dhamsona,Female,28.0,2024-07-21,Pond/river,No,Yes,No,Yes,No,Yes,No,3,Positive,Recovered
+C198,Shyampur,Female,15.0,2024-07-13,Pond/river,No,Yes,Yes,No,Yes,No,No,5,Not done,Recovered
+C199,Shyampur,Male,22.0,2024-07-20,Tube well,Yes,Yes,No,No,Yes,Yes,No,2,Positive,Recovered
+C200,Madhupur,Male,9.0,2024-07-17,Pond/river,No,Yes,Yes,No,Yes,No,No,4,Not done,Recovered
+C201,Shyampur,Female,22.0,2024-07-23,Piped,No,Yes,No,No,Yes,No,Yes,4,Not done,Recovered
+C202,Char Kalidaspur,Female,24.0,2024-07-19,Pond/river,No,Yes,No,No,No,No,No,3,Not done,Recovered
+C203,Madhupur,Male,50.0,2024-07-15,Pond/river,Yes,Yes,Yes,No,No,No,No,3,Not done,Recovered
+C204,Char Kalidaspur,Female,32.0,2024-07-24,Piped,Yes,Yes,Yes,No,No,No,No,1,Not done,Recovered
+C205,Char Kalidaspur,Male,36.0,2024-07-18,Piped,Yes,Yes,No,No,Yes,No,Yes,3,Negative,Recovered
+C206,Char Kalidaspur,Male,47.0,2024-07-16,Pond/river,No,Yes,No,No,Yes,No,No,5,Positive,Recovered
+C207,Madhupur,Male,6.0,2024-07-16,Pond/river,Yes,Yes,Yes,No,Yes,Yes,No,2,Not done,Recovered
+C208,Char Kalidaspur,Male,10.0,2024-07-12,Tube well,Yes,Yes,Yes,Yes,Yes,No,No,3,Not done,Recovered
+C209,Madhupur,Male,20.0,2024-07-21,Piped,No,Yes,Yes,No,No,No,No,4,Not done,Recovered
+C210,Madhupur,Male,21.0,2024-07-15,Pond/river,Yes,Yes,Yes,No,No,No,No,3,Positive,Recovered
+C211,Char Kalidaspur,Female,29.0,2024-07-18,Tube well,No,Yes,Yes,No,Yes,Yes,No,2,Negative,Recovered
+C212,Char Kalidaspur,Male,16.0,2024-07-16,Tube well,Yes,Yes,No,No,Yes,No,No,3,Not done,Recovered
+C213,Char Kalidaspur,Male,22.0,2024-07-19,Piped,Yes,Yes,No,No,No,Yes,No,2,Not done,Recovered
+C214,Shyampur,Male,20.0,2024-07-24,Tube well,Yes,Yes,No,No,Yes,No,Yes,4,Not done,Recovered
+C215,Char Kalidaspur,Female,10.0,2024-07-17,Pond/river,No,Yes,Yes,No,No,Yes,Yes,4,Not done,Recovered
+C216,Madhupur,Female,14.0,2024-07-14,Tube well,No,Yes,Yes,No,Yes,Yes,No,2,Not done,Recovered
+C217,Dhamsona,Male,31.0,2024-07-22,Pond/river,No,Yes,Yes,No,No,Yes,No,3,Negative,Recovered
+C218,Shyampur,Female,67.0,2024-07-21,Tube well,Yes,Yes,Yes,No,No,Yes,No,3,Negative,Recovered
+C219,Shyampur,Male,23.0,2024-07-13,Pond/river,Yes,Yes,Yes,No,Yes,No,No,5,Positive,Recovered
+C220,Char Kalidaspur,Male,5.0,2024-07-14,Tube well,No,Yes,Yes,Yes,No,No,No,4,Negative,Recovered
+C221,Dhamsona,Female,43.0,2024-07-26,Pond/river,No,Yes,No,Yes,No,No,No,5,Positive,Recovered
+C222,Char Kalidaspur,Male,21.0,2024-07-16,Tube well,Yes,Yes,No,No,Yes,No,Yes,6,Positive,Recovered
+C223,Char Kalidaspur,Female,29.0,2024-07-14,Tube well,Yes,Yes,Yes,Yes,Yes,Yes,Yes,4,Positive,Recovered
+C224,Char Kalidaspur,Male,60.0,2024-07-17,Pond/river,No,Yes,Yes,Yes,No,Yes,No,3,Not done,Recovered
+C225,Shyampur,Female,15.0,2024-07-15,Tube well,Yes,Yes,No,No,No,No,No,2,Positive,Recovered
+C226,Shyampur,Female,13.0,2024-07-13,Tube well,No,Yes,No,Yes,Yes,Yes,No,3,Not done,Recovered
+C227,Madhupur,Male,28.0,2024-07-22,Piped,No,Yes,Yes,No,No,Yes,No,3,Not done,Recovered
+C228,Shyampur,Female,13.0,2024-07-19,Pond/river,Yes,Yes,No,No,No,No,No,4,Not done,Recovered
+C229,Madhupur,Female,36.0,2024-07-15,Tube well,No,Yes,Yes,No,No,Yes,No,1,Positive,Recovered
+C230,Char Kalidaspur,Female,19.0,2024-07-19,Tube well,No,Yes,No,Yes,No,No,No,4,Positive,Recovered
+C231,Char Kalidaspur,Male,24.0,2024-07-16,Tube well,No,Yes,No,Yes,No,No,No,2,Positive,Recovered
+C232,Char Kalidaspur,Male,12.0,2024-07-20,Tube well,Yes,Yes,Yes,No,Yes,Yes,No,5,Negative,Recovered
+C233,Shyampur,Male,68.0,2024-07-15,Tube well,No,Yes,Yes,Yes,Yes,Yes,Yes,5,Positive,Recovered
+C234,Char Kalidaspur,Female,24.0,2024-07-17,Tube well,Yes,Yes,Yes,No,No,No,No,3,Not done,Recovered
+C235,Madhupur,Male,15.0,2024-07-17,Tube well,Yes,Yes,No,No,No,No,No,5,Not done,Recovered
+C236,Char Kalidaspur,Male,25.0,2024-07-17,Tube well,No,Yes,Yes,No,Yes,Yes,No,3,Positive,Recovered
+C237,Char Kalidaspur,Female,35.0,2024-07-16,Tube well,Yes,Yes,Yes,No,Yes,Yes,Yes,8,Positive,Recovered
+C238,Madhupur,Male,29.0,2024-07-18,Tube well,Yes,Yes,No,Yes,Yes,Yes,No,3,Negative,Recovered
+C239,Shyampur,Female,9.0,2024-07-19,Tube well,Yes,Yes,No,No,Yes,No,No,3,Positive,Recovered
+C240,Shyampur,Female,21.0,2024-07-17,Pond/river,Yes,Yes,No,No,Yes,No,No,2,Negative,Recovered
+C241,Madhupur,Male,20.0,2024-07-19,Pond/river,No,Yes,No,No,Yes,Yes,No,2,Negative,Recovered
+C242,Char Kalidaspur,Male,22.0,2024-07-24,Tube well,Yes,Yes,Yes,No,No,No,No,4,Positive,Recovered
+C243,Char Kalidaspur,Male,5.0,2024-07-20,Pond/river,No,Yes,No,No,Yes,No,No,3,Not done,Recovered
+C244,Dhamsona,Female,20.0,2024-07-17,Pond/river,No,Yes,Yes,No,No,Yes,No,4,Positive,Recovered
+C245,Madhupur,Female,7.0,2024-07-19,Piped,No,Yes,Yes,No,Yes,No,No,5,Positive,Recovered
+C246,Char Kalidaspur,Female,35.0,2024-07-11,Tube well,No,Yes,Yes,No,No,No,No,4,Negative,Recovered
+C247,Char Kalidaspur,Male,9.0,2024-07-20,Piped,No,Yes,Yes,Yes,Yes,Yes,No,5,Not done,Recovered
+C248,Char Kalidaspur,Female,14.0,2024-07-18,Tube well,Yes,No,No,No,Yes,Yes,No,2,Not done,Recovered
+C249,Dhamsona,Female,4.0,2024-07-13,Pond/river,No,Yes,Yes,Yes,Yes,Yes,Yes,4,Not done,Recovered
+C250,Char Kalidaspur,Male,32.0,2024-07-17,Piped,No,Yes,Yes,No,No,Yes,No,3,Positive,Recovered
+C251,Madhupur,Male,24.0,2024-07-19,Pond/river,Yes,Yes,Yes,No,No,No,No,1,Not done,Recovered
+C252,Shyampur,Male,6.0,2024-07-13,Tube well,Yes,Yes,Yes,No,No,No,No,6,Negative,Recovered
+C253,Madhupur,Female,14.0,2024-07-25,Tube well,Yes,Yes,No,No,Yes,Yes,No,6,Not done,Recovered
+C254,Shyampur,Female,10.0,2024-07-19,Pond/river,No,Yes,No,Yes,Yes,Yes,No,4,Positive,Recovered
+C255,Dhamsona,Female,13.0,2024-07-19,Pond/river,No,Yes,No,Yes,Yes,No,Yes,6,Positive,Recovered
+C256,Shyampur,Female,30.0,2024-07-18,Pond/river,Yes,Yes,Yes,No,No,Yes,Yes,3,Not done,Recovered
+C257,Shyampur,Male,7.0,2024-07-23,Pond/river,No,Yes,Yes,No,No,No,No,4,Not done,Recovered
+C258,Madhupur,Female,46.0,2024-07-13,Tube well,No,Yes,No,Yes,Yes,No,No,4,Not done,Recovered
+C259,Shyampur,Female,34.0,2024-07-22,Tube well,Yes,Yes,No,No,Yes,No,Yes,4,Positive,Recovered
+C260,Char Kalidaspur,Male,3.0,2024-07-15,Tube well,No,Yes,Yes,No,Yes,Yes,Yes,5,Not done,Recovered
