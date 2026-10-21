@@ -5,7 +5,7 @@
 2^3
 
 # print a message
-print("Hello, public health research enthausiast !")
+print("Hello researcher")
 
 # 1.5 concept: installing and loading packages
 # install once per computer
