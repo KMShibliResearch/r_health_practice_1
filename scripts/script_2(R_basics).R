@@ -8,13 +8,13 @@ incidence_per_1000
 
 cases
 # 2.2 concept: data types
-age         <- 34.5                  # type: numeric
-vill_pop    <- 5000L                 # type: integer
-comp_num    <- 5+3i                  # type: complex
-district    <- "Dhaka"               # type: character
-vaccinated  <- TRUE                  # type: logical
-pop_sex     <- factor(c("M","F"))    # type: factor
-svy_date    <- as.Date("2026-10-22") # type: date
+age          <- 34.5                  # type: numeric
+village_pop  <- 5000L                 # type: integer
+comp_num     <- 5+3i                  # type: complex
+district     <- "Dhaka"               # type: character
+vaccinated   <- TRUE                  # type: logical
+pop_sex      <- factor(c("M","F"))    # type: factor
+svy_date     <- as.Date("2026-10-22") # type: date
 
 # type testing
 class(age)
@@ -61,7 +61,7 @@ length(ages)
 length(wards)
 
 mean(ages)
-mean(wards)         # will produce error
+mean(wards)         # will produce warning and return NA
 
 median(ages)
 median(wards) 
@@ -76,7 +76,7 @@ range(ages)
 range(wards)
 
 sum(ages)
-sum(wards)         # will produce error
+sum(wards)         # will produce warning and return NA
 
 # 2.5 vectorized arithmetic: R works on all values at once
 village       <- c("North", "South", "East", "West")
