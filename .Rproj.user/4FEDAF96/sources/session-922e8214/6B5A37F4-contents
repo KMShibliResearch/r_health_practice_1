@@ -18,7 +18,7 @@ svy_date     <- as.Date("2026-10-22") # type: date
 
 # type testing
 class(age)
-class(vill_pop)
+class(village_pop)
 class(comp_num)
 class(district)
 class(vaccinated)
