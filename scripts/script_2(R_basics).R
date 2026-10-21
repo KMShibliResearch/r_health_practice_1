@@ -76,7 +76,7 @@ range(ages)
 range(wards)
 
 sum(ages)
-sum(wards)         # will produce warning and return NA
+sum(wards)         # will produce error
 
 # 2.5 vectorized arithmetic: R works on all values at once
 village       <- c("North", "South", "East", "West")

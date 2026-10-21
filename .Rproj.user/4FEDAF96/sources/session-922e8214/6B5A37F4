@@ -3,7 +3,7 @@
     "path": "D:/R_practice/r_health_practice_1/scripts/script_2(R_basics).R",
     "project_path": "scripts/script_2(R_basics).R",
     "type": "r_source",
-    "hash": "0",
+    "hash": "17589976",
     "contents": "",
     "dirty": false,
     "created": 1792522686354.0,
@@ -12,15 +12,15 @@
     "properties": {
         "source_window_id": "",
         "Source": "Source",
-        "cursorPosition": "11,11",
-        "scrollLine": "0"
+        "cursorPosition": "78,39",
+        "scrollLine": "64"
     },
     "folds": "",
-    "lastKnownWriteTime": 1792621442,
+    "lastKnownWriteTime": 1792622164,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1792621442549,
+    "last_content_update": 1792622164714,
     "read_only": false,
     "read_only_alternatives": []
 }
