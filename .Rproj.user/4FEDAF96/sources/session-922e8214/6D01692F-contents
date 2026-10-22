@@ -11,8 +11,8 @@ patients
 
 # 3.3 inspecting a Data Frame
 head(patients, 3)             # first 3 row
-nrow(patients)                # number of columns
-ncol(patients)                # number of rows
+nrow(patients)                # number of rows
+ncol(patients)                # number of columns
 names(patients)               # name of variables or columns 
 str(patients)                 # structure and type of the Data Frame
 summary(patients)             # quick summary of the Data Frame
@@ -28,14 +28,14 @@ patients$adult <- patients$age >= 18   # will add a column named adult satisfyin
 patients
 
 patients$age_group <- ifelse(
-  patients$age < 15, "Child", "Adult"  # will add a column named age_group based on the condition
+  patients$age < 18, "Child", "Adult"  # will add a column named age_group based on the condition
   )
 patients
 
 # 3.6 quick count and group summaries
 table(patients$age)                      # frequency table for age variable
 table(patients$sex)                      # frequency table for sex variable
-table(patients$sex, patients$fever)      # frequency 2x2 cross table for sex and age variables
+table(patients$sex, patients$fever)      # frequency 2x2 cross table for sex and fever variables
 tapply(patients$age, patients$sex, mean) # table for mean age of sex 
  
 # ---------------------- Exercise 3 -------------------
