@@ -21,7 +21,7 @@ summary(patients)             # quick summary of the Data Frame
 patients$age                   # will select the age variable from the patients dataframe
 patients[2, ]                  # will select all the columns for the second row from the patients dataframe
 patients[ , "sex"]             # will select "sex" column for all the rows
-patients[patients$age > 18, ]  # will select all the columns for those row which satisfy the condition
+patients[patients$age >= 18, ] # will select all the columns for those row which satisfy the condition
 
 # 3.5 adding a new column or variable
 patients$adult <- patients$age >= 18   # will add a column named adult satisfying the codition
@@ -56,7 +56,6 @@ village_x[village_x$rater_per_1000 > 10, ]
 
 # 3.4 Count how many villages are above that threshold.
 sum(village_x$rater_per_1000 > 10)
-
 
 
 
