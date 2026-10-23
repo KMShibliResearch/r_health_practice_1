@@ -122,12 +122,20 @@ messy_data
 messy_data$sex_cleaned
 table(messy_data$sex_cleaned)
 
+# 5.7 duplicate and missing data (1st and last observation are kept same)
+survey_2 <- tibble(
+  id       = c(1, 2, 3, 4, 5, 6, 7, 8, 9, 1),
+  age      = c(23, 45, 31, 67, 12, 50, 35, 25, 14, 23),
+  sex      = c("F", "M", "F", "M", "F", "M", "F", "M", "M", "F"),
+  district = c("Dhaka", "Dhaka", "Sylhet", "Khulna", "Sylhet", "Dhaka","Sylhet", "Khulna", "Sylhet", "Dhaka"),
+  hb       = c(11.5, 13.2, NA, 12.8, 10.9, 14.1, 12.3, NA, NA, 11.5 )
+)
+survey_2
 
-
-
-
-
-
+survey_2 |> distinct()                          # will remove the last observation as it is identical to 1st
+survey_2 |> distinct(id, .keep_all = TRUE)      # will keep the first raw per id ( if there is more row for one id it will be removed)
+survey_2 |> drop_na(hb)                         # remove rows with missing hb (hb with NA)
+survey_2 |> filter(!is.na(hb))                  # keeps only those which are not NA, (removed the NAs)
 
 
 
