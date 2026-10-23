@@ -62,9 +62,33 @@ glimpse(survey)         # compact structure of the data
 summary(survey)         # short summary and NA counts
 colSums(is.na(survey))  # missing value or NAs per coulmn or per variable
 
+# ---------------------- Exercise 4 -------------------
+# 4.1. Create a tibble of five health facilities (name it as health_facility_data) with columns ‘facility’, ’district’, ’beds’. Save it as a CSV and read it back.
+#health_facility_data <- tibble(
+#  facility  = c("A", "B", "C", "D", "E"),
+#  district  = c("Dhaka", "Khulna", "Sylhet", "Rajshahi", "Dhaka"),
+#  beds      = c(300, 50, 50, 100, 150)
+#)
+
+health_facility_data <- tibble(
+  facility  = c("A", "B", "C", "D", "E"),
+  district  = c("Dhaka", "Khulna", "Sylhet", "Rajshahi", "Dhaka"),
+  beds      = c(300, 50, 50, NA, 150)
+)
+
+write_csv(health_facility_data, "data_raw/health_facility_data.csv")
+health_facility_data_imp <- read_csv("data_raw/health_facility_data.csv")
+health_facility_data_imp
+
+# 4.2. Use colSums(is.na(…)) on your tibble. Then add one NA and run it again. 
+colSums(is.na(health_facility_data))      # do this before adding NA in the 'beds'
+colSums(is.na(health_facility_data))      # do this after adding NA in the 'beds'
 
 
-
+# 4.3. Save the tibble as an .rds and reload it.
+write_rds(health_facility_data, "data_raw/health_fac_rds.RDS")
+health_facility_data_imp_rds <- read_rds("data_raw/health_fac_rds.RDS")
+health_facility_data_imp_rds
 
 
 
