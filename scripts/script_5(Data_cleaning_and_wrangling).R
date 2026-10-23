@@ -32,8 +32,8 @@ survey |> rename(haemoglobin = hb)           # renames hb variable to haemoglobi
 survey |> arrange(age)                       # arranges the survey according to age in asccending order
 survey |> arrange(desc(age))                 # arranges the survey according to age in descending order
 
-survey |> arrange(sex)                      # arrange the survey according to sex in asccending alphabetic order
-survey |> arrange(desc(sex))                      # arrange the survey according to sex in descending alphabetic order
+survey |> arrange(sex)                       # arrange the survey according to sex in asccending alphabetic order
+survey |> arrange(desc(sex))                 # arrange the survey according to sex in descending alphabetic order
 
 
 
