@@ -35,12 +35,35 @@ survey |> arrange(desc(age))                 # arranges the survey according to 
 survey |> arrange(sex)                       # arrange the survey according to sex in asccending alphabetic order
 survey |> arrange(desc(sex))                 # arrange the survey according to sex in descending alphabetic order
 
+# 5.4 mutate(): create new variables
+# structure: data <- data |> mutate(conditions)
+survey <- survey |> mutate(                  # adds another variable named anemic based on the condition
+  anemic = hb < 12
+)
+survey
 
+survey <- survey |> mutate(                  # adds another variable named age group based on the condition
+  age_group = case_when(
+    age< 15 ~ "0-15",
+    age< 45 ~ "15-44",
+    age< 65 ~ "45-64",
+    TRUE    ~ "65+"
+  )
+)
+survey
 
-
-
-
-
+# this can also be done in one mutate()
+# structure: data <- data |> mutate(condition1, condition2, ...)
+survey <- survery |> mutate(
+  anemic = hb < 12,
+  age_group = case_when(
+    age< 15 ~ "0-15",
+    age< 45 ~ "15-44",
+    age< 65 ~ "45-64",
+    TRUE    ~ "65+"
+  )
+)
+survey
 
 
 
