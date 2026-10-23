@@ -75,12 +75,52 @@ survey |> group_by(district) |> summarise(mean(hb, na.rm = TRUE))
 
 survey |> group_by(district) |> summarise(n=n(), mean(hb, na.rm = TRUE))
 
+# cleaning messy data
+messy_data <- tibble(                                           # sample messy data tibble
+  sex_raw  = c("F", "female", "Female", " female", "F ", "f ", "male", "Male", "m")
+)
+messy_data
 
+messy_data <- messy_data |> mutate(                             # trims or removes empty spaces
+  sex_raw_trimmed = str_trim(sex_raw)
+)
+messy_data
 
+messy_data <- messy_data |> mutate(                            # turns everything into lower case
+  sex_lowercase = str_to_lower(sex_raw_trimmed)
+)
+messy_data
 
+messy_data <- messy_data |> mutate(                            
+  sex_cleaned = case_when(
+    sex_lowercase %in% c("f", "female") ~ "F",
+    sex_lowercase %in% c("m", "male") ~ "M"
+  )
+) 
+messy_data
 
+# in one code block but step by step
+messy_data <- messy_data |> mutate(
+  sex_raw_trimmed = str_trim(sex_raw),
+  sex_lowercase = str_to_lower(sex_raw_trimmed),
+  sex_cleaned = case_when(
+    sex_lowercase %in% c("f", "female")   ~"F",
+    sex_lowercase %in% c("m", "male")     ~"M"
+  )
+)
 
+# in one step
+messy_data <- messy_data |> mutate(
+  sex_lowercase = str_to_lower(str_trim(sex_raw)),
+  sex_cleaned = case_when(
+    sex_lowercase %in% c("f", "female") ~ "F",
+    sex_lowercase %in% c("m", "male") ~ "M",
+  )
+)
 
+messy_data
+messy_data$sex_cleaned
+table(messy_data$sex_cleaned)
 
 
 
