@@ -39,9 +39,9 @@ survey_imp_sav <- read_sav("data_raw/survey.sav")
 survey_imp_sav
 
 # exporting as a RDS fiele: survey.rds
-write_sav(survey, "data_raw/survey.rds")
+write_rds(survey, "data_raw/survey.rds")
 # importing the RDS file from the data_raw folder and name it survey_imp_rds
-survey_imp_rds <- read_sav("data_raw/survey.rds")
+survey_imp_rds <- read_rds("data_raw/survey.rds")
 survey_imp_rds
 
 
@@ -86,8 +86,8 @@ colSums(is.na(health_facility_data))      # do this after adding NA in the 'beds
 
 
 # 4.3. Save the tibble as an .rds and reload it.
-write_rds(health_facility_data, "data_raw/health_fac_rds.RDS")
-health_facility_data_imp_rds <- read_rds("data_raw/health_fac_rds.RDS")
+write_rds(health_facility_data, "data_raw/health_fac_rds.rds")
+health_facility_data_imp_rds <- read_rds("data_raw/health_fac_rds.rds")
 health_facility_data_imp_rds
 
 
