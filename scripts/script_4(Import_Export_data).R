@@ -45,10 +45,16 @@ survey_imp_rds <- read_sav("data_raw/survey.rds")
 survey_imp_rds
 
 
+# 4.4 STATA/SPSS labels: Convert coded numbers to readable categories
+dhs <- read_dta("data_raw/dhs_data/dhs_sample_data.DTA")
+dhs                                                           # before label correction
+table(dhs$v190)                                               # before label correction
+table(dhs$b4)                                                 # before label correction
 
-
-
-
+dhs <- dhs |> mutate(across(where(is.labelled), as_factor))   # after label correction
+dhs                                                           # after label correction
+table(dhs$v190)                                               # after label correction
+table(dhs$b4)                                                 # after label correction
 
 
 
