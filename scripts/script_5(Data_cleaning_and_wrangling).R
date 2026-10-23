@@ -65,6 +65,44 @@ survey <- survey |> mutate(
 )
 survey
 
+# 5.5 count(), group_by(), summarise()
+# structure: data |> count(variable_name)
+survey |> count(age_group)         # counts the number of observations in each category/group (age_group)
+survey |> count(district)          # counts the number of observations in each category/group (district)
+
+survey |> group_by(district) |> summarise(n=n())
+survey |> group_by(district) |> summarise(mean(hb, na.rm = TRUE))
+
+survey |> group_by(district) |> summarise(n=n(), mean(hb, na.rm = TRUE))
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
