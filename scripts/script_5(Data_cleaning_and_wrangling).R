@@ -75,7 +75,7 @@ survey |> group_by(district) |> summarise(mean(hb, na.rm = TRUE))
 
 survey |> group_by(district) |> summarise(n=n(), mean(hb, na.rm = TRUE))
 
-# cleaning messy data
+# 5.6 cleaning messy data
 messy_data <- tibble(                                           # sample messy data tibble
   sex_raw  = c("F", "female", "Female", " female", "F ", "f ", "male", "Male", "m")
 )
