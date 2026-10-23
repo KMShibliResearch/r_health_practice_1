@@ -56,9 +56,11 @@ dhs                                                           # after label corr
 table(dhs$v190)                                               # after label correction
 table(dhs$b4)                                                 # after label correction
 
-
-
-
+# 4.5 checking data right after import
+dim(survey)             # number of rows and columns of the data
+glimpse(survey)         # compact structure of the data 
+summary(survey)         # short summary and NA counts
+colSums(is.na(survey))  # missing value or NAs per coulmn or per variable
 
 
 
