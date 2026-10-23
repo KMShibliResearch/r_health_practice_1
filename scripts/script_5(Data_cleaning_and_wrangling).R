@@ -54,7 +54,7 @@ survey
 
 # this can also be done in one mutate()
 # structure: data <- data |> mutate(condition1, condition2, ...)
-survey <- survery |> mutate(
+survey <- survey |> mutate(
   anemic = hb < 12,
   age_group = case_when(
     age< 15 ~ "0-15",
