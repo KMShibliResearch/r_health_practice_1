@@ -153,6 +153,54 @@ survey |>                                       # selecting only specific variab
   left_join(pop, by="district") |> 
   select(id, district, population)
 
+# reshaping : wide to long
+case_wide <- tibble(
+  district = c("Dhaka", "Khulna"),
+  y2022    = c(120, 80),
+  y2023    = c(150, 70)
+)
+case_wide
+
+case_long <- case_wide |>
+  pivot_longer(-district, names_to = "year", values_to = "cases")
+case_long
+
+# ---------------- Experimental demonstration of problem(wide) and solution(long) ------------------------
+library(ggplot2)
+
+# AWKWARD & BROKEN CONCEPT: You cannot easily map multiple columns to the y-axis 
+# with a proper legend without manual hacks.
+ggplot(case_wide, aes(x = district)) +
+  geom_col(aes(y = y2022), fill = "blue", position = "nudge", width = 0.4) + # Hacky workaround
+  geom_col(aes(y = y2023), fill = "red", position = "nudge", width = 0.4)     # Hard to scale
+
+
+# CLEAN & DYNAMIC: One mapping controls the whole plot
+ggplot(case_long, aes(x = district, y = cases, fill = year)) +
+  geom_col(position = "dodge") +  # "dodge" puts the bars side-by-side
+  labs(
+    title = "Cases by District and Year",
+    x = "District",
+    y = "Number of Cases",
+    fill = "Year"
+  )
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
