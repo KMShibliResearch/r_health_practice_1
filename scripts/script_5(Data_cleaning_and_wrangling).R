@@ -137,10 +137,21 @@ survey_2 |> distinct(id, .keep_all = TRUE)      # will keep the first raw per id
 survey_2 |> drop_na(hb)                         # remove rows with missing hb (hb with NA)
 survey_2 |> filter(!is.na(hb))                  # keeps only those which are not NA, (removed the NAs)
 
+# 5.8 joining tables
+pop <- tibble(                                  # (hypothetical) population for each district
+  district   = c("Dhaka", "Khulna", "Sylhet"),
+  population = c(10000, 3000, 4000)
+)
 
+pop
+survey
 
+survey |> 
+  left_join(pop, by="district")                 # adding the population to the survey tibble
 
-
+survey |>                                       # selecting only specific variables
+  left_join(pop, by="district") |> 
+  select(id, district, population)
 
 
 
