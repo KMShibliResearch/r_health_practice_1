@@ -199,8 +199,29 @@ survey_clean <- survey |>
 
 saveRDS(survey_clean, "data_clean/survey_clean.rds")
 
+# ---------------------- Exercise 5 -------------------
+# 5.1. From survey, keep females aged 15 or older and show their id and hb.
+survey |> filter(age >= 18, sex == "F") |> select(id, hb)
 
+# 5.2. Create a variable high_hb that is TRUE when Hb is 13 or more. 
+high_hb <- survey |> filter(hb>=13)
+high_hb
 
+# 5.3. Calculate the number of participants and mean age per sex. 
+survey |> group_by(sex) |> summarise(n=n(), mean(age, na.rm = TRUE))
+
+# 5.4. Make a wide table of cases per district for three years and reshape it to long.
+case_wide_new <- tibble(
+  district = c("Dhaka", "Khulna"),
+  y2022    = c(120, 80),
+  y2023    = c(150, 70),
+  y2024    = c(140, 35)
+)
+case_wide_new
+
+case_long_new <- case_wide_new |>
+  pivot_longer(-district, names_to = "year", values_to = "cases")
+case_long_new
 
 
 
