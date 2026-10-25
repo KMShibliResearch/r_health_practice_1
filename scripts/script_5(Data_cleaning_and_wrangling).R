@@ -153,7 +153,7 @@ survey |>                                       # selecting only specific variab
   left_join(pop, by="district") |> 
   select(id, district, population)
 
-# reshaping : wide to long
+# 5.9 reshaping : wide to long
 case_wide <- tibble(
   district = c("Dhaka", "Khulna"),
   y2022    = c(120, 80),
@@ -186,9 +186,18 @@ ggplot(case_long, aes(x = district, y = cases, fill = year)) +
   )
 
 
+# 5.10 the whole process of cleaning can be done in one codeblock
+# survey_clean <- survey |> rename(haemoglobin = hb) |> mutate(sex = factor(sex, levels = c("F", "M")), anemic = haemoglobin < 12) |> filter(age>= 0, age<= 110) |> left_join(pop, by = "district")    # in single line
+survey_clean <- survey |> 
+  rename(haemoglobin = hb) |> 
+  mutate(
+    sex = factor(sex, levels = c("F", "M")), 
+    anemic = haemoglobin < 12
+    ) |> 
+  filter(age>= 0, age<= 110) |> 
+  left_join(pop, by = "district")      # in multiple line for better understanding
 
-
-
+saveRDS(survey_clean, "data_clean/survey_clean.rds")
 
 
 
