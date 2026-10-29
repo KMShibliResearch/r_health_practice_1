@@ -22,3 +22,45 @@ class(date_1)
 class(date_2)
 class(date_3)
 class(date_4)
+
+# 6.3 Date arithmetic: delays and duration
+onset <- ymd("2024-03-04")              # when the event (or disease) actually started 
+report <- ymd("2024-03-09")             # when the event (or disease) is reported
+delay <- report - onset                 # difference between two time or event
+
+delay                                   # the result will be: Time difference of 5 days
+as.numeric(delay)                       # the result will be: 5
+
+class(onset)                            # class of onset is: "Date"
+class(report)                           # class of report is: "Date"
+
+class(delay)                            # class of delay is: "difftime"
+class(as.numeric(delay))                # class of (as.numeric(delay)) is: "numeric"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
