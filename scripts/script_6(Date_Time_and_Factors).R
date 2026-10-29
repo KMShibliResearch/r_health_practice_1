@@ -37,10 +37,34 @@ class(report)                           # class of report is: "Date"
 class(delay)                            # class of delay is: "difftime"
 class(as.numeric(delay))                # class of (as.numeric(delay)) is: "numeric"
 
+# 6.4 extracting parts of a date
+year(onset)                       # will show the year of the onset 
+month(onset)                      # will show the number of month of the onset
+month(onset, label = TRUE)        # will show the name of the month (label) of the onset               
+wday(onset)                       # will show the number of the weekday of the onset
+wday(onset, label = TRUE)         # will show the name of the weekday (label) of the onset
 
+epiyear(onset)                    # will show the epidemiological year of the onset
+epiweek(onset)                    # will show the epidemiological week of the onset
 
+# 6.4 Example: counting cases by week
+cases <- tibble(
+  id     = c(1, 2, 3, 4, 5, 6),
+  onset  = ymd(c(
+    "2024-03-04", 
+    "2024-03-06", 
+    "2024-03-06",
+    "2024-03-12", 
+    "2024-03-13", 
+    "2024-03-20"))
+)
 
+cases |>                                        # tells us the n-th epi week for the date in a new column
+  mutate(epiweek_of_study = epiweek(onset))
 
+cases |>                                        # counts the number days that fall in each n-th epi weeks 
+  mutate(epiweek_of_study = epiweek(onset)) |>
+  count(epiweek_of_study)
 
 
 
