@@ -14,7 +14,7 @@ survey
 
 # 5.2 filter(): choose row
 # structure: data |> filter(conditions)              # only those row which satisfied the condition appear
-survey |> filter(age >= 18)                          # only those who are greater than 18 y/o will appear         
+survey |> filter(age >= 18)                          # only those who are equal or older than 18 y/o will appear         
 survey |> filter(district == "Dhaka", sex =="F")     # only those who are female and from district Dhaka will appear
 survey |> filter(district == "Dhaka", sex =="M")     # only those who are male and from district Dhaka will appear
 survey |> filter(district %in% c("Dhaka", "Sylhet")) # only those who are from Dhaka and Sylhet district will appear
@@ -38,13 +38,13 @@ survey |> arrange(desc(sex))                 # arrange the survey according to s
 # 5.4 mutate(): create new variables
 # structure: data <- data |> mutate(conditions)
 survey <- survey |> mutate(                  # adds another variable named anemic based on the condition
-  anemic = hb < 12
+  anemic = hb < 12                           # simplified cutoff for teaching; real analysis uses WHO thresholds by age, sex, and pregnancy
 )
 survey
 
 survey <- survey |> mutate(                  # adds another variable named age group based on the condition
   age_group = case_when(
-    age< 15 ~ "0-15",
+    age< 15 ~ "0-14",
     age< 45 ~ "15-44",
     age< 65 ~ "45-64",
     TRUE    ~ "65+"
@@ -57,7 +57,7 @@ survey
 survey <- survey |> mutate(
   anemic = hb < 12,
   age_group = case_when(
-    age< 15 ~ "0-15",
+    age< 15 ~ "0-14",
     age< 45 ~ "15-44",
     age< 65 ~ "45-64",
     TRUE    ~ "65+"
@@ -133,7 +133,7 @@ survey_2 <- tibble(
 survey_2
 
 survey_2 |> distinct()                          # will remove the last observation as it is identical to 1st
-survey_2 |> distinct(id, .keep_all = TRUE)      # will keep the first raw per id ( if there is more row for one id it will be removed)
+survey_2 |> distinct(id, .keep_all = TRUE)      # will keep the first row per id ( if there is more row for one id it will be removed)
 survey_2 |> drop_na(hb)                         # remove rows with missing hb (hb with NA)
 survey_2 |> filter(!is.na(hb))                  # keeps only those which are not NA, (removed the NAs)
 
