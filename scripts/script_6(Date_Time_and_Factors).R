@@ -48,8 +48,30 @@ epiyear(onset)                    # will show the epidemiological year of the on
 epiweek(onset)                    # will show the epidemiological week of the onset
 
 # 6.4 Example: counting cases by week
-cases <- tibble(
-  id     = c(1, 2, 3, 4, 5, 6),
+cases <- tibble(                            
+  id              = c(1, 2, 3, 4, 5, 6),
+  onset  = ymd(c(
+    "2024-03-04", 
+    "2024-03-06", 
+    "2024-03-06",
+    "2024-03-12", 
+    "2024-03-13", 
+    "2024-03-20"))
+)
+cases
+
+# tells us the n-th epi week for the date in a new column
+cases |>                                        
+  mutate(epiweeks = epiweek(onset)) 
+
+# counts the number of cases (rows) that fall in each n-th epi weeks 
+cases |>                                        
+  mutate(epiweeks = epiweek(onset)) |>
+  count(epiweeks)
+
+# 6.7 filling in missing days
+cases <- tibble(                          # our onset data for cases               
+  id              = c(1, 2, 3, 4, 5, 6),
   onset  = ymd(c(
     "2024-03-04", 
     "2024-03-06", 
@@ -59,21 +81,30 @@ cases <- tibble(
     "2024-03-20"))
 )
 
-cases |>                                        # tells us the n-th epi week for the date in a new column
-  mutate(epiweek_of_study = epiweek(onset))
+all_days <- tibble(                       # all days from where cases begin and up to where cases end 
+  onset = seq(
+    from = min(cases$onset),
+    to   = max(cases$onset),
+    by   = "day" 
+  )
+)
+all_days
 
-cases |>                                        # counts the number days that fall in each n-th epi weeks 
-  mutate(epiweek_of_study = epiweek(onset)) |>
-  count(epiweek_of_study)
+daily <- all_days |>                       # number of daily cases from the beginning to ending  
+  left_join(
+    count(cases, onset),                   # joins cases to 'onset' of all_days data set by the "onset" column of both data sets
+    by="onset") |> 
+  mutate(                                  # replaces 'n' column with '0' where there is 'NA'
+    n=replace_na(n, 0)
+  )
 
+daily
+   
+nrow(daily)                                # number of rows in 'daily' variable: total days from beginning to ending
+sum(daily$n)                               # sum of the n: which denotes the number of cases
 
-
-
-
-
-
-
-
+missings_days <-nrow(daily) - sum(daily$n) # number of missing days with no observed/reported/recorded cases 
+missings_days
 
 
 
