@@ -117,6 +117,49 @@ severity
 table(severity)
 sum(severity >= "Moderate")
 
+# 6.8 making age group with cut()
+ages <- c(5, 12, 34, 67, 45)
+ages
+
+age_grp <- cut(
+  ages,
+  breaks = c(0, 15, 45, 65, Inf),
+  labels = c("0-14", "15-44", "45-64", "65+"),
+  right = FALSE
+)
+
+age_grp
+table(age_grp)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
