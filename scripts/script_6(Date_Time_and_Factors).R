@@ -140,11 +140,49 @@ levels(sex)                                       # now it shows the level as "M
 
 
 
+# ---------------------- Exercise 6 -------------------
+# 1. Convert c("15/01/2024", "22/01/2024", "03/02/2024") to dates and give the epi week for each. 
+exercise_dates <- dmy(c("15/01/2024", "22/01/2024", "03/02/2024"))
+epiweeks <- epiweek(exercise_dates)
+table(epiweeks)
+
+# 2. A patient had onset on 2024-05-10 and was hospitalized on 2024-05-14. Compute the delay in days. 
+onset_date <- ymd("2024-05-10")
+reporting_date <- ymd("2024-05-14")
+
+days_delay <- reporting_date - onset_date
+as.numeric(days_delay)
+
+# 3. Make a factor of nutritional status ( Normal , Wasted , Severely wasted ) ordered from best to worst for 8 children, and tabulate it. 
+nutri_stat <- factor(c(
+  "Normal", 
+  "Wasted", 
+  "Severely wasted", 
+  "Normal", 
+  "Wasted", 
+  "Wasted", 
+  "Wasted", 
+  "Normal"),
+  levels = c("Normal", "Wasted", "Severely wasted"),
+  ordered = TRUE
+  )
+
+nutri_stat
+table(nutri_stat)
 
 
+# 4. Cut the ages c(2, 17, 25, 40, 59, 71) into groups 0-17, 18-39, 40-59, 60+.
+ex_ages <- c(2, 17, 25, 40, 59, 71)
+ex_ages
 
-
-
+ex_age_grp <- cut(
+  ex_ages,
+  breaks = c(0, 17, 39, 59, Inf),
+  labels = c("0-17", "18-39", "40-59", "60+"),
+  right = TRUE
+)
+ex_age_grp
+table(ex_age_grp)
 
 
 
