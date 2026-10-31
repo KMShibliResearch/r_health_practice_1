@@ -132,10 +132,11 @@ age_grp
 table(age_grp)
 
 
-
-
-
-
+# 6.9 changing the reference category
+sex <- factor(c("F", "M", "F", "F", "M"))         # let us say our sample data is 'sex'
+levels(sex)                                       # having two levels ("F" for female and "M" for male)
+sex <- relevel(sex, ref = "M")                    # re level the 'sex' variable by changing the reference category to "M" from "F"   
+levels(sex)                                       # now it shows the level as "M" and "F"
 
 
 
