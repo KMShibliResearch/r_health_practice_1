@@ -47,7 +47,7 @@ wday(onset, label = TRUE)         # will show the name of the weekday (label) of
 epiyear(onset)                    # will show the epidemiological year of the onset
 epiweek(onset)                    # will show the epidemiological week of the onset
 
-# 6.4 Example: counting cases by week
+# 6.5 Example: counting cases by week
 cases <- tibble(                            
   id              = c(1, 2, 3, 4, 5, 6),
   onset  = ymd(c(
@@ -69,7 +69,7 @@ cases |>
   mutate(epiweeks = epiweek(onset)) |>
   count(epiweeks)
 
-# 6.7 filling in missing days
+# 6.6 filling in missing days
 cases <- tibble(                          # our onset data for cases               
   id              = c(1, 2, 3, 4, 5, 6),
   onset  = ymd(c(
@@ -106,10 +106,16 @@ sum(daily$n)                               # sum of the n: which denotes the num
 missings_days <-nrow(daily) - sum(daily$n) # number of missing days with no observed/reported/recorded cases 
 missings_days
 
+# 6.7 factors and ordered categories 
+severity <- factor(
+  c("Mild", "Severe", "Moderate", "Mild", "Severe", "Mild"),
+  levels = c("Mild", "Moderate", "Severe"),
+  ordered = TRUE
+)  
 
-
-
-
+severity
+table(severity)
+sum(severity >= "Moderate")
 
 
 
