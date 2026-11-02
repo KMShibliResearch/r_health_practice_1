@@ -68,11 +68,29 @@ ggplot(
     y = "SBP (mmHg)"
   )
 
+# 8.6 epidemic curve
+epi <- tibble(
+  epiweek = 10:15,
+  cases   = c(3, 8, 15, 22, 12, 5)
+)
+epi
 
+sum(epi$cases)
 
-
-
-
+ggplot(
+  epi, aes(x=factor(epiweek), y=cases)
+  ) + 
+  geom_col(
+    width = 1, 
+    fill = "darkorange", 
+    colour = "white"
+  ) + 
+  labs(
+    title = "Epidemic curve: cases by epidemiological week",
+    x = "Epidemiological week",
+    y = "Number of cases"
+  ) + 
+  theme_minimal()
 
 
 
