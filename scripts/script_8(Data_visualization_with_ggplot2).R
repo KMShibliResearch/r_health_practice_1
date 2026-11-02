@@ -15,7 +15,7 @@ bp
 # 8.2 histogram 
 ggplot(bp, aes(x = sbp)) +
   geom_histogram(
-    binwidth = 6, 
+    binwidth = 5, 
     fill = "steelblue", 
     color = "white"
     ) + 
@@ -23,4 +23,31 @@ ggplot(bp, aes(x = sbp)) +
        x = "SBP (mmHg)", 
        y = "Number of people"
        )
+
+# 8.3 bar chart 
+ggplot(bp, aes(x = smoker, fill = sex)) + 
+  geom_bar(
+    position = "dodge",
+    ) +
+  labs(
+    title = "Smoking status by sex", 
+    x = "smoker", 
+    y = "number of people"
+    )
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
