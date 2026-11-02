@@ -92,7 +92,21 @@ ggplot(
   ) + 
   theme_minimal()
 
+# 8.7 Line chart
+monthly <- tibble(
+  month   = factor(month.abb, levels = month.abb),
+  pm2     = c(95, 82, 60, 45, 38, 30, 28, 29, 35, 50, 78, 98)
+)
 
+ggplot(monthly, aes(x = month, y = pm2, group = 1)) + 
+  geom_line(linewidth = 1, colour = "purple") +
+  geom_point() +
+  geom_hline(yintercept = 35, linetype = "dashed") + 
+  labs(
+    title = "Monthly mean pm2.5",
+    x= NULL,
+    y= "PM2.5 (µg/m³)"
+  )
 
 
 
