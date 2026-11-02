@@ -37,9 +37,14 @@ sum(bp$hypertension)                            # sum of the TRUEs for hypertens
 mean(bp$hypertension)                           # proportion of the TRUEs for hypertension (proportion)
 mean(bp$hypertension)*100                       # percentage of the TRUEs for hypertension (proportion)
 
+# 7.5 frequency tables for categories
+table(bp$smoker)                                # create a frequency table for the smoker variable
+prop.table(table(bp$smoker))                    # create a proportion table for the smoker variable
 
+table(bp$sex, bp$smoker, dnn = c("sex", "smoker"))  # dnn: dimnames. creates a cross table of sex and smoker
 
-
+prop.table(table(bp$sex, bp$ smoker), margin = 1)   # creates row percentage table
+prop.table(table(bp$sex, bp$ smoker), margin = 2)   # creates column percentage
 
 
 
