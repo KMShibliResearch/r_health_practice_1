@@ -35,6 +35,52 @@ ggplot(bp, aes(x = smoker, fill = sex)) +
     y = "number of people"
     )
 
+# 8.4 box plot
+ggplot(bp, aes(x = smoker, y = sbp, fill = smoker)) +
+  geom_boxplot(
+    show.legend = TRUE
+  ) + 
+  geom_jitter(
+    width = 0.1, size = 2
+  ) +
+  labs(
+    x = "Smoker",
+    y = "SBP (mmHg)",
+    title = "Systolic blood pressure by smoking status"
+  )
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
