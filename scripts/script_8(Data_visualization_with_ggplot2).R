@@ -115,10 +115,83 @@ p <- ggplot(bp, aes(age, sbp, colour=sex)) +
   theme_bw(base_size = 14)
 p
 
-ggsave("outputs/sbp_age.png", p, width = 7, height = 5, dpi = 300)
+ggsave("outputs/sbp_age.png", p, width = 7, height = 5, dpi = 300)   
 
 
+# ---------------------- Exercise 8 -------------------
+# 1. Draw a histogram of age with binwidth = 10. 
+ggplot(bp, aes(x=age))+
+  geom_histogram(
+    binwidth = 10,
+    fill = "steelblue", 
+    color = "white"
+  ) + 
+  labs(title = "Distribution of age", 
+       x = "age", 
+       y = "Number of people"
+  )
 
+# 2. Draw a boxplot of sbp by sex. 
+ggplot(bp, aes(x = sex, y = sbp, fill = smoker)) +
+  geom_boxplot(
+    show.legend = TRUE
+  ) + 
+  geom_jitter(
+    width = 0.1, size = 2
+  ) +
+  labs(
+    x = "Sex",
+    y = "SBP (mmHg)",
+    title = "Systolic blood pressure by sex"
+  )
+
+# 3. Create weekly cases for 8 weeks of your own and draw an epi curve with a title. 
+epi <- tibble(
+  epiweek = 10:17,
+  cases   = c(3, 8, 15, 22, 35, 30, 12, 5)
+)
+epi
+
+sum(epi$cases)
+
+ggplot(
+  epi, aes(x=factor(epiweek), y=cases)
+) + 
+  geom_col(
+    width = 1, 
+    fill = "skyblue", 
+    colour = "navy"
+  ) + 
+  labs(
+    title = "Epidemic curve: cases by epidemiological week",
+    x = "Epidemiological week",
+    y = "Number of cases"
+  ) + 
+  theme_minimal()
+
+
+# 4. Add geom_hline (yintercept = 140) to the scatter plot to show the hypertension cut-off
+ggplot(
+  bp, 
+  aes(x=age, y=sbp)
+) + 
+  geom_point(
+    size = 2.5, 
+    colour = "red",
+  ) + 
+  geom_smooth(
+    method = "lm",
+    se = FALSE
+  ) + 
+  geom_hline(
+    yintercept = 140, 
+    linetype = "dashed"
+    ) +
+  labs(
+    title = "Blood pressure rise with age",
+    x = "Age (years)",
+    y = "SBP (mmHg)"
+  )
 
 
 
