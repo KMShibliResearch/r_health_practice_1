@@ -44,7 +44,7 @@ prop.table(table(bp$smoker))                    # create a proportion table for 
 table(bp$sex, bp$smoker, dnn = c("sex", "smoker"))  # dnn: dimnames. creates a cross table of sex and smoker
 
 prop.table(table(bp$sex, bp$ smoker), margin = 1)   # creates row percentage table
-prop.table(table(bp$sex, bp$ smoker), margin = 2)   # creates column percentage
+prop.table(table(bp$sex, bp$ smoker), margin = 2)   # creates column percentage table
 
 
 # 7.6 summary table
@@ -73,12 +73,27 @@ bp |>
 
 
 # ---------------------- Exercise 7 -------------------
-# 1. Find the mean, median and SD of age in bp . Page 31 of 161 R for Public Health, Epidemiology, Environment and GIS: From Absolute Beginner to Advanced 
-# 2. What percentage of the sample is aged 50 or above? (Answer: 30%, ages 55, 63, 58.) 
+# 1. Find the mean, median and SD of age in bp .
+mean(bp$age)
+median(bp$age)
+sd(bp$age)
+
+# 2. What percentage of the sample is aged 50 or above?
+mean(bp$age >= 50)*100
+
 # 3. Make a cross-table of hypertensive by smoker with row percentages. 
+round(
+  prop.table(
+    table(bp$hypertension, bp$smoker, dnn = c("hypertension", "smoker")), 
+    margin = 1),
+  1)
+
 # 4. Give the mean SBP separately for smokers and non-smokers.
-
-
+bp |> 
+  group_by(smoker) |>
+  summarise(
+    mean_sbp = mean(sbp)
+  )
 
 
 
