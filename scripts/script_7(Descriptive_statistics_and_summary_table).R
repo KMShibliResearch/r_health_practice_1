@@ -47,9 +47,17 @@ prop.table(table(bp$sex, bp$ smoker), margin = 1)   # creates row percentage tab
 prop.table(table(bp$sex, bp$ smoker), margin = 2)   # creates column percentage
 
 
+# 7.6 summary table
+bp |> group_by(sex) |> 
+  summarise(
+  n        = n(),
+  mean_sbp = mean(sbp),
+  sd_sbp   = sd(sbp)
+)
 
-
-
+# 7.6b many summaries at once
+bp |>
+  summarise(across(c(age, sbp), list(mean_1 = mean, sd_1 = sd)))
 
 
 
