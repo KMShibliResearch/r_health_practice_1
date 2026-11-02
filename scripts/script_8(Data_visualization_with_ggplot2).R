@@ -49,7 +49,24 @@ ggplot(bp, aes(x = smoker, y = sbp, fill = smoker)) +
     title = "Systolic blood pressure by smoking status"
   )
 
-
+# 8.5 Scatter plot 
+ggplot(
+  bp, 
+  aes(x=age, y=sbp)
+  ) + 
+  geom_point(
+    size = 3, 
+    colour = "firebrick",
+  ) + 
+  geom_smooth(
+    method = "lm",
+    se = FALSE
+  ) + 
+  labs(
+    title = "Blood pressure rise with age",
+    x = "Age (years)",
+    y = "SBP (mmHg)"
+  )
 
 
 
