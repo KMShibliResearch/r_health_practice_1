@@ -38,7 +38,7 @@ ggplot(bp, aes(x = smoker, fill = sex)) +
 # 8.4 box plot
 ggplot(bp, aes(x = smoker, y = sbp, fill = smoker)) +
   geom_boxplot(
-    show.legend = TRUE
+    show.legend = FALSE
   ) + 
   geom_jitter(
     width = 0.1, size = 2
@@ -103,11 +103,18 @@ ggplot(monthly, aes(x = month, y = pm2, group = 1)) +
   geom_point() +
   geom_hline(yintercept = 35, linetype = "dashed") + 
   labs(
-    title = "Monthly mean pm2.5",
+    title = "Monthly mean PM2.5",
     x= NULL,
     y= "PM2.5 (µg/m³)"
   )
-# 8.8 Polishing and saving
+
+# 8.8 panels with facet_wrap()
+ggplot(bp, aes(x=age, y=sbp))+
+  geom_point() + 
+  facet_wrap(~sex)
+
+
+# 8.9 Polishing and saving
 p <- ggplot(bp, aes(age, sbp, colour=sex)) + 
   geom_point(size=3) + 
   scale_color_manual(values=c(F="#d95f02", M="#1b9e77")) +
