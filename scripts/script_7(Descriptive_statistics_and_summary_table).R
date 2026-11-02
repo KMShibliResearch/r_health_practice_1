@@ -81,7 +81,7 @@ sd(bp$age)
 # 2. What percentage of the sample is aged 50 or above?
 mean(bp$age >= 50)*100
 
-# 3. Make a cross-table of hypertensive by smoker with row percentages. 
+# 3. Make a cross-table of hypertension by smoker with row percentages. 
 round(
   prop.table(
     table(bp$hypertension, bp$smoker, dnn = c("hypertension", "smoker")), 
