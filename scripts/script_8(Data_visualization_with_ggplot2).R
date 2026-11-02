@@ -107,8 +107,15 @@ ggplot(monthly, aes(x = month, y = pm2, group = 1)) +
     x= NULL,
     y= "PM2.5 (µg/m³)"
   )
+# 8.8 Polishing and saving
+p <- ggplot(bp, aes(age, sbp, colour=sex)) + 
+  geom_point(size=3) + 
+  scale_color_manual(values=c(F="#d95f02", M="#1b9e77")) +
+  labs(title = "SBP by age sex", x="Age", y="SBP (mmHg)", color="Sex")+
+  theme_bw(base_size = 14)
+p
 
-
+ggsave("outputs/sbp_age.png", p, width = 7, height = 5, dpi = 300)
 
 
 
