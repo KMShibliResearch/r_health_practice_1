@@ -59,15 +59,24 @@ bp |> group_by(sex) |>
 bp |>
   summarise(across(c(age, sbp), list(mean_1 = mean, sd_1 = sd)))
 
+# 7.7 Confidence Interval
+ci <- t.test(bp$sbp)$conf.int
+round(ci, 1)
+
+# 7.8 professional table with 'gtsummary'
+install.packages("gtsummary")
+library(gtsummary)
+
+bp |> 
+  select(age, sbp, smoker, sex) |>
+  tbl_summary(by = sex)
 
 
-
-
-
-
-
-
-
+# ---------------------- Exercise 7 -------------------
+# 1. Find the mean, median and SD of age in bp . Page 31 of 161 R for Public Health, Epidemiology, Environment and GIS: From Absolute Beginner to Advanced 
+# 2. What percentage of the sample is aged 50 or above? (Answer: 30%, ages 55, 63, 58.) 
+# 3. Make a cross-table of hypertensive by smoker with row percentages. 
+# 4. Give the mean SBP separately for smokers and non-smokers.
 
 
 
