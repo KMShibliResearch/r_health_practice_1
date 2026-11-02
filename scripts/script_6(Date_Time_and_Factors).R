@@ -103,8 +103,8 @@ daily
 nrow(daily)                                # number of rows in 'daily' variable: total days from beginning to ending
 sum(daily$n)                               # sum of the n: which denotes the number of cases
 
-missings_days <-nrow(daily) - sum(daily$n) # number of missing days with no observed/reported/recorded cases 
-missings_days
+missing_days <-sum(daily$n == 0)          # number of missing days with no observed/reported/recorded cases 
+missing_days
 
 # 6.7 factors and ordered categories 
 severity <- factor(
