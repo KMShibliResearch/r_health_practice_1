@@ -48,6 +48,44 @@ inc_rate_ratio
 inc_rate_diff <- rate_exp - rate_unexp                       # incidence rate difference
 inc_rate_diff
 
+# 9.4 standardization
+d <- tibble(
+  # area     = rep(c("A", "B"), each = 3),
+  # age_grp  = rep(c("0-14", "15-44", "45+"), 2),
+  area     = c("A","A","A", "B", "B", "B"),
+  age_grp  = c("0-14", "15-44", "45+", "0-14", "15-44", "45+"),
+  pop      = c(5000, 8000, 7000, 8000, 7000, 3000),
+  deaths   = c(5, 16, 70, 8, 14, 33)
+)
+
+d <- d |> 
+  mutate(                                                 # age specific death rate per 1000 population
+  rate = (deaths/pop)*1000
+)
+d
+
+# crude death rates by are
+d |>
+  group_by(area) |>
+  summarise(crude_rate = (sum(deaths)/sum(pop))*1000)       # area specific death rate per 1000 population
+
+# 9.5 Direct stadardization
+weights <- tibble(
+  age_grp  = c("0-14", "15-44", "45+"),
+  w          = c(0.30, 0.40, 0.30)
+)
+weights
+
+d |>
+  left_join(weights, by="age_grp") |>
+  group_by(area) |> 
+  summarise(
+    crude     = (sum(deaths)/sum(pop)) *1000,
+    adjusted  = sum(rate*w)
+  )
+
+
+
 
 
 
