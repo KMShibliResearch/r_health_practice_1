@@ -35,11 +35,18 @@ total_pop <- 60000
 crude_death_rate <- (death_people/total_pop)*1000            # per 1000 population
 crude_death_rate
 
+# 9.3 comparing the exposed and unexposed: 
+rate_exp <- (30/2000)*1000                                   # case rate for exposed group
+rate_unexp <- (12/3000)*1000                                 # case rate for unexposed group
 
+rate_exp
+rate_unexp
 
+inc_rate_ratio <- rate_exp/rate_unexp                        # incidence rate ratio
+inc_rate_ratio
 
-
-
+inc_rate_diff <- rate_exp - rate_unexp                       # incidence rate difference
+inc_rate_diff
 
 
 
