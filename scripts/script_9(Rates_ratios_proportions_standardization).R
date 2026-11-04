@@ -84,20 +84,23 @@ d |>
     adjusted  = sum(rate*w)
   )
 
+# 9.6 Indirect standardizations
+ref_rate <- c(1,2,10)/1000      # reference rates (Area A's, per person)
+ref_rate
 
+pop_B <- c(8000, 7000, 3000)
+pop_B
 
+expected <- sum(ref_rate*pop_B)
+expected
 
+observed <- 55 
 
+SMR <- observed/expected
+SMR
 
-
-
-
-
-
-
-
-
-
+conf_int_smr <- poisson.test(55, 52)
+conf_int_smr
 
 
 
