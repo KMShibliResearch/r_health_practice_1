@@ -102,8 +102,12 @@ SMR
 conf_int_smr <- poisson.test(55, 52)
 conf_int_smr
 
+# 9.7 Using packages for rates with confidence interval
+install.packages(c("epitools", "epiR"))
+library(epitools)
 
-
+# exact poisson 95% CI for a rate: x events, person-time pt
+pois.exact(x = 25, pt = 1250, conf.level = 0.95)
 
 
 
