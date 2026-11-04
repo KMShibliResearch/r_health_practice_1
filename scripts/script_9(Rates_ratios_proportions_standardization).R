@@ -121,5 +121,3 @@ pois.exact(x = 25, pt = 1250, conf.level = 0.95)
 
 
 
-
-
