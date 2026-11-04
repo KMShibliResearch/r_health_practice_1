@@ -110,6 +110,97 @@ library(epitools)
 pois.exact(x = 25, pt = 1250, conf.level = 0.95)
 
 
+# ------------------------------- Exercises 9-------------------------------
+# 1. In a village of 4,000 people, 64 new TB cases occurred in one year. Calculate the incidence per 100,000.
+vill_new_TB_cases <- 64
+pop_at_risk_with_TB <- 4000
+
+TB_incidence_rate <- (vill_new_TB_cases/pop_at_risk_with_TB)*100000                     # per 100000 pop at risk
+TB_incidence_rate
+
+# 2. A hospital recorded 14 deaths among 280 cholera patients. What is the CFR(Case Fatality Rate)?
+no_of_deaths_from_cholera <- 14
+no_of_cases_from_cholera <- 270
+
+case_fatality_rate_cholera <- (no_of_deaths_from_cholera/no_of_cases_from_cholera)*100  # per 100 cases
+case_fatality_rate_cholera
+# 3. Smokers: 40 cases in 5000 person-years. Non-smokers: 10 cases in 4000 person-years.
+#    Compute the rate ratio and rate difference per 1000 person-years.
+smoker_cases <- 40
+smoker_person_year <- 5000
+smoker_exposed_rate <- (smoker_cases/smoker_person_year)*1000
+smoker_exposed_rate
+
+nonsmoker_cases <- 10
+nonsmoker_person_year <- 4000
+non_smoker_unexposed_rate <- (nonsmoker_cases/nonsmoker_person_year)*1000
+non_smoker_unexposed_rate
+
+smoking_rate_ratio <- smoker_exposed_rate/non_smoker_unexposed_ratea
+smoking_rate_ratio
+
+smoking_rate_diff <- smoker_exposed_rate - non_smoker_unexposed_rate
+smoking_rate_diff
+
+# 9.5 Direct stadardization
+weights <- tibble(
+  age_grp  = c("0-14", "15-44", "45+"),
+  w          = c(0.30, 0.40, 0.30)
+)
+weights
+
+d |>
+  left_join(weights, by="age_grp") |>
+  group_by(area) |> 
+  summarise(
+    crude     = (sum(deaths)/sum(pop)) *1000,
+    adjusted  = sum(rate*w)
+  )
+
+# 4. Using the standard weights in 9.5, compute the age-standardized rate for a new area C
+#    with age-specific rates of 2, 3 and 12 per 1000. 
+weights <- tibble(
+  age_grp  = c("0-14", "15-44", "45+"),
+  w        = c(0.30, 0.40, 0.30)
+)
+weights
+
+area_c <- tibble(
+  age_grp  = c("0-14", "15-44", "45+"),
+  rate_c    = c(2, 3, 12)
+)
+area_c
+
+area_c |> left_join(weights, by="age_grp") |> 
+  summarise(
+  sum(adjusted_rate_c = rate_c*w)
+  )
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
