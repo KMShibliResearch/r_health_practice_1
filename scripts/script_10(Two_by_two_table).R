@@ -18,10 +18,12 @@ odds_ratio_OR <- (a*d)/(b*c)
 attr_factor <- (risk_ratio_RR-1)/risk_ratio_RR
 
 
+# 10.3 Confidence interval with hand
+SE_ln_RR <- sqrt(1/a - 1/(a+b) + 1/c - 1/(c+d))
+exp(log(risk_ratio_RR) + c(-1.96, 1.96)*SE_ln_RR)
 
-
-
-
+SE_ln_OR <- sqrt(1/a + 1/b + 1/c + 1/d)
+exp(log(odds_ratio_OR) + c(-1.96, 1.96)*SE_ln_OR)
 
 
 
