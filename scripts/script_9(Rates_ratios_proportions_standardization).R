@@ -27,7 +27,8 @@ incidence_rate
 n_of_deaths <- 18
 n_of_cases <- 360
 
-case_fatality <- (n_of_deaths/n_of_deaths)*100               # per 100 or percent
+case_fatality <- (n_of_deaths/n_of_cases)*100               # per 100 or percent
+case_fatality
 
 # Crude death rate: 480 deaths in 60,000 people
 death_people <- 480
@@ -99,7 +100,7 @@ observed <- 55
 SMR <- observed/expected
 SMR
 
-conf_int_smr <- poisson.test(55, 52)
+conf_int_smr <- poisson.test(observed, expected)
 conf_int_smr
 
 # 9.7 Using packages for rates with confidence interval
