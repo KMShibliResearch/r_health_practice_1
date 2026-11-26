@@ -57,12 +57,20 @@ SE_ln_OR_2 <- sqrt(1/a_2 + 1/b_2 + 1/c_2 + 1/d_2)
 CI_95_OR_2 <- exp(log(odds_ratio_OR_2) +c(-1.96, 1.96)*SE_ln_OR_2)
 CI_95_OR_2
 
+# 10.7 Making 2x2 table from a data frame
+# epitools
+library(epitools)
+riskratio(matrix_table)
+oddsratio(matrix_table)
+
+# ---------------------------- Exercise 10 ----------------------------
+# 1. A cohort: 80 children drank untreated water, 20 became ill; 120 drank treated water, 6 became ill. Compute the risks, RR, OR and an approximate 95% CI for the RR. 
 
 
+# 2. Make the table as a matrix and run chisq.test() . Check $expected . Page 46 of 161 R for Public Health, Epidemiology, Environment and GIS: From Absolute Beginner to Advanced 
 
 
-
-
+# 3. A case-control study: 30 cases (24 exposed), 90 controls (36 exposed). Compute the OR. 
 
 
 
