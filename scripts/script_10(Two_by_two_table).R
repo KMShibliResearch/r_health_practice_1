@@ -25,11 +25,19 @@ exp(log(risk_ratio_RR) + c(-1.96, 1.96)*SE_ln_RR)
 SE_ln_OR <- sqrt(1/a + 1/b + 1/c + 1/d)
 exp(log(odds_ratio_OR) + c(-1.96, 1.96)*SE_ln_OR)
 
+# 10.4 Chi-square test
+matrix_table <- matrix(
+  c(30, 20, 6, 44),
+  nrow = 2,
+  byrow = TRUE,
+  dimnames = list(
+    Salad = c("Ate", "Did not eat"),
+    Outcome = c("Ill", "Well")
+  )
+)
+matrix_table
 
-
-
-
-
+chisq.test(matrix_table)
 
 
 
